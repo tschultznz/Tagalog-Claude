@@ -1,0 +1,49 @@
+# PoC fixture: the exact item under test + the Glossika-linked contrast partner.
+# Conforms to srs/item_schema.json#/$defs/review_item.
+review_items:
+  - id: item.health.dapat_magpatingin
+    intent_en: "Say you should go get yourself looked at (see a doctor) — now, not scheduled."
+    target_tl: "Dapat akong magpatingin."
+    acceptable_tl: ["Kailangan kong magpatingin.", "Dapat akong magpatingin sa doktor."]
+    gloss_note: "magpa- causative: have a doctor examine you. Base form after dapat."
+    skill_ids:
+      - skill.modal.base_form
+      - skill.voice.actor
+      - skill.clitic.second_position
+      - skill.causative.magpa
+      - skill.lex.health
+    scene_ids: [scene.health.clinic]
+    modality: production
+    status: learning
+    priority: HIGH
+    hint_levels: [intent_only, contrast_label, root_family]
+    naturalness: natural
+    register: neutral
+    source:
+      kind: module_anchor
+      module: "61"
+      glossika_anchor_ids: []
+    srs: { stability: 3.0, difficulty: 6.0, last_review: 2026-06-20, due: 2026-06-23, reps: 4, lapses: 2 }
+
+  # Glossika-linked contrast partner (corpus line 282), per corpus/corpus_mapping_spec.md section 7.
+  - id: item.service.tatawagan_ko_bukas
+    intent_en: "Say you'll call her tomorrow (no modal -> contemplated IS correct here)."
+    target_tl: "Tatawagan ko siya bukas."
+    acceptable_tl: ["Tatawagan ko na lang siya bukas."]
+    gloss_note: "Contrast partner: contemplated 'tatawagan' is correct because there is NO modal. With a modal it would be base: 'Dapat ko siyang tawagan.'"
+    skill_ids:
+      - skill.aspect.contemplated
+      - skill.voice.patient
+      - skill.clitic.second_position
+    scene_ids: [scene.service.followup]
+    modality: production
+    status: active
+    priority: MED
+    hint_levels: [intent_only, contrast_label]
+    naturalness: natural
+    register: neutral
+    source:
+      kind: corpus
+      module: "51"
+      glossika_anchor_ids: [282]
+    srs: { stability: 7.0, difficulty: 4.0, last_review: 2026-06-16, due: 2026-06-23, reps: 5, lapses: 0 }

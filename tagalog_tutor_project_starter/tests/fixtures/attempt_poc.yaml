@@ -1,0 +1,27 @@
+# PoC fixture: the evaluator's output for Tom's real error, on 2026-06-23.
+# This is what tutor/evaluation_rubric.md produces; the scheduler consumes the credit_vector.
+# Conforms to srs/item_schema.json#/$defs/attempt (evaluation block).
+id: att.2026-06-23.0001
+ts: 2026-06-23T08:30:00
+ref: { item_id: item.health.dapat_magpatingin, modality: production }
+prompt_shown: "Say you should go get yourself looked at (see a doctor)."
+hint_level_used: none
+response_tl: "Dapat akong magpapatingin."
+latency_sec: 14
+evaluation:
+  meaning_ok: true
+  register_ok: true
+  naturalness: understandable
+  credit_vector:
+    - { skill_id: skill.causative.magpa,        outcome: pass }
+    - { skill_id: skill.voice.actor,            outcome: pass }
+    - { skill_id: skill.clitic.second_position, outcome: pass }
+    - { skill_id: skill.lex.health,             outcome: pass }
+    - { skill_id: skill.modal.base_form,        outcome: fail }
+    - { skill_id: skill.aspect.contemplated,    outcome: fail }
+  error_tags: [aspect.future_overmark_after_modal]
+  corrected_tl: "Dapat akong magpatingin."
+  one_line_reason: "After dapat, keep the verb in base form — dapat already carries the 'should' sense."
+spawned_items:
+  - item.contrast.dapat_base_vs_contemplated   # created by the fail (spawns_contrast: yes)
+xp_events: []   # no XP: a hinted/failed attempt earns nothing; a delayed-recall WIN on voice.actor does (see test)

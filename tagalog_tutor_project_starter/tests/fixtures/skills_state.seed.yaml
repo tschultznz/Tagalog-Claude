@@ -1,0 +1,55 @@
+# PoC fixture: seed skill state just before the magpatingin attempt on 2026-06-23.
+# Dates chosen to align with current/progress.txt where possible. Conforms to
+# srs/item_schema.json#/$defs/skill (production-modality srs_state shown).
+# Numbers are the INPUT to the scheduler; expected OUTPUTS are asserted in test_poc_flow.py.
+skills:
+  - id: skill.voice.actor
+    label_practical: "ako-track: I do the action"
+    label_linguistic: "actor/agent voice"
+    type: voice
+    priority: HIGH
+    status: active
+    production: { stability: 8.0, difficulty: 4.0, last_review: 2026-06-14, due: 2026-06-22, reps: 6, lapses: 1 }
+
+  - id: skill.clitic.second_position
+    label_practical: "ako/ko/na/pa/po come right after dapat/hindi (with -ng)"
+    label_linguistic: "second-position (Wackernagel) enclitics + linker"
+    type: clitic
+    priority: HIGH
+    status: learning
+    production: { stability: 5.0, difficulty: 5.0, last_review: 2026-06-18, due: 2026-06-23, reps: 4, lapses: 1 }
+
+  - id: skill.causative.magpa
+    label_practical: "magpa-: have something done to/for yourself (see a doctor)"
+    label_linguistic: "magpa- causative"
+    type: causative
+    priority: MED
+    status: active
+    production: { stability: 6.0, difficulty: 5.0, last_review: 2026-06-14, due: 2026-06-20, reps: 5, lapses: 0 }
+
+  - id: skill.lex.health
+    label_practical: "health/body vocabulary (ubo, lagnat, masakit)"
+    label_linguistic: "lexical: health domain"
+    type: lexical
+    priority: LOW
+    status: active
+    production: { stability: 4.0, difficulty: 5.0, last_review: 2026-06-20, due: 2026-06-24, reps: 3, lapses: 0 }
+
+  - id: skill.modal.base_form
+    label_practical: "base verb form after dapat/kailangan/gusto/puwede"
+    label_linguistic: "infinitive/basic aspect under a modal predicate"
+    type: modal
+    priority: HIGH
+    status: learning
+    confusable_with: [skill.aspect.contemplated]
+    humility_note: "Teaching rule, not absolute law: aspect can co-occur with dapat in some natural speech. Never assert the strong claim."
+    production: { stability: 3.0, difficulty: 6.0, last_review: 2026-06-20, due: 2026-06-23, reps: 4, lapses: 2 }
+
+  - id: skill.aspect.contemplated
+    label_practical: "contemplated/'will' form (magpapatingin, bibili) — correct WITHOUT a modal"
+    label_linguistic: "contemplated aspect (CV-reduplication, irrealis)"
+    type: aspect
+    priority: MED
+    status: learning
+    confusable_with: [skill.modal.base_form]
+    production: { stability: 2.0, difficulty: 6.0, last_review: 2026-06-19, due: 2026-06-23, reps: 3, lapses: 1 }
