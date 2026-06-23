@@ -1,0 +1,253 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://tom-tagalog-tutor/srs/item_schema.json",
+  "title": "Tom Tagalog Tutor — core data schema (planning draft v0.1)",
+  "description": "Single source of truth for the file-based learner model. Referenced by learner/model_spec.md, srs/scheduling_spec.md, tutor/evaluation_rubric.md, curriculum/skill_graph_spec.md, corpus/corpus_mapping_spec.md. JSON here; on disk, structured state is YAML and append-only logs are JSONL with one object per line matching $defs.attempt / $defs.session.",
+  "type": "object",
+  "$defs": {
+    "modality": {
+      "type": "string",
+      "enum": ["production", "recognition", "listening"],
+      "description": "Distinct retrieval modes, tracked separately. Stability cannot reach 'stable' on recognition alone."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["new", "learning", "active", "stable", "lapsed", "leech", "suspended"],
+      "description": "leech = repeated failure (>=4 lapses): stop tightening, flag for redesign. lapsed = was stable, failed a delayed retrieval."
+    },
+    "priority": { "type": "string", "enum": ["HIGH", "MED", "LOW"] },
+    "srs_state": {
+      "type": "object",
+      "description": "FSRS-lite state for one schedulable unit in one modality. Math in srs/scheduling_spec.md.",
+      "required": ["stability", "difficulty", "last_review", "due", "reps", "lapses"],
+      "properties": {
+        "stability": { "type": "number", "minimum": 0, "description": "S, days for retrievability to fall 1.0 -> target_retention." },
+        "difficulty": { "type": "number", "minimum": 1, "maximum": 10, "description": "D, learner-specific item hardness; mean-reverts toward 5." },
+        "last_review": { "type": "string", "format": "date" },
+        "due": { "type": "string", "format": "date" },
+        "reps": { "type": "integer", "minimum": 0 },
+        "lapses": { "type": "integer", "minimum": 0 },
+        "last_retrievability": { "type": "number", "minimum": 0, "maximum": 1, "description": "R computed at the most recent review, stored for audit." },
+        "scheduler_version": { "type": "string", "description": "e.g. 'fsrs-lite-0.1' — which constant set produced this state." }
+      }
+    },
+    "modality_state": {
+      "type": "object",
+      "description": "Map modality -> srs_state. A skill or item may be scheduled in 1..3 modalities.",
+      "properties": {
+        "production": { "$ref": "#/$defs/srs_state" },
+        "recognition": { "$ref": "#/$defs/srs_state" },
+        "listening": { "$ref": "#/$defs/srs_state" }
+      },
+      "additionalProperties": false
+    },
+    "skill_id": {
+      "type": "string",
+      "pattern": "^skill\\.[a-z0-9_.]+$",
+      "description": "Linguistically precise internal id even when the teaching surface is practical. e.g. skill.voice.actor, skill.modal.base_form, skill.clitic.second_position, skill.causative.magpa, skill.aspect.contemplated, skill.register.po, skill.register.taglish, skill.lex.health."
+    },
+    "scene_id": { "type": "string", "pattern": "^scene\\.[a-z0-9_.]+$" },
+    "item_id": { "type": "string", "pattern": "^item\\.[a-z0-9_.]+$" },
+    "skill": {
+      "type": "object",
+      "description": "Node in the skill graph. The durable mastery layer.",
+      "required": ["id", "label_practical", "label_linguistic", "type", "modality_state", "status"],
+      "properties": {
+        "id": { "$ref": "#/$defs/skill_id" },
+        "label_practical": { "type": "string", "description": "How it is taught, e.g. 'ako-track: I do the action'." },
+        "label_linguistic": { "type": "string", "description": "Honest label, e.g. 'actor/agent voice'." },
+        "type": { "type": "string", "enum": ["voice", "aspect", "clitic", "causative", "modal", "linker", "negation", "particle", "register", "lexical", "scene_glue"] },
+        "prerequisites": { "type": "array", "items": { "$ref": "#/$defs/skill_id" } },
+        "introduced_in_modules": { "type": "array", "items": { "type": "string" } },
+        "reviewed_in_modules": { "type": "array", "items": { "type": "string" } },
+        "priority": { "$ref": "#/$defs/priority" },
+        "modality_state": { "$ref": "#/$defs/modality_state" },
+        "status": { "$ref": "#/$defs/status" },
+        "mastery_evidence": {
+          "type": "object",
+          "description": "Gates for 'stable'. All must be true (see scheduling_spec mastery rule).",
+          "properties": {
+            "unaided_delayed_production": { "type": "boolean" },
+            "scene_use": { "type": "boolean" },
+            "listening_check": { "type": "boolean" },
+            "variation_handled": { "type": "boolean" }
+          }
+        },
+        "confusable_with": { "type": "array", "items": { "$ref": "#/$defs/skill_id" }, "description": "Drives interleaving." },
+        "teaching_note_ref": { "type": "string", "description": "Pointer into language/*.yaml; keeps evaluation logic out of prose." }
+      }
+    },
+    "review_item": {
+      "type": "object",
+      "description": "An exact item (high-value chunk/contrast). Scarce and promotion-gated to avoid card explosion.",
+      "required": ["id", "intent_en", "target_tl", "skill_ids", "modality", "srs", "status", "source"],
+      "properties": {
+        "id": { "$ref": "#/$defs/item_id" },
+        "intent_en": { "type": "string", "description": "Meaning Tom must express; shown as the prompt (production-first)." },
+        "target_tl": { "type": "string", "description": "Primary natural spoken target." },
+        "acceptable_tl": { "type": "array", "items": { "type": "string" }, "description": "Other correct/natural variants." },
+        "gloss_note": { "type": "string" },
+        "skill_ids": { "type": "array", "items": { "$ref": "#/$defs/skill_id" }, "minItems": 1 },
+        "scene_ids": { "type": "array", "items": { "$ref": "#/$defs/scene_id" } },
+        "modality": { "$ref": "#/$defs/modality" },
+        "srs": { "$ref": "#/$defs/srs_state" },
+        "status": { "$ref": "#/$defs/status" },
+        "priority": { "$ref": "#/$defs/priority" },
+        "hint_levels": {
+          "type": "array",
+          "description": "Ordered, fading. Each used level is priced into scheduling.",
+          "items": { "type": "string", "enum": ["intent_only", "slot_hint", "root_family", "contrast_label", "scaffold_full"] }
+        },
+        "naturalness": { "type": "string", "enum": ["natural", "neutral", "stilted_corpus"], "default": "natural" },
+        "register": { "type": "string", "enum": ["casual", "neutral", "po", "taglish"], "default": "neutral" },
+        "source": {
+          "type": "object",
+          "properties": {
+            "kind": { "type": "string", "enum": ["module_anchor", "corpus", "learner_error", "tutor_authored"] },
+            "module": { "type": "string" },
+            "glossika_anchor_ids": { "type": "array", "items": { "type": "integer" }, "description": "Line numbers in corpus/tagalog_sentences.txt (immutable)." }
+          }
+        },
+        "spawned_by_attempt": { "type": "string", "description": "attempt id, if this item was created from an error." }
+      }
+    },
+    "scene": {
+      "type": "object",
+      "description": "Applied competence / transfer test. 'boss' scenes are graded milestones.",
+      "required": ["id", "label", "domain", "component_skill_ids", "srs", "status"],
+      "properties": {
+        "id": { "$ref": "#/$defs/scene_id" },
+        "label": { "type": "string" },
+        "domain": { "type": "string", "enum": ["transport", "shopping", "home", "food", "health", "errands", "service", "family", "social", "self_intro", "daily_recap", "mixed"] },
+        "register": { "type": "string", "enum": ["casual", "neutral", "po", "taglish", "mixed"] },
+        "component_skill_ids": { "type": "array", "items": { "$ref": "#/$defs/skill_id" }, "minItems": 1 },
+        "success_criteria": { "type": "string" },
+        "is_boss": { "type": "boolean", "default": false },
+        "srs": { "$ref": "#/$defs/srs_state" },
+        "status": { "$ref": "#/$defs/status" }
+      }
+    },
+    "credit_outcome": {
+      "type": "string",
+      "enum": ["pass", "pass_hinted", "fail", "partial", "n/a"],
+      "description": "Per-skill result of a single attempt (partial credit). Maps to a scheduler grade in scheduling_spec."
+    },
+    "error_tag": {
+      "type": "string",
+      "enum": [
+        "meaning.wrong_core",
+        "scene.unnatural",
+        "clitic.placement",
+        "voice.actor_target_mismatch",
+        "aspect.error",
+        "aspect.future_overmark_after_modal",
+        "linker.error",
+        "negation.error",
+        "particle.meaning",
+        "lexical.substitution",
+        "register.inappropriate",
+        "spelling.only",
+        "signal.hesitation",
+        "signal.hint_dependence",
+        "signal.comprehension_without_production"
+      ],
+      "description": "Practical taxonomy. severity + correction-priority + spawns_contrast defined in tutor/evaluation_rubric.md."
+    },
+    "attempt": {
+      "type": "object",
+      "description": "Append-only log line (learner/attempt_log.jsonl). The atomic learning event; nothing is mastered outside this log.",
+      "required": ["id", "ts", "ref", "prompt_shown", "response_tl", "evaluation"],
+      "properties": {
+        "id": { "type": "string" },
+        "ts": { "type": "string", "format": "date-time" },
+        "ref": {
+          "type": "object",
+          "description": "What was practiced.",
+          "properties": {
+            "item_id": { "$ref": "#/$defs/item_id" },
+            "scene_id": { "$ref": "#/$defs/scene_id" },
+            "modality": { "$ref": "#/$defs/modality" }
+          }
+        },
+        "prompt_shown": { "type": "string" },
+        "hint_level_used": { "type": "string", "enum": ["none", "intent_only", "slot_hint", "root_family", "contrast_label", "scaffold_full"] },
+        "response_tl": { "type": "string", "description": "Verbatim learner production (kept raw; errorful attempts are valuable)." },
+        "latency_sec": { "type": "number", "description": "Optional; confidence/automaticity signal." },
+        "evaluation": {
+          "type": "object",
+          "required": ["meaning_ok", "credit_vector", "error_tags"],
+          "properties": {
+            "meaning_ok": { "type": "boolean" },
+            "register_ok": { "type": "boolean" },
+            "naturalness": { "type": "string", "enum": ["natural", "understandable", "awkward", "unintelligible"] },
+            "credit_vector": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": ["skill_id", "outcome"],
+                "properties": {
+                  "skill_id": { "$ref": "#/$defs/skill_id" },
+                  "outcome": { "$ref": "#/$defs/credit_outcome" }
+                }
+              }
+            },
+            "error_tags": { "type": "array", "items": { "$ref": "#/$defs/error_tag" } },
+            "corrected_tl": { "type": "string" },
+            "one_line_reason": { "type": "string" }
+          }
+        },
+        "scheduler_updates": {
+          "type": "array",
+          "description": "Audit trail: before/after S,D,due for each affected unit.",
+          "items": {
+            "type": "object",
+            "properties": {
+              "unit_id": { "type": "string" },
+              "modality": { "$ref": "#/$defs/modality" },
+              "before": { "$ref": "#/$defs/srs_state" },
+              "after": { "$ref": "#/$defs/srs_state" },
+              "grade": { "type": "string", "enum": ["again", "hard", "good", "easy"] }
+            }
+          }
+        },
+        "spawned_items": { "type": "array", "items": { "$ref": "#/$defs/item_id" } },
+        "xp_events": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "session": {
+      "type": "object",
+      "description": "Append-only log line (learner/session_log.jsonl).",
+      "required": ["id", "date", "selected", "summary"],
+      "properties": {
+        "id": { "type": "string" },
+        "date": { "type": "string", "format": "date" },
+        "current_module": { "type": "string" },
+        "selected": {
+          "type": "object",
+          "properties": {
+            "due_items": { "type": "array", "items": { "$ref": "#/$defs/item_id" } },
+            "new_items": { "type": "array", "items": { "$ref": "#/$defs/item_id" } },
+            "scene": { "$ref": "#/$defs/scene_id" },
+            "listening_micro": { "type": "string" }
+          }
+        },
+        "summary": {
+          "type": "object",
+          "properties": {
+            "attempts": { "type": "integer" },
+            "unaided_passes": { "type": "integer" },
+            "lapses": { "type": "integer" },
+            "skills_updated": { "type": "array", "items": { "$ref": "#/$defs/skill_id" } },
+            "xp_awarded": { "type": "integer" },
+            "progress_note": { "type": "string", "description": "Concise human-readable state update." }
+          }
+        }
+      }
+    }
+  },
+  "properties": {
+    "skills": { "type": "array", "items": { "$ref": "#/$defs/skill" } },
+    "review_items": { "type": "array", "items": { "$ref": "#/$defs/review_item" } },
+    "scenes": { "type": "array", "items": { "$ref": "#/$defs/scene" } }
+  }
+}
