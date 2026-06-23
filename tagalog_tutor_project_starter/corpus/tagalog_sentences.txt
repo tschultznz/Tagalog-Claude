@@ -1,0 +1,1519 @@
+Glossika Tagalog Library - English to Tagalog Sentences
+=======================================================
+
+1. How old are you? — Ilang taong gulang ka na?
+2. The birds will eat it. — Kakainin yan ng mga ibon.
+3. There's something in my eye. — May puwing sa aking mata.
+4. Here, have some candy. — Heto, kumuha ka ng kendi.
+5. Are you waiting for John? — Inaabangan mo ba si John?
+6. He can't decide. — Hindi siya makapagpasiya.
+7. I'm going to be late. — Tiyak na mahuhuli na ako.
+8. He plays the piano. — Tumutugtog siya ng pyano.
+9. It isn't snowing. — Hindi nagniniyebe ngayon.
+10. Don't be late. — Huwag kang mahuhuli.
+11. I'm listening to music. — Nakikinig ako sa musika.
+12. Are you ready? — Handa ka na ba?
+13. There isn't any room. — Wala nang lugar.
+14. Not at all. — Walang problema.
+15. I'm going to walk. — Maglalakad ako.
+16. Let's go out. — Tara, lumabas tayo.
+17. Just this morning. — Kaninang umaga lang.
+18. What time are you leaving? — Anong oras ka aalis?
+19. It won't happen again. — Hindi na ito mauulit.
+20. It isn't raining right now. — Hindi umuulan ngayon.
+21. They don't have any children. — Wala silang mga anak.
+22. What do you need? — Ano ang kailangan mo?
+23. Is Oliver here? — Nandito ba si Oliver?
+24. Do you want a chair? — Gusto mo ba ng upuan?
+25. It's very late. — Lumalalim na ang gabi.
+26. I'm not sure. — Hindi ko pa sigurado.
+27. I don't have the key. — Wala sa akin ang susi.
+28. Don't fall! — Huwag kang malalaglag.
+29. I'm not watching it. — Hindi na ako nanunuod.
+30. They never go out. — Hindi sila lumalabas.
+31. Your English is good. — Magaling ka mag-Ingles.
+32. Sorry I'm late. — Patawad at nahuli ako.
+33. Where's your friend? — Nasaan ang kaibigan mo?
+34. He has a new job. — May bago siyang trabaho.
+35. Who are you waiting for? — Sino ang inaabangan mo?
+36. My hands are cold. — Malamig ang aking kamay.
+37. Do you know many people? — Marami ka bang kakilala?
+38. Are there any problems? — Mayroon bang problema?
+39. Have a good trip. — Maligayang paglalakbay.
+40. There's no one living there. — Walang naninirahan doon.
+41. I'm going to wash my hands. — Maghuhugas ako ng kamay.
+42. She isn't having dinner. — Hindi siya maghahapunan.
+43. Let's not go out. — Huwag na tayong lumabas.
+44. Do you understand me? — Naiintindihan mo ba ako?
+45. Are you listening to me? — Nakikinig ka ba sa akin?
+46. He's waiting for a bus. — Naghihintay siya ng bus.
+47. It's hot in this room. — Mainit sa kuwarto na ito.
+48. Do you remember that day? — Naaalala mo ba yung araw?
+49. Does he eat fish? — Kumakain ba siya ng isda?
+50. Where are the children? — Nasaan ang mga bata?
+51. You speak English very well. — Mahusay kang magsalita ng Ingles.
+52. What time do you have to get up? — Anong oras mo kailangan gumising?
+53. Some cities are not safe. — May mga lungsod na hindi ligtas.
+54. I have to go now. — Kailangan ko nang umalis ngayon.
+55. I can play the piano. — Marunong ako tumugtog ng piyano.
+56. He's going out in the afternoon for sure. — Siguradong lalabas siya sa hapon.
+57. What are you doing tonight? — Ano ang gagawin mo mamayang gabi?
+58. There's a hair in my soup. — May pirasong buhok sa aking sabaw.
+59. When does he have to go? — Kailan niya kailangang pumunta?
+60. Shall I wait here? — Dapat ba akong maghintay dito?
+61. Are you doing anything this evening? — May gagawin ka ba ngayong gabi?
+62. No, let's watch a movie. — Hindi, manood tayo ng pelikula.
+63. I'm staying at home this evening. — Sa bahay lang ako ngayong gabi.
+64. I don't do it very often. — Hindi ko ito madalas ginagawa.
+65. It's late, and you're very tired. — Gabi na, at ikaw ay pagod na.
+66. Does he wash windows? — Naghuhugas ba siya ng bintana?
+67. You don't work hard enough. — Kulang ka sa sipag magtrabaho.
+68. What shall we have for dinner? — Ano kakainin natin sa hapunan?
+69. Are you thirsty? — Yes, I am. — Uhaw ka ba? — Oo nauuhaw ako.
+70. Can you ride a horse? — Kaya mo bang sumakay sa kabayo?
+71. Let's stay home. — Manatili na lang tayo sa bahay.
+72. You don't work very hard. — Hindi ka masipag magtrabaho.
+73. Do you always have breakfast? — Palagi ka bang nag-aalmusal?
+74. No, you're on time. — Hindi, nasa takdang oras ka.
+75. I don't believe you. — Hindi ako naniniwala sa iyo.
+76. Be here on time. — Dumating ka sa takdang oras.
+77. What kind of car does she have? — Anong kotse ang mayroon niya?
+78. I have to wear glasses. — Kailangan ko nang magsalamin.
+79. Where can I find Oliver? — Saan ko mahahanap si Oliver?
+80. I can't open the door. — Hindi ko mabuksan ang pintuan.
+81. Is your mother at home? — Nasa bahay ba ang iyong nanay?
+82. I can't work here. — Hindi ko kaya magtrabaho dito.
+83. It's raining again. — Is it? — Umuulan na naman. — Talaga?
+84. Are you feeling all right? — Mabuti ba ang pakiramdam mo?
+85. You can't drive. — Hindi ka puwedeng magmaneho.
+86. What do you have in your bag? — Ano ang laman ng iyong bag?
+87. I know her very well. — Kilalang-kilala ko na siya.
+88. Is she driving a bus? — Minamaneho ba niya ang bus?
+89. Just last week. — Noong dumaan lang na linggo.
+90. He has to work. — Kailangan niyang magtrabaho.
+91. I can't eat this. — Hindi ko kayang kainin ito.
+92. She watches it every night. — Gabi-gabi siyang nanonood.
+93. Look at the sky! — Tignan mo ang kalangitan!
+94. May I ask a question? — Maaari ba akong magtanong?
+95. Does she go out often? — Madalas ba siyang lumabas?
+96. Let's get something to drink. — Maghanap tayo ng maiinom.
+97. Do you believe me? — Naniniwala ka ba sa akin?
+98. They're at home all the time. — Palagi silang nasa bahay.
+99. Come here and look at this. — Halika at tignan mo ito.
+100. I have blue eyes. — Kulay asul ang aking mata.
+101. Hot weather makes me feel tired. — Nakakapagod sa akin ang mainit na panahon.
+102. I'm not going to have breakfast this morning. — Hindi ako mag-aalmusal ngayong umaga.
+103. I have to get up early tomorrow. — Kailangan kong gumising ng maaga bukas.
+104. I have to be home by five o'clock. — Kailangan kong makauwi ng alas singko.
+105. Shall I put some music on? — Dapat ba akong magpatugtog ng musika?
+106. I have to study tonight. — Kailangan kong mag-aral ngayong gabi.
+107. What time do the stores close? — Anong oras nagsasara ang mga tindahan?
+108. You can turn off the television. — Maaari mo nang patayin ang telebisyon.
+109. I always drink coffee in the morning. — Palagi akong umiinom ng kape sa umaga.
+110. You're late. — I am sorry. — Huli ka na. — Huli na ako? Paumanhin.
+111. Do you feel okay? — Yes, I do. — Ayos lang ba ang pakiramdam mo? — Oo.
+112. Let's try something different. — Ibahin naman natin ang ating susubukan.
+113. May I sit here? — Sure. — Maaari ba akong umupo dito? — Puwede.
+114. You watch TV all the time. — Lagi ka na lang nanonood ng telebisyon.
+115. Are you hungry? — No, I'm not hungry. — Gutom ka ba? — Hindi, hindi ako gutom.
+116. We don't have to leave now. — Hindi pa natin kailangang umalis ngayon.
+117. We have to get up early tomorrow. — Dapat tayong magising nang maaga bukas.
+118. She always gets to work early. — Palagi siyang maaga dumating sa trabaho.
+119. Her children drink a lot of milk. — Malakas uminom ng gatas ang mga anak niya.
+120. I have to go to the bank today. — Kailangan kong pumunta sa bangko ngayon.
+121. They're looking at their books. — Sila ay nakatingin sa mga libro nila.
+122. Is it dark now? — Yes, it is. — Madilim ba ngayon? — Oo, madilim na.
+123. Where do your parents live? — Saan nakatira ang mga magulang mo?
+124. I don't understand the problem. — Hindi ko naintindihan ang problema.
+125. What are you going to have for dinner? — Ano ang kakainin mo ngayong hapunan?
+126. I can't use my office right now. — Hindi ko magamit ang opisina ngayon.
+127. Does he live near here? — Malapit lang ba ang tirahan niya dito?
+128. I don't think I'll buy it. — Sa tingin ko hindi ko bibilhin ito.
+129. We have to go now. — Kailangan na namin umalis ngayon.
+130. I'm sorry, I don't understand. — Patawad po, hindi ko naintindihan.
+131. Is there a bank near here? — Mayroon bang malapit na bangko dito?
+132. I can't help feeling sorry for him. — Hindi ko mapigilang maawa sa kanya.
+133. There aren't any old buildings. — Walang makikitang mga lumang gusali.
+134. I have to do some work. — May kailangan akong gawing trabaho.
+135. I eat an orange every day. — Kumakain ako ng dalandan araw-araw.
+136. Am I late? — Yes, you are late. — Huli na ba ako? — Opo, huli ka na.
+137. I don't play the piano very well. — Hindi ako mahusay tumugtog sa pyano.
+138. Yes, I go to the movies a lot. — Oo, madalas akong pumunta sa sinehan.
+139. You're late. — No, I'm not. I'm early. — Nahuli ka. — Hindi. Ako ay maaga.
+140. No, don't wait for me. — Hindi, huwag mo na akong hintayin.
+141. What does your girlfriend do? — Ano ang ginagawa ng kasintahan mo?
+142. Does she have a car? — No, she doesn't. — Mayroon ba siyang kotse? — Wala.
+143. Are your children at school? — Nasa paaralan ba ang mga anak mo?
+144. What are you doing tomorrow afternoon? — Anong gagawin mo bukas ng hapon?
+145. He's not writing a letter. — Hindi siya nagsusulat ng liham.
+146. Can you drive a car? — Kaya mo bang magmaneho ng kotse?
+147. Don't buy those shoes. — Huwag mong bilhin yung sapatos.
+148. I'm not washing my hair. — Hindi ko hinugasan ang buhok ko.
+149. Do you have a camera? — No, I don't. — Mayroon ka bang kamera? — Wala.
+150. She eats a lot of fruit. — Kumakain siya ng maraming prutas.
+151. Both of us were very tired. — Pareho kaming pagod.
+152. It's a school. — Isa iyang paaralan.
+153. Why are you going out? — Bakit ka lalabas?
+154. You must be hungry. — Siguro gutom ka na.
+155. Who is that man? — Sino ang taong yan?
+156. Are you married? — May asawa ka na ba?
+157. These chairs are mine. — Akin ang mga silya.
+158. I'm not ready yet. — Hindi pa ako handa.
+159. None of it is mine. — Hindi iyan sa akin.
+160. I don't have anything to do. — Wala akong magawa.
+161. It's a nice day. — Maaliwalas ngayon.
+162. Theo got married. — Ikinasal si Theo.
+163. What are you interested in? — Ano ang interes mo?
+164. I didn't know that. — Hindi ko alam iyan.
+165. We had nothing to eat. — Wala kaming makain.
+166. Have you finished? — Tapos ka na ba?
+167. She's already started it. — Sinimulan na niya.
+168. What's your job? — Ano ang trabaho mo?
+169. We are good friends. — Magkaibigan kami.
+170. I'm a teacher. — Ako ay isang guro.
+171. There's too much noise. — Masyadong maingay.
+172. There wasn't enough time. — Kulang na sa oras.
+173. There are five people in my family: my parents, my two sisters, and me. — May limang tao sa aking pamilya: Ang aking magulang, dalawang kapatid na babae at ako.
+174. She's my sister. — Siya ang ate ko.
+175. There are none left. — Wala nang natira.
+176. There was nothing in it. — Wala itong lamina.
+177. Where were you last night? — Nasaan ka kagabi?
+178. Where did you stay? — Saan kayo tumira?
+179. Have you heard? — Narinig mo na ba?
+180. They've gone out. — Lumabas na sila.
+181. He wasn't going home. — Hindi siya pauwi.
+182. Why are you crying? — Bakit ka umiiyak?
+183. They are so nice. — Napakabait nila.
+184. I've made a mistake. — Nagkamali ako.
+185. He went home. — Umuwi na siya.
+186. It looks like it might rain. — Mukhang uulan.
+187. He's the boss. — Siya ang amo ko.
+188. Where's the bus stop? — At the stoplight. — Nasaan ang hintuan ng bus? — Diyan sa ilaw-trapiko.
+189. Your shoes are nice. Are they new? — Yes, they are new. — Maganda ang iyong mga sapatos. Bago ba iyan? — Opo, bago ito.
+190. No, I'm afraid not. — Naku, wala.
+191. Be careful! — Mag-ingat!
+192. I took a shower. — Naligo ako.
+193. What did she say? — Ano sabi niya?
+194. Have you seen it? — Nakita mo ba?
+195. You aren't tired, are you? — No, I feel fine. — Hindi ka pagod, hindi ba? — Hindi, ayos lang pakiramdam ko.
+196. Those shoes are nice, aren't they? — Yes, very nice. — Hindi ba't maganda ang mga sapatos na iyon? — Oo, magandang-maganda.
+197. How old are your children? — Five, seven, and ten. — Ilang taong gulang na ang mga anak mo? — Lima, pito, at sampung taong gulang na sila.
+198. Her parents wouldn't let her go out alone. — Hindi siya pinahihintulutang lumabas mag-isa ng mga magulang niya.
+199. I'll be at a new job two years from now. — Dalawang taon mula ngayon, ako ay mapupunta sa isang bagong trabaho.
+200. Are you watching TV? — No, you can turn it off. — Nanonood ka ba ng telebisyon? — Hindi, pwede mo nang patayin.
+201. It's been raining all day. — Buong araw nang umuulan.
+202. There have been a lot of changes. — Marami nang pagbabago.
+203. No, he hasn't got a dog. — Wala, wala siyang aso.
+204. Are you coming with me? — Sasama ka ba sa akin?
+205. I've made some coffee. — Nagtimpla ako ng kape.
+206. Do you have an umbrella? — Mayroon ka bang payong?
+207. He's a good swimmer. — Magaling siya lumangoy.
+208. Yes, at the end of the block. — Oo, sa dulo ng kalsada.
+209. Do you hate me? — Kinamumuhian mo ba ako?
+210. You should read it. — Dapat mong basahin ito.
+211. I could hear it raining. — Naririnig kong umuulan.
+212. I liked both. — Pareho ko silang gusto.
+213. The trees got cut down. — Pinuputol ang mga puno.
+214. She broke her arm. — Nabali ang braso niya.
+215. What time did he go? — Anong oras siya umalis?
+216. You've hardly changed! — Hindi ka halos nagbago.
+217. Have you been out in the rain? — Naabutan ka ba ng ulan?
+218. No, he's gone home. — Wala. Nakauwi na siya.
+219. I don't want to take the bus. — Ayokong sumakay ng bus.
+220. What are they called? — Ano ang tawag sa kanila?
+221. Have you ever spoken to her? — Nakausap mo na ba siya?
+222. My name's Alan. — Ang pangalan ko ay Alan.
+223. It was taken a long time ago. — Matagal na itong kinuha.
+224. He usually walks. — Madalas siyang maglakad.
+225. Do you like football? — Mahilig ka ba sa putbol?
+226. Can I have something to eat? — May makakain ba diyan?
+227. He was carrying a bag. — Nagbitbit siya ng bag.
+228. Is the sun shining? — Sumisikat ba ang araw?
+229. You should get it cleaned. — Dapat mo ito ipalinis.
+230. She met them last night. — Nagkita sila kagabi.
+231. The window's been broken. — Nabasag ang bintana.
+232. The story was so stupid. — Napakabobo ng kwento.
+233. I've already called him. — Natawagan ko na siya.
+234. Where has he gone? — Saan na siya pumunta?
+235. I'll see you tomorrow. — Magkikita tayo bukas.
+236. You must know him. — Kilala mo siya dapat.
+237. How is it pronounced? — Paano ba ito ibigkas?
+238. This coat is dirty. — Madumi na ang diyaket.
+239. She doesn't mind. — Hindi siya tumututol.
+240. Take an umbrella with you. — Magdala ka ng payong.
+241. You should sell it. — Dapat mong ibenta ito.
+242. She's gone to bed. — Natutulog na si Renee.
+243. What's your name? — Ano ang pangalan mo?
+244. Would you like some coffee? — Gusto mo ba ng kape?
+245. Where were you born? — Saan ka ipinanganak?
+246. You must be tired. — Malamang napagod ka.
+247. Theo's gotten married. — Ikinasal na si Theo.
+248. Each was different. — Bawat isa ay naiiba.
+249. You should go to bed. — Dapat matulog ka na.
+250. The window got broken. — Nabasag ang bintana.
+251. Sira ang makinang panlaba. — The washing machine was broken.
+252. Nanatili lang ako sa bahay. — I stayed at home.
+253. Ngayong umaga, naligo siya. — This morning he took a shower.
+254. Nagtanghalian ka ba ngayon? — Did you have lunch today?
+255. Mahilig ako sa paligsahan. — I like sports.
+256. Magkano ang dala mong pera? — How much money do you have with you?
+257. Bakit di ka na rin sumama? — Why don't you come too?
+258. Ano ang iyong bag? — What have you got in your bag?
+259. Maaaring magniyebe ngayon. — It might snow today.
+260. Ayaw kong lumabas sa ulan. — I don't want to go out in the rain.
+261. Bakit sila aalis ng maaga? — Why did they have to leave early?
+262. Siguro wala siya sa bahay. — She must not be at home.
+263. Paano nabasag ang bintana? — How did the window get broken?
+264. Umiikot ang mundo sa araw. — The earth goes around the sun.
+265. Nakasuot siya ng sumbrero. — He's wearing a hat.
+266. Sa London ako ipinanganak. — I was born in London.
+267. Mahilig ba sila sa musika? — Do they like music?
+268. Hindi ko dapat nasabi ito. — I shouldn't have said it.
+269. Lumipat sila sa Seattle. — They moved to Seattle.
+270. Hindi ako gutom kahapon. — I wasn't hungry yesterday.
+271. Ano ang gusto mong inumin? — What would you like to drink?
+272. Ano ang ibig mong sabihin? — What do you mean?
+273. Isa iyang magandang haka. — That's a good idea.
+274. Bakit ka sobrang nahuli? — Why were you so late?
+275. Nanood ako ng telebisyon. — I watched TV.
+276. Ililigpit ko iyan mamaya. — I'll clean it up later.
+277. Hindi, ayaw kong pumunta. — No, I don't want to go.
+278. Ang tagal kong naghintay. — I've been waiting for ages.
+279. Ikalulungkot kong umalis. — I'll be sorry to leave.
+280. Hindi sila magpapakasal. — They won't get married.
+281. Magdadala ako ng payong. — I'm going to take an umbrella with me.
+282. Tatawagan ko siya bukas. — I'll call her tomorrow.
+283. Lagi akong takot makagat. — I'm always afraid of getting bitten.
+284. Walang bukas na tindahan. — None of the stores were open.
+285. Gaano na katagal umuulan? — How long has it been raining?
+286. Matalas na matalas ito. — It's very sharp.
+287. Madaling makipagkaibigan. — It's easy to make friends.
+288. Sino ang mga taong ito? — Who are those people?
+289. Mahilig ka bang magbasa? — Do you like to read?
+290. Natatakot kaming madulas. — We were afraid of falling.
+291. Ipinipintura ang pintuan. — The door is being painted.
+292. Kailan ka huling namili? — When was the last time you went shopping?
+293. Dapat mong panoorin ito. — You should go and see it.
+294. Oo, magkakilala na kami. — Yes, we've already met.
+295. Magkano ang gagastusin? — How much will it cost?
+296. Nabalian siya ng braso. — She's broken her arm.
+297. Mahilig ka bang magluto? — Do you like to cook?
+298. Pumunta ako doon kagabi. — I went there last night.
+299. Wala. Kaaalis lang niya. — No, he just left.
+300. Isang oras nang umuulan. — It's been raining for an hour.
+301. What time did you get there? — Anong oras ka nakarating doon?
+302. She doesn't talk very much. — Hindi siya masyadong madaldal.
+303. What time should we leave? — Anong oras tayo dapat umalis?
+304. Did you see Clara last night? — Nakita mo ba si Clara kagabi?
+305. Would you like to go now? — Gusto mo bang umalis ngayon?
+306. Claudio's going to the movies. — Pupunta sa sinehan si Claudio.
+307. Who do you want to speak to? — Kanino mo gusto makipag-usap?
+308. It sounds like they're having a party. — Mukhang mayroon silang parti.
+309. How do you open this window? — Paano ba buksan ang bintana?
+310. We didn't go to the party. — Hindi kami pumunta sa parti.
+311. I think I'll buy it. — Sa tingin ko bibilhin ko ito.
+312. Why are you looking at me? — Bakit ka nakatingin sa akin?
+313. Yes, he's got a watch. — Mayroon. Mayroon siyang relo.
+314. Why did you get up early? — Bakit ka gumising ng maaga?
+315. Where were your shoes made? — Saan gawa ang mga sapatos mo?
+316. What time did you go to bed last night? — Anong oras ka natulog kagabi?
+317. When was the last time you were sick? — Kailan ka huling nagkasakit?
+318. Are we allowed to park here? — Puwede ba kami pumarada dito?
+319. Did you read the whole book? — Nabasa mo ba ang buong libro?
+320. Where was your mother born? — Saan pinanganak ang nanay mo?
+321. When was the last time you were in a car? — Kailan ka huling nasa kotse?
+322. They've been married for ten years. — Sampung taon na silang kasal.
+323. He wasn't carrying an umbrella. — Hindi siya nagdala ng payong.
+324. It won't take as long. — Hindi kasintagal ang biyahe.
+325. Do you want to come with us? — Nais mo bang sumama sa amin?
+326. You can stay with us. — Puwede kang tumuloy sa amin.
+327. I might see you tomorrow. — Maaaring magkita tayo bukas.
+328. We don't see each other very often. — Hindi kami madalas magkita.
+329. I don't like to be kept waiting. — Ayaw kong pinaghihintay ako.
+330. No, she's never met him. — Hindi. Hindi pa niya kilala.
+331. I don't like football. — Hindi ako mahilig sa putbol.
+332. The room was cleaned yesterday. — Nalinis ang kuwarto kahapon.
+333. There wasn't any money in it. — Walang naiwang pera sa loob.
+334. I'll send you a postcard. — Padadalhan kita ng postkard.
+335. It's a nice day today. — Isang magandang araw ngayon.
+336. This money is all yours. — Sa iyo lahat ng perang ito.
+337. I don't like this soup. — Ayaw ko itong sabaw na ito.
+338. I've done the shopping. — Ginawa ko na ang pagbili.
+339. You go on ahead and I'll catch up with you. — Mauna ka na at hahabol ako.
+340. Why didn't I think of that? — Bakit hindi ko naisip iyan?
+341. Why did she leave early? — Bakit siya umalis ng maaga?
+342. I don't know how it broke. — Hindi ko alam pano nabasag.
+343. We're running out of gas. — Mauubos na ang ating langis.
+344. They've got a lot of animals. — Marami silang alagang hayop.
+345. I'd like to go to bed now. — Nais ko nang matulog ngayon.
+346. Finding a job was difficult. — Mahirap maghanap ng trabaho.
+347. Should we have a party? — Dapat ba tayong magpaparti?
+348. They had to be careful. — Kailangan nilang mag-ingat.
+349. They didn't even say hello. — Hindi man lang kami binati.
+350. The shirts got ironed. — Naplantsa na ang mga damit.
+351. Should we go home now? — Dapat na ba tayong umuwi ngayon?
+352. Would you like a piece of candy? — Gusto mo ba ng kapirasong kendi?
+353. Brazil is a very big country. — Isang malaking bansa ang Brasil.
+354. Okay, I'll give it to her. — Sige, ibibigay ko ito sa kanya.
+355. Can you show me? — Maaari mo bang ipakita sa akin?
+356. It looks as though she isn't coming. — Mukhang hindi na siya dadating.
+357. Why were you late this morning? — Bakit ka nahuli kaninang umaga?
+358. I want my own room. — Gusto ko ng sarili kong kuwarto.
+359. I'll do all I can to help. — Tutulong ako sa aking makakaya.
+360. It looks as if she isn't coming. — Mukhang hindi na siya dadating.
+361. Don't you want to go to the party? — Ayaw mo bang pumunta sa parti?
+362. Have you seen my suitcase? — Nakita mo ba ang aking maleta?
+363. How is this word pronounced? — Paano ibigkas ang salitang ito?
+364. Did you like the movie? — Nagustuhan mo ba ang pelikula?
+365. To whom do you wish to speak? — Kanino mo gustong makipag-usap?
+366. She's been in Brazil since Monday. — Nasa Brasil na siya mula Lunes.
+367. By the time we get there, it'll be closed. — Sarado na iyan pagdating natin.
+368. I don't think I'll go out. — Sa tingin ko hindi ako lalabas.
+369. Yesterday I ate an orange. — Kahapon kumain ako ng dalandan.
+370. I didn't hear you come in. — Hindi ko narinig na pumasok ka.
+371. She's been there for three days. — Tatlong araw na siyang nandoon.
+372. They've been married for five years. — Limang taon na silang ikinasal.
+373. She's going to lie down for an hour. — Hihiga muna siya ng isang oras.
+374. I think I'll sit outside. — Sa tingin ko uupo ako sa labas.
+375. We've been waiting since nine (o'clock). — Alas nuebe pa kami naghihintay.
+376. Everybody knew him now. — Kilala na siya ng lahat ngayon.
+377. We were glad to get home. — Masaya kami na nakauwi na kami.
+378. I'd love to have dinner on Sunday. — Nais kong maghapunan sa linggo.
+379. I saw them this morning. — Nakita ko sila kaninang umaga.
+380. Are you interested in sports? — Interesado ka ba sa paligsahan?
+381. Would you like to go for a walk? — Gusto mo bang lumabas maglakad?
+382. We have a lot of work to do. — Marami kaming kailangan gawin.
+383. Can you explain it again? — Maaari mo bang ipaliwanag ulit?
+384. Did you go to bed late last night? — Huli ka na bang natulog kagabi?
+385. What happened to you last night? — Ano ang nangyari sa iyo kagabi?
+386. I was late for work yesterday. — Nahuli ako sa trabaho kahapon.
+387. No, let's not go home yet. — Hindi, huwag muna tayong umuwi.
+388. The weather is usually nice. — Kadalasang maganda ang panahon.
+389. (Veda) She's interesting to talk to. — Nakakawiling kausapin si Veda.
+390. It's nice, have you worn it yet? — Maganda iyan, nasuot mo na ba?
+391. I'll probably see you tomorrow. — Malamang makikita kita bukas.
+392. Some children learn very quickly. — May mga batang mabilis matuto.
+393. I must have the wrong number. — Siguradong mali ang numero ko.
+394. Have you ever been to Florida? — Nakapunta ka na ba sa Florida?
+395. It was raining when we went out. — Umuulan na noong lumabas kami.
+396. Why are you under the table? — Bakit ka nasa ilalim ng mesa?
+397. I like this hat. — Gusto ko ang sumbrero na ito.
+398. She's a very quiet person. — Siya ay isang tahimik na tao.
+399. There was strong wind yesterday. — May malakas na hangin kahapon.
+400. How long have you been married? — Gaano na kayo katagal ikinasal?
+401. I'm sitting on a chair. — Nakaupo ako sa silya.
+402. I don't believe it! — Hindi ako makapaniwala.
+403. How long have you known her? — Gaano katagal mo na siyang kilala?
+404. How long have they been in Brazil? — Gaano katagal na sila nasa Brasil?
+405. I slept very well last night. — Nakatulog ako ng mahimbing kagabi.
+406. He used to play baseball. — Dati siyang naglalaro ng beisbol.
+407. Most people don't like it. — Hindi ito nagustuhan ng karamihan.
+408. It was a stupid thing to say. — Isa itong bobong bagay na sabihin.
+409. No, not yet. We're still waiting for them. — Wala pa. Hinihintay pa namin sila.
+410. It wasn't raining when I got up. — Hindi umuulan noong nagising ako.
+411. Should we go for a walk? — Dapat ba tayong maglakad sa labas?
+412. We had a lot of bags and suitcases. — Marami kaming mga bag at maleta.
+413. No, I'll tell him. — Hindi, ako na magsasabi sa kanya.
+414. I'll carry it for you. — Ako na ang magbibitbit para sa iyo.
+415. Was it raining when you got up? — Umuulan ba kaninang paggising mo?
+416. We were made to wait for two hours. — Pinahintay kami ng dalawang oras.
+417. I don't think I'll be here tomorrow. — Sa tingin ko wala ako dito bukas.
+418. I didn't know about a meeting. — Hindi ko alam na may pagpupulong.
+419. Did you sleep well last night? — Mahimbing ba ang tulog mo kagabi?
+420. She's been married three times. — Tatlong beses na siyang ikinasal.
+421. You don't like your job. — Hindi mo gusto ang iyong trabaho.
+422. They like animals. — Mahilig sila mag-alaga ng hayop.
+423. Some of them were French. — Ang iba sa kanila ay mga Pranses.
+424. There was little to do. — Kakaunti lang ang puwedeng gawin.
+425. There were a lot of people on the bus. — Maraming taong nakasakay sa bus.
+426. I might be late tonight. — Maaaring mahuli ako ngayong gabi.
+427. Everybody was surprised that he won. — Nagulat ang lahat na nanalo siya.
+428. We talked about the problem. — Pinag-usapan namin ang suliranin.
+429. Would you mind closing the door? — Maaari mo bang isara ang pintuan?
+430. I had to buy some food. — Kailangan kong bumili ng pagkain.
+431. Shall I call you tonight? — Tatawagan ba kita ngayong gabi?
+432. No, let's wait a while. — Hindi, maghintay tayo ng sandali.
+433. They don't have much money. — Hindi madami ang kanilang salapi.
+434. Have you finished your work yet? — Natapos mo na ba ang trabaho mo?
+435. I'd have liked to have seen him again. — Nais ko sanang makita siya ulit.
+436. I'm sorry to hear that. — Ikinalulungkot kong marinig iyan.
+437. Why do you want to leave now? — Bakit mo gustong umalis ngayon?
+438. I used to wear glasses. — Dati akong nagsusuot ng salamin.
+439. We've lived there for a long time. — Matagal na kaming nakatira doon.
+440. We've bought a new car. — Bumili na kami ng bagong kotse.
+441. What time should we meet? — Anong oras dapat tayong magkita?
+442. It's possible that I'll see you tomorrow. — Posibleng magkikita tayo bukas.
+443. Has this shirt been washed? — Nalabhan na ba ang damit na ito?
+444. You've got very long hair. — Mahabang-mahaba ang iyong buhok.
+445. I've finished my work. — Natapos ko na ang aking trabaho.
+446. How long has she been in Brazil? — Gaano na siya katagal sa Brasil?
+447. Was Marta at work today? — Nasa trabaho ba si Marta ngayon?
+448. I hate this town. — Kinamumuhian ko ang bayang ito.
+449. The road is usually very quiet. — Kadalasang tahimik ang kalsada.
+450. Barbara isn't at home much. — Bihirang nasa bahay si Barbara.
+451. She doesn't usually have breakfast. — Hindi siya madalas nag-aalmusal.
+452. There are seven days in a week. — May pitong araw sa isang linggo.
+453. She's lived there all her life. — Buong buhay na siyang nakatira doon.
+454. There's a train at ten thirty. — May tren mamayang alas diyes y medya.
+455. I haven't seen her for such a long time. — Matagal ko na siyang hindi nakikita.
+456. You won't like the movie. — Hindi mo magugustuhan ang pelikula.
+457. We've been waiting for two hours. — Dalawang oras na kaming naghihintay.
+458. Do you two live near one another? — Magkalapit lang ba ang tirahan niyo?
+459. How long have you known one another? — Gaano na katagal kayong magkakilala?
+460. How were these windows broken? — Paano nabasag ang mga bintanang ito?
+461. When I was a child, I was afraid of dogs. — Noong bata pa ako, takot ako sa aso.
+462. I'll pay for myself. — Ako na magbabayad para sa sarili ko.
+463. We stayed with some friends. — Nakitira kami sa mga kaibigan namin.
+464. No, I just had dinner. — Hindi, katatapos ko lang maghapunan.
+465. I've known her for a long time. — Matagal ko nang kilala si Charlotte.
+466. I don't like to wash the car. — Hindi ako mahilig maghugas ng kotse.
+467. Should we have dinner at home? — Dapat ba tayong maghapunan sa bahay?
+468. He left last month. — Umalis siya nitong nakaraang buwan.
+469. I thought you said he wasn't coming. — Akala ko sabi mo hindi siya pupunta.
+470. Are these the books that you were looking for? — Ito ba ang mga librong hinahanap mo?
+471. When were these houses built? — Kailan itinayo ang mga bahay na ito?
+472. She must work at night. — Malamang nagtatrabaho siya sa gabi.
+473. That woman over there is a friend of my sister's. — Kaibigan ng ate ko ang babaeng iyon.
+474. Do you like to go to the movies? — Mahilig ka bang pumunta sa sinehan?
+475. I was in class for five hours today. — Limang oras akong nasa klase ngayon.
+476. Our car has four doors. — May apat na pintuan ang kotse namin.
+477. Should we go out now? — Dapat na ba tayong lumabas ngayon?
+478. They didn't have to tell me then. — Hindi nila kailangang sabihin iyon.
+479. I've never ridden a horse. — Hindi pa ako nakakasakay ng kabayo.
+480. He used to be a taxi driver. — Dati siyang isang drayber ng taksi.
+481. He must not eat very much. — Malamang hindi siya malakas kumain.
+482. I'm twenty-five. — Dalawampu't limang taong gulang ako.
+483. Tom always takes a shower in the morning. — Palaging naliligo si Tom sa umaga.
+484. That chair is not safe to stand on. — Hindi ligtas tumayo sa upuang iyan.
+485. Are you Brazilian? — No, I'm not. — Isa ka bang tga Brazil? — Hindi.
+486. Everything they said was true. — Totoo ang lahat ng kanilang sinabi.
+487. She's been in Brazil for three days. — Tatlong araw na siyang nasa Brasil.
+488. Have you ever broken your arm? — Yes, I have. — Nabalian ka na ba ng braso? — Oo.
+489. We'll probably go out tonight. — Maaaring lumabas kami ngayong gabi.
+490. Everything will turn out all right. — Magiging mabuti ang lahat ng bagay.
+491. Is it true that you're moving to Berlin? — Totoo bang lilipat ka na sa Berlin?
+492. I'm thinking of buying a house. — Pinag-iisipan kong bumili ng bahay.
+493. Their train is at eight forty. — Alas otso kuwarenta aalis ang tren.
+494. He thinks he knows everything. — Sa tingin niya alam niya ang lahat.
+495. Stay here with me. — Huwag kang umalis. Samahan mo ako.
+496. The people I work with are very nice. — Mababait ang mga nakakatrabaho ko.
+497. When will you see Pablo again? — Kailan mo ulit makikita si Pablo?
+498. They used to live in the country. — Dati silang nakatira sa lalawigan.
+499. He wasn't riding a bicycle. — Hindi siya nakasakay sa bisikleta.
+500. My grandparents raised me. — Pinalaki ako ng aking lolo't lola.
+501. I know it's not for me. — Alam kong hindi iyan para sa akin.
+502. Where did you get this picture? — Saan mo nakuha ang litratong ito?
+503. She must like the color blue. — Siguradong mahilig siya sa kulay asul.
+504. I got the job. — Yes, you did! — Nakuha ko ang trabaho. — Nakuha mo?
+505. I think we'll win the game. — Sa tingin ko mananalo kami sa labanan.
+506. You can call me tonight. — Puwede mo akong tawagan ngayong gabi.
+507. What kind of person have you dreamed of becoming? — Anong uri ng tao ang balak mong maging?
+508. Have you ever been to the south of France? — Nakapunta ka na ba sa Timog ng France?
+509. Did you hear a noise just now? — May narinig ka bang ingay ngayon lang?
+510. We got on the train just in time. — Nakasakay kami sa tren sa akmang oras.
+511. They weren't here last Sunday. — Wala sila dito noong nakaraang linggo.
+512. I have to be home no later than five o'clock. — Kailangan kong makauwi ng alas singko.
+513. What should we have for dinner? — Ano ang dapat natin kainin sa hapunan?
+514. The Great Wall of China is in China. — Ang Great Wall of China ay nasa Tsina.
+515. Bedford isn't an old town. — Hindi isang lumang bayan ang Bedford.
+516. Florentine works in a bank. — Sa bangko nagtatrabaho si Florentine.
+517. He sleeps seven hours a night. — Pitong oras siya natutulog bawat gabi.
+518. Silvia likes living in London. — Gustong manirahan ni Silvia sa London.
+519. I was afraid because it was very dark. — Natakot ako dahil madilim na madilim.
+520. It was raining, so we didn't go out. — Umulan kasi, kaya hindi kami lumabas.
+521. I don't think they'll get married. — Sa tingin ko hindi sila magpapakasal.
+522. They must have a big house. — Siguradong malaki ang kanilang bahay.
+523. No, I haven't told him yet. — Hindi. Hindi ko pa nasasabi sa kanya.
+524. The window is broken. — How did it break? — Basag ang bintana. — Paano nabasag?
+525. I spoke with him yesterday on the phone. — Nakausap ko siya sa telepono kahapon.
+526. Everything that could go wrong went wrong. — Lahat ng puwedeng mangyari, nangyari.
+527. I'm sorry for shouting at you yesterday. — Patawad dahil nasigawan kita kahapon.
+528. Is it okay to call you at the office? — Ayos lang bang tawagan ka sa opisina?
+529. She's been reading it for two hours. — Dalawang oras na niyang binabasa ito.
+530. I haven't done the shopping yet. — Hindi pa ako nakapagsimulang mamili.
+531. I've just made some coffee. — Katatapos ko lang magtimpla ng kape.
+532. She's written ten books. — Sampung libro na ang naisusulat niya.
+533. How much money did you have to pay? — Magkano ang kailangan niyong bayaran?
+534. She's been there since seven [o'clock]. — Kanina pang alas siyete siya nandoon.
+535. I've lived in Chicago for a long time. — Matagal na akong nakatira sa Chicago.
+536. Yes, I thought it was very good. — Oo, sa aking palagay ay maganda siya.
+537. How many people came to the meeting? — Ilang tao ang pumunta sa pagpupulong?
+538. You worked ten hours today. — Sampung oras kang nagtrabaho ngayon.
+539. I slept well last night. How about you? — Mahimbing ang tulog ko kagabi. Ikaw?
+540. We did a lot of work yesterday. — Marami kami nagawang trabaho kahapon.
+541. I had trouble finding a place to live. — Nahirapan ako maghanap ng matitirhan.
+542. When was the last time you went to the movies? — Kailan ka huling pumunta sa sinehan?
+543. We went to the beach yesterday. — Pumunta kami sa tabing-dagat kahapon.
+544. At eleven [o'clock] yesterday, she was at work. — Alas onse kahapon, nasa trabaho siya.
+545. I cleaned my room yesterday. — Nilinis ko ang aking kuwarto kahapon.
+546. My mother was born in Paris. — Sa Paris ipinanganak ang aking nanay.
+547. Are these rooms cleaned every day? — Nililinis ba ang mga silid araw-araw?
+548. They must live near you. — Siguro nakatira sila malapit sa iyo.
+549. We spent all day at the beach. — Buong araw kaming nasa dalampasigan.
+550. They have more money than we do. — Mas marami silang pera kaysa sa atin.
+551. Where's Tara? — She's taking a shower. — Nasaan si Tara? — Siya ay naliligo.
+552. Ask if he has a dog. — Pakitanong kung mayroon siyang aso.
+553. No, she didn't go to work. She was sick. — Wala, hindi siya pumasok. May sakit siya.
+554. The house was painted last month. — Naipinta ang bahay noong nakaraang buwan.
+555. Monika's a good friend of mine. — Si Monika ay isa kong mabuting kaibigan.
+556. I hear you won some money. — Narinig kong may pera kang napanalunan.
+557. We played basketball on Sunday. — Naglaro kami ng basketbol noong linggo.
+558. I like the people I work with. — Gusto ko ang mga taong nakakatrabaho ko.
+559. I was both tired and hungry when I got home. — Pagod ako at gutom noong nakauwi na ako.
+560. I always go to work by bus. — Sumasakay ako ng bus papunta sa trabaho.
+561. It was a very boring place to live. — Nakakayamot manirahan sa lugar na iyon.
+562. I might not go to work tomorrow. — Baka hindi ako pumasok sa trabaho bukas.
+563. Will you be in Miami tomorrow? — No, I won't. — Pupunta ka ba sa Miami bukas? — Hindi.
+564. It didn't rain last week. — Hindi umulan nitong nakalipas na linggo.
+565. I'd like to stay home tonight. — Gusto kong maiwan sa bahay ngayong gabi.
+566. I think we should go home now. — Sa tingin ko dapat umuwi na tayo ngayon.
+567. We stayed at a very nice place. — Nanuluyan kami sa isang magandang lugar.
+568. There was a clock on the wall near the window. — May orasan sa pader, malapit sa bintana.
+569. How often are these rooms cleaned? — Gaano kadalas nililinis ang mga kuwarto?
+570. I got up before seven am. — Nagising ako bago mag ika-pito ng umaga.
+571. We weren't allowed to leave the building. — Hindi kami pinayagang umalis ng gusali.
+572. I don't think you should buy it. — Sa tingin ko hindi mo dapat bilhin iyan.
+573. He's ninety-eight years old. — Siyamnapu't walong taong gulang na siya.
+574. No, I used to swim every day though. — Hindi, dati akong lumalangoy araw-araw.
+575. As always, you're late to class. — Huli ka na sa klase, tulad ng karaniwan.
+576. Why do you want to borrow my car? — Bakit gusto mong hiramin ang kotse ko?
+577. I think I should go home now. — Sa tingin ko dapat umuwi na ako ngayon.
+578. She doesn't have an umbrella, but you have one. — Wala siyang payong pero meron kang isa.
+579. I might see him this summer. — Maaaring magkita kami ngayong tag-init.
+580. It was given to me by a friend of mine. — Ibinigay ito sa akin ng aking kaibigan.
+581. Is the post office near here? — Malapit ba dito ang tanggapan ng koreo?
+582. He's a very old man. — Siya ay isang matandang-matandang tao.
+583. He likes his job a lot. — Gustung-gusto niya ang kanyang trabaho.
+584. I saw him walking along the street. — Nakita ko siyang naglalakad sa kalsada.
+585. I'm sorry I was late this morning. — Paumanhin at nahuli ako ngayong umaga.
+586. Yes, I've read it twice. — Oo, dalawang beses ko nang nabasa iyan.
+587. I didn't know it was such a long way. — Hindi ko akalain na napakahaba ng daan.
+588. Have you read any of these books? — May nabasa ka na ba sa mga librong ito?
+589. She's won a race several times. — Ilang beses na siyang nanalo ng karera.
+590. Can you smell something burning? — May naaamoy ka bang bagay na nasusunog?
+591. My car doesn't use much gas. — Hindi matakaw sa gasolina ang kotse ko.
+592. I need more time to think about it. — Kailangan ko pa ng oras pag-isipan ito.
+593. This milk tastes a little strange. — Medyo kakaiba ang lasa ng gatas na ito.
+594. There are fifty states in the United States. — May limampung estado sa Estados Unidos.
+595. Would you like to borrow my umbrella? — Gusto mo bang hiramin ang aking payong?
+596. Yeah, but I still haven't made up my mind. — Oo, pero hindi pa ako nakakapagpasiya.
+597. Why weren't you at the meeting yesterday? — Bakit ka wala sa pagpupulong kahapon?
+598. You can see the mountains from the window. — Nakikita mo sa bintana ang kabundukan.
+599. They came to see us last Friday. — Dumalaw sila noong nakaraang biyernes.
+600. I'd love to meet your family. — Gusto kong makilala ang iyong pamilya.
+601. You didn't have to get up so early. — Hindi mo kailangang gumising ng maaga.
+602. I don't think there will be any problems. — Sa tingin ko walang magiging problema.
+603. Every time I see you, you look different. — Tuwing nagkikita tayo, umiiba ang itsura mo.
+604. I don't want you to pay for me. — Ayaw kong ikaw ang magbabayad para sa akin.
+605. We live in a world that is changing all the time. — Nakatira tayo sa mundong palaging nagbabago.
+606. I can't run as fast as him. — Hindi ko kayang tumakbo ng kasingbilis niya.
+607. He shouldn't eat too much. — Hindi siya dapat kumain ng masyadong marami.
+608. I had no trouble finding a place to live. — Hindi ako nahirapang maghanap ng matitirhan.
+609. Chris had to wait a long time. — Kinailangang maghintay ng matagal ni Chris.
+610. How long has he lived in Seattle? — Gaano katagal na siyang nakatira sa Seattle?
+611. I don't care what you do. — Wala akong pakialam kung ano ang gagawin mo.
+612. I need some money to buy some food. — Kailangan ko ng pera para bumili ng pagkain.
+613. You want to go to the movies tonight. — Gusto mong pumunta sa sinehan ngayong gabi.
+614. Hello, could I speak to Tomas please? — Hello, puwede ko po bang makausap si Tomas?
+615. There's nothing on TV tonight. — Walang mapapanood sa telebisyon ngayong gabi.
+616. Ask if he has a smart phone. — Pakitanong kung mayroon siyang smartphone.
+617. Why wasn't Nicholas at work yesterday? — Bakit wala si Nicholas sa trabaho kahapon?
+618. It's Violetta's birthday next week. — Kaarawan ni Violetta sa susunod na linggo.
+619. Sometimes he's late, but not often. — Minsan siyang nahuhuli pero hindi madalas.
+620. I believe in saying what I think. — Naniniwala ako sa pagsabi ng aking iniisip.
+621. Where can I buy a bottle of water? — Saan ako makakabili ng isang boteng tubig?
+622. It was a long and tiring trip. — Isa itong mahaba at nakakapagod na biyahe.
+623. I think everything will be okay. — Sa tingin ko magiging ayos lang ang lahat.
+624. He's been watching TV since five o'clock. — Alas-singko pa siya nanonood ng telebisyon.
+625. The weather was nice last week. — Maganda ang panahon noong nakaraang linggo.
+626. He told me last week. — Sinabihan niya ako noong nakaraang linggo.
+627. They're getting married in six months' time. — Magpapakasal sila sa loob ng anim na buwan.
+628. He must not have many clothes. — Malamang kakaunti lang ang mga damit niya.
+629. I'm Japanese, but my husband isn't. — Isa akong hapon, pero ang asawa ko, hindi.
+630. Your friend has some new neighbors. — May mga bagong kapitbahay ang kaibigan mo.
+631. I didn't move the piano by myself. — Hindi ko nilipat ang piyano nang mag-isa.
+632. I've read every one of those books. — Nabasa ko na ang lahat ng mga librong ito.
+633. Did you buy anything yesterday? — Yes, I did. — May binili ka ba kahapon? — Oo, mayroon.
+634. This word is not used very often. — Ang salitang ito ay hindi madalas gamitin.
+635. They think only of themselves. — Wala silang iniisip kung hindi sarili nila.
+636. I'm saving my money up for a trip around the world. — Nag-iipon ako para makapaglibot ng mundo.
+637. Why are the police outside the bank? — Bakit nasa labas ng bangko ang mga pulis?
+638. She doesn't like action movies. — Hindi siya mahilig sa pelikulang bakbakan.
+639. I don't know who those people are. — Hindi ko alam kung sino ang mga taong ito.
+640. It's too far to walk home from here. — Masyadong malayo maglakad pauwi mula dito.
+641. Leave early so that you won't miss the bus. — Umalis ng maaga para maabutan mo ang bus.
+642. We have only a little time left. — Kaunti na lang ang natitirang oras namin.
+643. Was Adrian surprised to see you? — Nagulat ba si Adrian nang makita ka niya?
+644. How often do you have your car serviced? — Gaano kadalas mo pinapaayos ang kotse mo?
+645. I don't think we should go yet. — Sa tingin ko hindi pa tayo dapat umalis.
+646. How old were you when you learned to drive? — Ilang taon ka nung natuto kang magmaneho.
+647. Shall I buy this coat? — Dapat ko bang bilhin ang diyaket na ito?
+648. How are you getting home after the party tomorrow? — Paano ka uuwi pagkatapos ng parti bukas?
+649. I usually go to school by bus. — Sumasakay ako ng bus papunta sa paaralan.
+650. How long have you known Olivia? — Gaano katagal mo nang nakilala si Olivia?
+651. I've had it since April. — Noong Abril pa nasa akin ang aking kotse.
+652. She's had many different jobs. — Nagkaroon na siya ng iba't-ibang trabaho.
+653. She's visited many countries. — Marami na siyang napuntahang iba't-ibang bansa.
+654. The students were each given a book. — Ang bawat mag-aaral ay nabigyan ng isang libro.
+655. Please help me. — I'm sorry, I can't. — Pakitulungan ako. — Paumanhin, hindi ko kaya.
+656. I think I'll go to bed early tonight. — Palagay ko maaga akong matutulog ngayong gabi.
+657. My friend has written many books. — Marami nang naisulat na libro ang kaibigan ko.
+658. How long have you been studying German? — Gaano ka na katagal nag-aaral ng wikang Aleman?
+659. I saw him fall off his bike. — Nakita ko siyang nalaglag sa kanyang bisikleta.
+660. I've lived in this house for ten years. — Sampung taon na akong nakatira sa bahay na ito.
+661. I don't like my job. It's very boring. — Hindi ko gusto ang trabaho ko. Nakakatamad ito.
+662. Oh no, I forgot. I'll call her now. — Naku, nakalimutan ko. Tatawagan ko siya ngayon.
+663. Do you think this water is safe to drink? — Sa tingin mo ba ligtas inumin ang tubig na ito?
+664. You say, "It's a beautiful day, isn't it?" — Sasabihin mo, "Ito'y magandang araw, hindi ba?"
+665. I shouldn't drive so fast. — Hindi ako dapat magmaneho ng masyadong mabilis.
+666. I like to sit in the back row at the movies. — Gusto kong umupo sa likurang hilera sa sinehan.
+667. I was hungry when I got home, but there wasn't anything to eat. — Gutom ako nung pag-uwi ko, pero walang makain.
+668. It's evening, and you haven't eaten anything all day. — Gabi na, at wala ka pang kinakain buong araw.
+669. I turned off the light before leaving this morning. — Pinatay ko ang ilaw bago umalis ngayong umaga.
+670. What were you doing at two o'clock this morning? — Ano ang ginagawa mo alas dos ng madaling araw?
+671. I don't know, I've never seen him before. — Hindi ko alam, hindi ko pa siya nakikita dati.
+672. I didn't sleep well last night. — You didn't? — Hindi maayos ang tulog ko kagabi. — Talaga?
+673. You have to change at the next station. — Kailangan mong lumipat sa susunod na estasyon.
+674. Have you finished the work you had to do? — Natapos mo na ba ang mga kailangan mong gawin?
+675. The clock isn't working. — It isn't? It was working yesterday. — Sira ang orasan. — Talaga? Ayos ito kahapon.
+676. She's been to Spain twice. — Dalawang beses na siyang nakapunta ng Espanya.
+677. I'm ready to go, but Sonia isn't. — Handa na akong umalis pero si Sonia hindi pa.
+678. He might go shopping, but he's not sure. — Maaari siyang mamili, pero hindi pa sigurado.
+679. No, I used to have one, but I sold it. — Wala. Dati meron ako, pero binenta ko na ito.
+680. Our room was very small, and it wasn't clean. — Maliit ang aming kwarto at hindi ito malinis.
+681. Yesterday I fell and hurt my leg. — Nadapa ako kahapon at nasaktan ang aking paa.
+682. We danced a lot and talked to a lot of people. — Sumayaw kami at nakipag-usap sa maraming tao.
+683. What time does your plane leave? — Anong oras lilipad ang eroplanong sasakyan mo?
+684. What kind of music do you like? — Anong klaseng musika ang gusto mong pakinggan?
+685. Would you like to go to the movies tonight? — Gusto mo bang pumunta sa sinehan ngayong gabi?
+686. What time do you usually finish work? — Kadalasan, anong oras ka natatapos magtrabaho?
+687. She's worked in a bank for five years. — Limang taon na siyang nagtatrabaho sa bangko.
+688. No, I don't think so. I'm staying here. — Sa aking palagay, hindi. Mananatili ako dito.
+689. She might not be here next week. — Maaaring wala siya dito sa susunod na linggo.
+690. I'm not going to do your work for you. — Hindi ko gagawin ang trabaho mo para sa iyo.
+691. That coat is too big for you. — Masyadong malaki sa iyo ang diyaket na iyan.
+692. Let's have fish for dinner tonight. — Kumain tayo ng isda sa hapunan ngayong gabi.
+693. How long has he been watching TV? — Gaano na siya katagal nanonood ng telebisyon?
+694. We looked up at all the stars in the sky. — Nakatingin kami sa mga bituin sa himpapawid.
+695. They don't know my phone number. — Hindi nila alam ang aking numero sa telepono.
+696. Does the clock work? — No, it's broken. — Gumagama ba ang orasan? — Hindi, sira siya.
+697. Does your brother like football? — Mahilig ba sa putbol ang kapatid mong lalake?
+698. I'm not married, but my brother is. — Hindi ako kasal, pero ang kuya ko, kasal na.
+699. Kenya is a country in East Africa. — Ang Kenya ay isang bansa sa Silangang Africa.
+700. Why were you angry yesterday? — Because you were late. — Bakit ka galit kahapon? — Dahil nahuli ka.
+701. What's the name of the movie you're going to see? — Ano ang pamagat ng palabas na panonoorin mo?
+702. I'd be interested to know what she thinks. — Nais kong malaman kung ano ang iniisip niya.
+703. The weather's nice today. — Maganda ang panahon ngayon.
+704. We live on Main Street. — Nakatira kami sa kalye Main.
+705. What do you usually do on weekends? — Ano ang madalas mong gawin sa katapusan ng linggo?
+706. He's going to go with some friends. — Pupunta siya kasama ang ilan sa mga kaibigan niya.
+707. Would you like to have dinner with us on Sunday? — Gusto mo bang sumama sa amin maghapunan sa linggo?
+708. Are you meeting your friends tonight? — Magkikita ba kayo ng mga kaibigan mo ngayong gabi?
+709. Can I help you with your suitcase? — Gusto mo bang tulungan kita sa iyong mga maleta?
+710. Magda has lived in Miami for thirteen years. — Labintatlong taon nang nakatira sa Miami si Magda.
+711. I've been studying German for two years. — Dalawang taon na akong nag-aaral ng wikang Aleman.
+712. Is Pauline married? — I don't think she is. — Ikinasal na ba si Pauline? — Sa tingin ko hindi.
+713. How many students are there in the class? — Twenty. — Ilang mga mag-aaral ang nasa klase? — Dalawampu.
+714. It happened when he was painting his room. — Nangyari ito habang nagpipintura siya ng kuwarto.
+715. Yesterday he went to work by car. — Kahapon, pumunta siya sa trabaho gamit ang kotse.
+716. I met a friend of mine on my way home. — Nakasalubong ko ang kaibigan ko habang pauwi ako.
+717. Do you have to leave already? — I'm afraid so. — Kailangan mo na bang umalis kaagad? — Naku, oo.
+718. Do you work at night? — Nagtatrabaho ka ba sa gabi?
+719. He's washing his car. — Hinuhugasan niya ang kotse niya.
+720. I don't think you'll like the movie. — Sa tingin ko hindi mo magugustuhan ang pelikula.
+721. I have a bike, but I don't have a car. — Mayroon akong bisikleta ngunit wala akong kotse.
+722. It was impossible to answer the questions on the exam. — Imposibleng sagutin ang mga tanong sa pagsusulit.
+723. I never see my neighbor in the morning. — Hindi ko nakikita ang aking kapitbahay sa umaga.
+724. No, I've had this coat for a long time. — Hindi. Matagal nang nasa akin ang diyaket na ito.
+725. I didn't go to work yesterday. — You didn't? — Hindi ako pumasok sa trabaho kahapon. — Talaga?
+726. I met a man who knows you. — May nakilala akong lalakeng nakakakilala sa iyo.
+727. We still have a little time before the train comes. — May konting oras pa tayo bago dumating ang tren.
+728. Emilia isn't at work today. — She isn't? — Wala sa trabaho ngayon si Emilia. — Wala siya?
+729. It was very warm in the room, so I opened a window. — Mainit sa kuwarto, kaya nagbukas ako ng bintana.
+730. These postcards are nice. How much are they? — Maganda ang mga postkard na ito. Magkano po iyan?
+731. When I was young, I could run very fast. — Noong bata pa ako, kaya kong tumakbo ng mabilis.
+732. Should we go now? — No, not yet. — Dapat na ba tayong umalis ngayon? — Hindi pa.
+733. Drivers must take another road. — Kailangan maghanap ng ibang daan ang mga tsuper.
+734. Some friends are coming to stay with us. — May mga kaibigang pupunta para makitira sa atin.
+735. I've never seen these flowers before. — Hindi pa ako nakakakita ng mga bulaklak na ito.
+736. My brother and his wife don't live here anymore. — Hindi na nakatira dito ang aking kuya at hipag.
+737. A man ran out of the house shouting. — May taong tumakbo palabas ng bahay na sumisigaw.
+738. We had to pay a lot of money. — Kinailangan naming magbayad ng malaking halaga.
+739. Is the sun shining? — Yes, it is, the sun is shining. — Sumisikat ba ang araw? — Opo, sumisikat siya.
+740. I don't know. He might call this afternoon. — Hindi ko alam. Baka tumawag siya mamayang hapon.
+741. Do you think we should wait for Howard? — Sa tingin mo, dapat ba natin antayin si Howard?
+742. I was working, but my friends weren't. — Nagtrabaho ako, pero ang mga kaibigan ko hindi.
+743. What are your plans for the weekend? — Ano ang balak mong gawin sa katapusan ng linggo?
+744. Football is played in most countries of the world. — Nilalaro ang putbol sa malaking bahagi ng mundo.
+745. What do you usually have for breakfast? — Ano ang kadalasan mong kinakain tuwing almusal?
+746. Are these your keys? — Yes, they are mine. — Sa iyo ba itong mga susi? — Opo, sa akin iyan.
+747. I'll have to borrow some money. — Why? — Kakailanganin kong humiram ng pera. — Bakit?
+748. Why did they have to leave the party early? — Bakit nila kailangang umalis ng maaga sa parti?
+749. How long have you lived in this house? — Gaano katagal ka nang nakatira sa bahay na ito?
+750. I gave her all the money that I had. — Ibinigay ko sa kanya ang lahat ng aking salapi.
+751. Is there anything good on TV tonight? — May mapapanood ba sa telebisyon ngayong gabi?
+752. I don't think you should go to work. — Sa tingin ko hindi ka dapat pumasok sa trabaho.
+753. Does Nicole have a car? — May kotse ba si Nicole?
+754. It rains a lot in the winter. — Madalas umulan sa tag-lamig.
+755. I'm leaving tonight, so I won't be at home tomorrow. — Aalis ako ngayong gabi, kaya wala ako sa bahay bukas.
+756. We're going to the beach tomorrow, even if it's raining. — Pupunta kami sa dalampasigan bukas, kahit na umuulan.
+757. I work in a bank. — You do? — Nagtatrabaho ako sa bangko. — Talaga?
+758. Albert doesn't eat meat. — He doesn't? — Hindi kumakain ng karne si Albert. — Talaga?
+759. That's a very beautiful picture. I like it a lot. — Iyan ay napakagandang letrato. Gustong-gusto ko iyan.
+760. We took a trip with some friends of ours. — Nagbiyahe kami kasama ang ilan sa aming mga kaibigan.
+761. I've just spoken to your sister. — Katatapos ko lang makipag-usap sa kapatid mong babae.
+762. Were you watching TV when I called you? — Nanonood ka ba ng telebisyon nung tumawag ako sa iyo?
+763. I drink coffee, but I don't drink tea. — Umiinom ako ng kape, pero hindi ako umiinom ng tsaa.
+764. They gave us some money to buy some food. — Binigyan nila kami ng pera para makabili ng makakain.
+765. Has Tamara started her new job yet? — Nasimulan na ba ni Tamara ang kanyang bagong trabaho?
+766. She's written a lot of interesting things. — Nakapagsulat na siya ng maraming kawili-wiling bagay.
+767. Yesterday it rained all morning. It stopped at lunchtime. — Umulan buong umaga kahapon. Tumigil noong tanghalian.
+768. I'm not eating. — Hindi ako kumakain.
+769. Let me know if you need anything. — Ipaalam mo lang sa akin kung mayroon kang kailangan.
+770. Many different languages are spoken in the Philippines. — Maraming iba't-ibang wika ang ginagamit sa Pilipinas.
+771. Did she go out last night? — Lumabas ba siya kagabi?
+772. We can't go on living like this. — Hindi tayo puwedeng magpatuloy na mabuhay ng ganito.
+773. Please try to be quiet when you come home. — Mangyaring subukan mong huwag mag-ingay pag-uwi mo.
+774. Are you tired? — I was, but I'm not now. — Pagod ka na ba? — Kanina oo, pero ngayon hindi na.
+775. What's your name? — My name's Amanda. — Ano ang pangalan mo? — Ang pangalan ko ay Amanda.
+776. You say, "You had your hair cut, didn't you?" — Sasabihin mo, "Nagpagupit ka ng buhok mo, hindi ba?"
+777. Don't worry, they think you're funny. — Huwag kang mag-alala, sa tingin nila nakakatawa ka.
+778. If you want more to eat, help yourselves. — Kung gusto niyo pang kumain, huwag na kayong mahiya.
+779. What's Claire cooking? — Ano ang niluluto ni Claire?
+780. The bus service is very good. — Maganda ang serbisyo ng bus.
+781. What do you like to do on weekends? — Ano ang gusto mong gawin tuwing katapusan ng linggo?
+782. You must not be late for school again. — Hindi ka dapat mahuli ulit sa pagpasok sa paaralan.
+783. How old are these houses? When were they built? — Gaano na katanda ang mga bahay? Kailan sila itinayo?
+784. He never watches TV. — Hindi siya nanonood ng telebisyon.
+785. Have you met my brother, or should I introduce you? — Nakilala mo na ba ang kuya ko, o ipakilala pa kita?
+786. I'm not watching TV. — Hindi ako nanonood ng telebisyon.
+787. Does Amanda have to work on Saturdays? — Kailangan bang magtrabaho si Amanda tuwing sabado?
+788. Half this money is mine, and half of it is yours. — Kalahati ng pera ay sa akin, at kalahati ay sa iyo.
+789. Two friends of hers were waiting to meet her. — May dalawa siyang kaibigan na naghihintay sa kanya.
+790. What was Jose doing when the phone rang? — Ano ang ginagawa ni Jose nung tumunog ang telepono?
+791. Are you leaving now? — Yes, see you tomorrow. — Paalis ka na ba ngayon? — Oo, magkita tayo bukas.
+792. You shouldn't watch TV so much. — Hindi ka dapat ganyan kadalas manood ng telebisyon.
+793. What's the name of the man whose car you borrowed? — Ano ang pangalan ng lalakeng hiniraman mo ng kotse?
+794. I've been late for school several times. — Ilang beses na akong nahuling dumating sa paaralan.
+795. She's sitting on the floor. — Nakaupo siya sa sahig.
+796. I'm tired this morning. — Pagod ako ngayong umaga.
+797. Please explain what you mean. — Kung maaari ay ipaliwanag mo ang ibig mong sabihin.
+798. Please be quiet. — Pakiusap, maging tahimik.
+799. How often do you go swimming? — Gaano ka kadalas lumangoy?
+800. You should have done it as I showed you. — Dapat ginawa mo siya tulad ng ipinakita ko sa iyo.
+801. Do you think you'll get a raise soon? — I hope so. — Sa tingin mo ba tataas na ang sweldo mo? — Sana.
+802. Do your friends want to see the movie? — Gusto bang manood ng pelikula ang mga kaibigan mo?
+803. Do you remember the day we went to the zoo? — Naaalala mo ba yung araw na pumunta tayo sa palahayupan?
+804. I think you should get your hair cut really short. — Sa tingin ko dapat mong ipagupit ang buhok mo ng maiksi.
+805. Miriam's been studying English for six months. — Anim na buwan nang nag-aaral ng wikang Ingles si Miriam.
+806. He was swimming in the pool, not watching TV. — Nasa palanguyan siya. Hindi siya nanonood ng telebisyon.
+807. I might take the bus. — Maaaring sumakay ako ng bus.
+808. Do any of you want to go to a party tonight? — Mayroon ba sa inyong nais pumunta sa parti ngayong gabi?
+809. The police are looking for a missing boy. — Ang pulis ay may hinahanap na nawawalang batang lalake.
+810. I think I should save more money. — Sa tingin ko dapat mag-ipon pa ako ng mas maraming pera.
+811. Do you think I should buy this hat? — Sa tingin mo dapat ko bang bilhin itong sombrero na ito?
+812. I was afraid to go near the dog because I was afraid of getting bitten. — Natakot akong lumapit sa aso dahil takot akong makagat.
+813. I haven't read the book, but Paul has. — Hindi ko pa nababasa ang libro, pero nabasa na ni Paul.
+814. It wasn't raining, so we didn't need an umbrella. — Hindi umuulan, kaya hindi namin kinailangan ang payong.
+815. Some new houses are being built across from the park. — May mga bagong bahay ang itinatayo sa tapat ng liwasan.
+816. He stopped reading and answered the phone. — Tumigil siya sa pagbabasa at sinagot niya ang telepono.
+817. I've spent all the money you gave me. — Nagastos ko na ang lahat ng perang ibinigay mo sa akin.
+818. Let me carry your bag for you. — Hayaan mo nang ako ang magbitbit ng bag mo para sa iyo.
+819. We're having dinner now. Can I call you later? — Naghahapunan kami ngayon. Pwede ba kita tawagan mamaya?
+820. We know a lot of people who live in the country. — Marami kaming kilalang mga taong tumitira sa lalawigan.
+821. The Silvas are always home on Fridays. — Laging nasa bahay tuwing biyernes ang pamilyang Silva.
+822. I'm going to buy some books tomorrow. — Bibili ako ng mga libro bukas.
+823. The weather's nice. It's not raining. — Maganda ang panahon. Hindi umuulan.
+824. He has a car, but he doesn't use it very often. — Mayroon siyang kotse, pero hindi niya madalas gamitin.
+825. They have to take care of Tara's little brother. — Kailangan nilang alagaan ang kapatid na lalake ni Tara.
+826. It won't rain, so you don't need to take an umbrella. — Hindi uulan kaya hindi mo kailangan magdala ng payong.
+827. They'll be away for the next few weeks. — Aalis sila at mawawala sila sa susunod na ilang linggo.
+828. I went to the store after work yesterday. — Pumunta ako sa tindahan kahapon pagkatapos ng trabaho.
+829. I think everybody should learn another language. — Sa tingin ko, lahat tayo ay dapat matuto ng ibang wika.
+830. Her parents were born in Rio de Janeiro. — Ang mga magulang niya ay ipinanganak sa Rio de Janeiro.
+831. I usually buy two newspapers every day. — Kadalasan, bumibili ako ng dalawang diyaryo araw-araw.
+832. How long has she studied Italian? — Gaano katagal na siyang nag-aaral ng wikang Italyano?
+833. Was your exam difficult? — No, it was easy. — Nahirapan ka ba sa pagsusulit? — Hindi, madali lang.
+834. This time last year I was in Paris. — Ganitong oras noong nakaraang taon, ako ay nasa Paris.
+835. How fast were you driving when the police stopped you? — Gaano ka kabilis nagmamaneho nang pinatigil ka ng pulis?
+836. Could I have change for a dollar, please? — Mangyaring puwede ba akong magpabarya ng isang dolyar?
+837. I've just had lunch, and I'm already hungry. — Katatapos ko lang mananghalian, at gutom na naman ako.
+838. I'd love to have gone to the party, but it was impossible. — Gusto ko sanang makapunta sa parti pero hindi posible.
+839. Let's not have fish for dinner tonight. — Huwag na tayo kumain ng isda sa hapunan ngayong gabi.
+840. Do you hear music coming from next door? — May naririnig ka bang tugtog galing sa kabilang bahay?
+841. No, I'm not married. — Wala pa.
+842. You notice the woman singing has a nice voice. — Napansin mong maganda ang boses ng babaeng kumakanta.
+843. It's a nice day, isn't it? — Yes, it's beautiful. — Hindi ba't magandang araw ngayon? — Oo, maganda ito.
+844. That isn't your car, is it? — No, it's my mother's. — Hindi ba't kotse mo iyan? — Hindi, sa nanay ko iyan.
+845. Yes, I'm going out with some friends. — Oo, lalabas ako kasama ang ilan sa aking mga kaibigan.
+846. What are you doing tomorrow night? — Ano ang gagawin mo bukas ng gabi?
+847. Something is going to happen. — May mangyayari.
+848. Is she sick? — May sakit ba siya?
+849. Is it raining? — No, it isn't raining. — Umuulan ba? — Hindi, hindi umuulan.
+850. She isn't home. — Wala siya sa bahay.
+851. She's sitting on the table. — Nakaupo siya sa mesa.
+852. I won't be here tomorrow. — Wala ako dito bukas.
+853. I speak four languages. — You do? Which ones? — Nakakapagsalita ako ng apat na wika. — Talaga? Alin-alin?
+854. What would you like to do next weekend? — Ano ang gusto mong gawin sa susunod na katapusan ng linggo?
+855. The last bus leaves at midnight. — Hatinggabi ang huling biyahe ng bus.
+856. No, leave the light off. — Hindi, hayaan mong nakapatay ang ilaw.
+857. Is it raining? — No, not right now. — Umuulan ba? — Hindi, hindi sa ngayon.
+858. We don't watch TV very often. — Hindi kami madalas manood ng telebisyon.
+859. What are you doing this weekend? — Ano ang gagawin mo sa katapusan ng linggo?
+860. How are your parents? — They're doing fine. — Kamusta ang iyong mga magulang? — Mabuti sila.
+861. Where are the children? — They're playing in the park. — Nasaan ang mga bata? — Naglalaro sila sa liwasan.
+862. Why are you late? — Bakit ka nahuli?
+863. She goes everywhere by bicycle. — Nagbibisikleta siya.
+864. They haven't got any children. — Wala silang mga anak.
+865. Where have you been? — Saan ka nanggaling?
+866. I don't really want to go out. — Ayaw ko talagang lumabas.
+867. Lilianne's in her office. — Nasa opisina niya si Lilianne.
+868. Do you feel like going out tonight? — Nais mo bang lumabas ngayong gabi?
+869. We were hungry after the trip, but we weren't tired. — Gutom kami pagkatapos ng biyahe, ngunit hindi kami pagod.
+870. Do you think my pants need washing? — Sa tingin mo ba kailangan nang ipalaba ang aking pantalon?
+871. I don't know. They were on the table, but they're not there now. — Hindi ko alam. Nasa mesa lang kanina, pero wala na ngayon.
+872. I slowed down so that the car behind me could pass. — Binagalan ko para malampasan ako ng kotseng nasa likod ko.
+873. Who's that woman? — Sino yung babaeng yun?
+874. I'll call you tomorrow, okay? — Tawagan kita bukas, ayos?
+875. He was not the man who did it. — Hindi siya ang gumawa nito.
+876. I made a cake yesterday. — Gumawa ako ng keyk kahapon.
+877. No, let's take the bus. — Hindi, sumakay tayo ng bus.
+878. Are you ready yet? — Not yet. — Handa ka na ba? — Hindi pa.
+879. Did you watch the basketball game on TV last night? — Napanood mo ba ang larong basketbol sa telebisyon kagabi?
+880. I had to have dinner with my family yesterday. — Kinailangan kong maghapunan kasama ang pamilya ko kahapon.
+881. My aunt has lived in Australia for fifteen years. — Labinlimang taon nang nakatira sa Australiya ang tita ko.
+882. I had to wait half an hour for the bus. — Kinailangan kong maghintay ng kalahating oras para sa bus.
+883. She's going to watch TV tonight. — Manonood siya ng telebisyon ngayong gabi.
+884. She didn't tell any of her friends. — Hindi niya sinabihan ang kahit sino sa mga kaibigan niya.
+885. I haven't seen them since the year they got married. — Hindi ko pa sila nakikita mula noong taong ikinasal sila.
+886. I need something to open this bottle with. — Kailangan ko ng isang bagay para mabuksan ang boteng ito.
+887. I'm working. I'm not watching TV. — Nagtatrabaho ako. Hindi ako nanonood ng telebisyon.
+888. Did you hear it? — Narinig mo ba?
+889. We've got tickets. — May mga tiket kami.
+890. It's a very good book. — Magandang libro ito.
+891. Has Nicole got a car? — May kotse ba si Nicole?
+892. Anna was born in Rome. — Sa Roma ipinanganak si Anna.
+893. I'm interested in music. — Interesado ako sa musika.
+894. Why are you so tired? — Bakit ka pagod na pagod?
+895. What's her name? — Her name is Barbara. — Ano ang pangalan niya? — Ang pangalan niya ay Barbara.
+896. If I have any more news, you'll be the first person to know. — Kung mayroon pa akong balita, ikaw ang unang makakaalam.
+897. Have you ever won a race? — Yes, a few times. — Nanalo ka na ba sa isang karera? — Oo, ilang beses na.
+898. Do you like her? — Gusto mo ba siya?
+899. Yes, she was studying. — Oo, nag-aaral siya.
+900. I'm a taxi driver. — Ako ay tsuper ng taksi.
+901. Here's your coat. — Heto ang iyong diyaket.
+902. Do you go out much? — Madalas ka bang lumabas?
+903. You weren't at home last night. Where were you? — Wala ka sa bahay kagabi. Nasaan ka?
+904. Would you like to eat with us, or have you already eaten? — Gusto mo bang sumabay sa amin kumain, o tapos ka nang kumain?
+905. I tried to keep my eyes open, but I couldn't. — Sinubukan kong idilat ang aking mga mata, pero hindi ko kaya.
+906. I haven't been to Mexico, but Zoe has. — Hindi pa ako nakakapunta ng Mexico, pero nakapunta na si Zoe.
+907. I used to read a lot of books, but I don't read much these days. — Madalas akong magbasa ng libro, pero ngayon hindi na masyado.
+908. It's a nice day today, but yesterday it rained all day. — Maganda ang panahon ngayon, ngunit umulan kahapon buong araw.
+909. She doesn't have a bike. — Wala siyang bisikleta.
+910. I don't want this banana. — Ayaw ko itong saging.
+911. What do they do? — Ano ang ginagawa nila?
+912. What's he doing? — Ano ang ginagawa niya?
+913. I'm working tomorrow. — Magtatrabaho ako bukas.
+914. He's lying on the floor. — Nakahiga siya sa sahig.
+915. Do you know a lot of people? — Marami ka bang kakilala?
+916. There aren't many people here. — Wala masyadong tao dito.
+917. They're not at home now. — Wala sila sa bahay ngayon.
+918. They don't go out very often. — Hindi sila madalas lumabas.
+919. Her parents live in Chicago. — Nakatira sa Chicago ang mga magulang niya.
+920. Are you wearing a watch? — No, I'm not wearing a watch. — Suot mo ba ang relo mo? — Hindi, hindi ko suot.
+921. Did you hear? — Narinig mo ba?
+922. He's got a lot of problems. — Marami siyang suliranin.
+923. The phone's ringing. — Tumutunog ang telepono.
+924. I might not have time to go out. — Maaaring wala akong oras lumabas.
+925. Are you going out tonight? — I might. — Lalabas ka ba ngayong gabi? — Baka.
+926. Is it beautiful? — I don't know. I've never been there. — Maganda ba? — Hindi ko alam. Hindi pa ako nakakapunta doon.
+927. Could you send me the money as soon as possible? — Maaari mo bang maipadala ang pera sa lalong madaling panahon?
+928. He's been sick for the last few days. — Ilang araw na siyang may sakit.
+929. My suitcase is very heavy. — Mabigat na mabigat ang aking maleta.
+930. Ask him if he's sold his car yet. — Pakitanong sa kanya kung naibenta na ba niya ang kotse niya.
+931. A lot of my friends are getting married this year. — Karamihan sa aking mga kaibigan ay ikakasal na ngayong taon.
+932. I've got a new job, and it's hard work. — Nakakuha ako ng bagong trabaho, at ito'y mahirap na trabaho.
+933. I need my glasses, but I can't find them. — Kailangan ko ang aking mga salamin pero hindi ko ito makita.
+934. I don't like hot weather, but Cecilia does. — Hindi ko gusto ang mainit na panahon, pero gusto ni Cecilia.
+935. You ask, "You haven't seen my keys, have you?" — Tanong mo, "Hindi mo ba nakita ang aking mga susi, hindi ba?"
+936. He always wears a coat, even in hot weather. — Lagi siyang nakasuot ng diyaket, kahit na mainit ang panahon.
+937. I started my new job last week. — Noong nakaraang linggo ako nagsimula sa aking bagong trabaho.
+938. I've lived in Chicago since I was ten years old. — Sampung taong gulang pa lang ako, nakatira na ako sa Chicago.
+939. She's reading a book. — Nagbabasa siya ng libro.
+940. We have a new car now. — May bagong kotse na kami.
+941. I'm going away for a few days. — Aalis ako ng ilang araw.
+942. They're playing football. — Naglalaro sila ng putbol.
+943. Does your father have a car? — May kotse ba ang tatay mo?
+944. There's a train every hour. — May tren bawat isang oras.
+945. It's dark in this room. — Madilim sa kuwarto na ito.
+946. Where are my keys? — Nasaan ang aking mga susi?
+947. Can you swim? — Marunong ka bang lumangoy?
+948. Where's the camera? — It's in your bag. — Nasaan ang kamera? — Nasa bag mo.
+949. Where's your mother? Is she at home? — Nasaan ang nanay mo? Nasa bahay ba siya?
+950. We're eating breakfast. — Kumakain kami ng almusal.
+951. Santo was in his car driving. — Nasa kotse si Santo, nagmamaneho.
+952. Are you going out tonight? — Lalabas ka ba ngayong gabi?
+953. No, leave the window open. — Hindi, hayaan mong nakabukas ang bintana.
+954. Sure, what time does the movie begin? — Sige! Anong oras magsisimula ang palabas?
+955. Are you a student? — Estudyante ka ba?
+956. Why is he laughing? — Bakit siya tumatawa?
+957. The office is getting cleaned. — Nililinis na ang opisina.
+958. Luisa and I are friends. — Magkaibigan kami ni Luisa.
+959. We bought a new car. — Bumili kami ng bagong kotse.
+960. No, call me in the morning. — Hindi, tawagan mo ako sa umaga.
+961. Do you like your new job? — Gusto mo ba ang bago mong trabaho?
+962. Did you watch TV last night? — Nanood ka ba ng telebisyon kagabi?
+963. I bought some new shoes. — Bumili ako ng mga bagong sapatos.
+964. What are you going to wear to the party tonight? — Ano ang isusuot mo sa parti ngayong gabi?
+965. As the movie went on, it became more and more boring. — Habang nagpapatuloy ang pelikula, nagiging mas nakakainip ito.
+966. I've never spoken to the woman who lives next door. — Hindi ko pa nakakausap ang babaeng nakatira sa katabing bahay.
+967. he's listening to music. — Nakikinig siya sa musika.
+968. Shall we go out? — Dapat ba tayong lumabas?
+969. She doesn't drink coffee. — Hindi siya umiinom ng kape.
+970. I never read in bed. — Hindi ako nagbabasa sa kama.
+971. Where does your sister work? — Saan nagtatrabaho ang ate mo?
+972. Does he eat eggs? — Kumakain ba siya ng mga itlog?
+973. How are your parents? — Kamusta ang iyong mga magulang?
+974. Look, there's my friend. — Ayun, nandun ang aking kaibigan.
+975. I'm coming back at the end of December. — Babalik ako sa katapusan ng Disyembre.
+976. I might go to the movies tonight. — Baka pumunta ako sa sinehan ngayong gabi.
+977. Is there a bus to the airport? — No, there isn't. — May bus bang papuntang paliparan? — Wala.
+978. I'll be working at three (o'clock) tomorrow afternoon. — Alas tres bukas ng hapon, magtatrabaho ako.
+979. Are your parents watching TV? — Nanonood ba ng telebisyon ang mga magulang mo?
+980. Are you sitting on the floor? — Yes, I am sitting on the floor. — Nakaupo ka ba sa sahig? — Oo, nakaupo ako sa sahig.
+981. What is it? — Ano ito?
+982. They're a pound. — Isang pound.
+983. Who's that man? — Sino siya?
+984. It might rain. — Baka umulan.
+985. Would you like some? — Gusto mo ba?
+986. He's already gone home. — Nakauwi na siya.
+987. You were late yesterday. — Nahuli ka kahapon.
+988. He was reading a book. — Nagbabasa siya ng libro.
+989. Do you know what time it is? — Alam mo ba kung anong oras?
+990. Do you ever go to the movies? — Pumupunta ka ba sa sinehan?
+991. It's possible that I'll be late tonight. — Posibleng mahuli ako ngayong gabi.
+992. Ask if he has a watch. — Pakitanong kung mayroon siyang relo.
+993. Have you ever broken your leg? — Yes, once. — Nabalian ka na ba ng paa? — Oo, isang beses nang nabalian.
+994. I forgot to thank them for helping me. — Nakalimutan kong magpasalamat sa kanila sa pagtulong sa amin.
+995. We decided not to go out because of the weather. — Napagpasyahan naming hindi na muna lumabas dahil sa panahon.
+996. Should we go out tonight? — No, I'm tired. — Dapat ba tayong lumabas ngayong gabi? — Hindi, pagod na ako.
+997. I hated working there. — Ayaw kong magtrabaho doon.
+998. The windows are getting washed. — Hinuhugasan ang mga bintana.
+999. He didn't say a word all night long. — Wala siyang kibo buong gabi.
+1000. I like her and she likes me. — Gusto ko siya, gusto niya ako.
+1001. I might go to the movies. — Maaaring pumunta ako sa sinehan.
+1002. I like big cities. — Mahilig ako sa malalaking lungsod.
+1003. Does your phone have a camera? — May kamera ba ang iyong telepono?
+1004. Do you want me to turn on the light? — Gusto mo bang buksan ko ang ilaw?
+1005. We bought a new car yesterday. — Bumili kami ng bagong kotse kahapon.
+1006. I finished work early. How about you? — Maaga akong natapos magtrabaho. Ikaw?
+1007. I'm not happy. — You're not? Why not? — Hindi ako masaya. — Hindi ba? Bakit hindi?
+1008. Have you ever played basketball? — Just once. — Nakapaglaro ka na ba ng basketbol? — Isang beses lang.
+1009. He must not have a car. — Wala siya sigurong kotse.
+1010. She doesn't want to sit on a chair. — Ayaw niyang umupo sa upuan.
+1011. They've moved to Seattle. — Lumipat na sila sa Seattle.
+1012. There was a train at eleven o'clock. — May tren kaninang alas onse.
+1013. Last night he wasn't at work. — Wala siya sa trabaho kagabi.
+1014. Would you like to go out for a walk? — Gusto mo bang lumabas maglakad?
+1015. I was late for the meeting. — Nahuli ako sa aming pagpupulong.
+1016. Have you got a camera? — No, I don't. — May dala ka bang kamera? — Wala.
+1017. What were you doing at two o'clock? — Ano ang ginagawa mo noong alas dos?
+1018. Perhaps Emily will go with you. — Baka gustong sumama sa iyo si Emily.
+1019. Dennis was at the station waiting for a train. — Nasa istasyon si Dennis, naghihintay ng tren.
+1020. You had breakfast this morning, but I didn't. — Nag-almusal ka ngayong umaga, pero ako hindi.
+1021. Are they teaching? — Tinuturuan ba nila?
+1022. I'll be right back. — Babalik ako kaagad.
+1023. Are you sure of it? — Sigurado ka ba dito?
+1024. The dinner smells good. — Mabango ang hapunan.
+1025. Where's your key? — Nasaan ang susi mo?
+1026. he's late again. — Huli na naman siya.
+1027. It keeps breaking down. — Lagi itong nasisira.
+1028. What are you reading? — Ano ang binabasa mo?
+1029. Tomorrow I'm off to Paris. — Aalis ako papuntang Paris bukas.
+1030. Yes, there's a movie at eight o'clock. — Oo, may pelikula mamayang alas otso.
+1031. Heidi doesn't work at night. — Hindi nagtatrabaho sa gabi si Heidi.
+1032. No, let's not wait for him. — Hindi, huwag na natin siya hintayin.
+1033. No, it's okay. I'll sit on the floor. — Hindi na, ayos lang. Uupo ako sa sahig.
+1034. They have three dogs and two cats. — May tatlong aso sila at dalawang pusa.
+1035. I don't watch TV very often. — Hindi ako madalas manood ng telebisyon.
+1036. His car is always dirty. He never cleans it. — Palaging madumi ang kotse niya. Hindi niya nililinis.
+1037. I've got something in my eye. — May bagay sa aking mata.
+1038. Is it going to rain? — I hope not. — Uulan ba? — Sana hindi.
+1039. Pablo will be away until Saturday. — Mawawala si Pablo hanggang Sabado.
+1040. Were Anabel and Richard at the party? — Nasa parti ba sina Anabel at Richard?
+1041. They'll be going back to Italy next week. — Babalik sila sa Italya sa susunod na linggo.
+1042. Is your car blue? — No, it's black. — Kulay asul ba ang kotse mo? — Hindi, kulay itim.
+1043. she's learning English so that she can study in Australia. — Nag-aaral siya ng Ingles upang makapag-aral siya sa Australia.
+1044. I haven't been to the movies in ages. — You haven't? — Matagal na akong hindi nakakapunta sa sinehan. — Matagal na?
+1045. It's six o'clock now. — Alas sais na ngayon.
+1046. What are you eating? — Ano ang kinakain mo?
+1047. It's clean now. — Malinis na ito ngayon.
+1048. I'm leaving now, goodbye. — Aalis na ako, paalam.
+1049. No, everything is okay. — Wala, lahat ay mabuti.
+1050. You can't sit here. — Hindi ka puwedeng umupo dito.
+1051. What time does the movie begin? — Anong oras magsisimula ang pelikula?
+1052. Do you play the piano? — No, I don't. — Tumutugtog ka ba ng piyano? — Hindi.
+1053. What time would you like to have dinner tonight? — Anong oras mo gustong maghapunan ngayong gabi?
+1054. There's a party tomorrow night, but I'm not going. — Mayroong parti bukas ng gabi, pero hindi ako pupunta.
+1055. We met a lot of interesting people at the party. — Marami kaming nakilalang nakakatuwang mga tao sa parti.
+1056. I like sports, but my sister doesn't. — Mahilig ako sa palaro, pero ang kapatid kong babae, hindi.
+1057. Isabelle will be here next week. — She will? — Nandito si Isabelle sa susunod na linggo. — Nandito siya?
+1058. I'll do it later. — Mamaya ko na lang gagawin.
+1059. It's late. I'm going home now. — Gabi na. Pauwi na ako ngayon.
+1060. I'll be late for work tomorrow. — Mahuhuli ako sa trabaho bukas.
+1061. She doesn't have to wait. — Hindi niya kailangang maghintay.
+1062. I'm going to the movies on Monday. — Pupunta ako sa sinehan sa Lunes.
+1063. Please wait for me. — Kung maaari sana, antayin mo ako.
+1064. Where are you from? — I'm from Canada. — Taga saan ka? — Taga Kanada ako.
+1065. How often do you read the news? — Gaano ka kadalas magbasa ng balita?
+1066. He's in the kitchen. He's cooking. — Siya ay nasa kusina. Nagluluto siya.
+1067. How often do you watch TV? — Gaano ka kadalas manood ng telebisyon?
+1068. Let's go and see that movie. — Halika at panoorin natin ang pelikula.
+1069. I'm going to watch TV tonight. — Manonood ako ng telebisyon ngayong gabi.
+1070. I'm going out tonight. — You are? — Lalabas ako ngayong gabi. — Lalabas ka?
+1071. Is it cold in your room? — Yes, a little (cold). — Malamig ba sa iyong kuwarto? — Opo, medyo malamig.
+1072. He was in bed. — Nasa kama siya.
+1073. she's gone out. — Lumabas na siya.
+1074. I was tired last night. — Pagod ako kagabi.
+1075. It was very funny. — Ito ay nakakatawa.
+1076. Would you like some tea? — Gusto mo ba ng tsaa?
+1077. she's living by herself. — Naninirahan siya mag-isa.
+1078. The sun isn't shining. — Hindi sumisikat ang araw.
+1079. Which would you like, tea or coffee? — Alin ang gusto mo, tsaa o kape?
+1080. I'm not hungry, but I'm thirsty. — Hindi ako gutom, pero uhaw ako.
+1081. The streets get cleaned every day. — Araw-araw nililinis ang mga kalsada.
+1082. I like rock and roll music. — Mahilig ako sa musikang rock and roll.
+1083. I watched TV last night. How about you? — Nanood ako ng telebisyon kagabi. Ikaw?
+1084. Did it rain on Sunday? — Yes, it did. — Umulan ba noong linggo? — Opo, umulan.
+1085. I might have Italian food. — Maaaring kumain ako ng pagkaing Italyano.
+1086. Martin works hard, but I don't. — Masipag magtrabaho si Martin, pero hindi ako.
+1087. What time are Nikolai and Victoria coming? — Anong oras dadating sina Nikolai at Victoria?
+1088. What are you going to wear to the wedding next week? — Ano ang isusuot mo sa kasal sa susunod na linggo?
+1089. We had to walk home because there was no bus. — Kinailangan naming maglakad pauwi dahil walang bus.
+1090. Do you know what time the movie begins? — Alam mo ba kung anong oras magsisimula ang pelikula?
+1091. Do you watch TV a lot? — No, I don't. — Madalas ka bang manood ng telebisyon? — Hindi. Hindi madalas.
+1092. She was sick. — May sakit siya.
+1093. This is Yvonne. — Si Yvonne ito.
+1094. Were you sick? — May sakit ka ba?
+1095. I don't like dogs. — Ayaw ko sa ako.
+1096. I don't like to be late. — Ayaw kong mahuli.
+1097. What's that building? — Ano ang gusaling iyan?
+1098. Do you ever have breakfast in bed? — Nag-aalmusal ka ba sa kama?
+1099. The office was cleaned yesterday. — Nalinis ang opisina kahapon.
+1100. Today she's in Frankfurt. — Ngayon siya ay nasa Frankfurt.
+1101. Do you want to walk home? — Gusto mo bang maglakad pauwi?
+1102. Have you ever been to Spain? — Nakapunta ka na ba sa Espanya?
+1103. I can't find it. — Hindi ko mahanap.
+1104. Are you going to watch it? — Papanoorin mo ba?
+1105. Do you love her? — Mahal mo ba siya?
+1106. You're still sick. — May sakit ka pa.
+1107. David doesn't have a car. — Walang kotse si David.
+1108. I'm very tired. — Pakiramdam ko ay pagod ako.
+1109. Are the stores open today? — Bukas ba ang mga tindahan ngayon?
+1110. You don't need your car. — Hindi mo kailangan ang kotse mo.
+1111. She's been there since Monday. — Nandoon na siya mula Lunes.
+1112. Can I talk to you? — Puwede ba kitang makausap?
+1113. No, he hasn't got a smartphone. — Wala, wala siyang smartphone.
+1114. Why are you wearing a coat? — Bakit ka nakasuot ng diyaket?
+1115. I like orange juice. — Mahilig ako sa katas ng dalandan.
+1116. We're going to the movies on Saturday. — Pupunta kami sa sinehan sa Sabado.
+1117. I washed my hands because they were dirty. — Naghugas ako ng kamay dahil madumi sila.
+1118. What color is your car? — It's red. — Anong kulay ang kotse mo? — Kulay pula.
+1119. Have you gone to the bank yet? — Not yet. — Nakapunta ka na ba sa bangko? — Hindi pa.
+1120. My parents are usually at home. — Kadalasang nasa bahay ang aking mga magulang.
+1121. I like coffee, but I don't like tea. — Gusto ko ang kape, pero hindi ko gusto ang tsaa.
+1122. I've studied English for six months. — Anim na buwan na akong nag-aaral ng wikang Ingles.
+1123. No, the weather was very bad, so we didn't play. — Hindi, hindi maganda ang panahon kaya hindi kami naglaro.
+1124. I can't hear you. — Hindi kita marinig.
+1125. She doesn't like baseball. — Hindi siya mahilig sa beysbol.
+1126. Lara called me last night. — She did? — Tinawagan ako ni Lara kagabi. — Tumawag Siya?
+1127. Was Lara busy when you went to see her? — May ginagawa ba si Lara nung pinuntahan mo siya?
+1128. Is your friend Chinese? — Yes, he is Chinese. — Tsino ba ang kaibigan mo? — Opo, Tsino siya.
+1129. You haven't eaten yet, have you? — No, I'm not hungry. — Hindi ka pa kumakain, hindi ba? — Hindi, hindi ako gutom.
+1130. Now there are a lot. — Ngayon, marami na.
+1131. Do they teach? — Nagtuturo ba sila?
+1132. Do you know her? — Kilala mo ba siya?
+1133. Where do you come from? — Saan ka nanggaling?
+1134. Isn't she coming? — Hindi ba siya pupunta?
+1135. His car is dirty. — Madumi ang kotse niya.
+1136. Sounds good, where are they going? — Ayos! Saan sila pupunta?
+1137. Shall I wait for you? — Dapat ba kitang hintayin?
+1138. They don't have many books. — Wala sila masyadong libro.
+1139. You're not listening to me. — Hindi ka nakikinig sa akin.
+1140. They're leaving tomorrow morning. — Aalis sila bukas ng umaga.
+1141. I put my bag on the table. — Nilagay ko ang bag sa mesa.
+1142. They're watching TV. — Nanonood sila ng telebisyon.
+1143. Do you forget the answer? — Nakakalimutan mo ba ang sagot?
+1144. What are the children doing? — Ano ang ginagawa ng mga bata?
+1145. My eyes are not very good. — Hindi na maganda ang aking mga mata.
+1146. Paper is made from wood. — Gawa sa kahoy ang papel.
+1147. What did you do last night? — Ano ang ginagawa mo kagabi?
+1148. Let's have chicken. — Kumain na lang tayo ng manok.
+1149. Why was she driving so fast? — Bakit siya mabilis magmaneho?
+1150. I don't want to talk to you. — Ayaw kong makipag-usap sa iyo.
+1151. They were waiting at the bus stop. — Naghihintay sila sa sakayan ng bus.
+1152. Were they at the party? — No, they weren't. — Nasa parti ba sila? — Wala, wala sila.
+1153. What were you doing at ten thirty? — Ano ang ginagawa mo noong alas diyes y medya?
+1154. I don't eat meat, but Tom does. — Hindi ako kumakain ng karne, pero si Tom kumakain.
+1155. Dennis doesn't like me. — He doesn't? Why not? — Hindi ako gusto ni Dennis. — Talaga? Bakit hindi?
+1156. Have you been to France? — No, I haven't. — Nakapunta ka na ba sa Pransiya? — Hindi, hindi pa.
+1157. Have you eaten all of them? — Kinain mo na ba lahat?
+1158. Steve always goes to work by car. — Palaging sumasakay ng kotse si Steve papuntang trabaho.
+1159. Did Eveline come to the party? — No, she didn't. — Pumunta ba sa parti si Eveline? — Hindi, hindi siya pumunta.
+1160. Have you ever been to South Korea? — Yes, once. — Nakapunta ka na ba sa South Korea? — Oo, isang beses pa lang.
+1161. Today the weather's nice, but yesterday it was very cold. — Maganda ang panahon ngayon, pero kahapon ay malamig na malamig.
+1162. Do you want to go to the movies, or just watch TV? — Gusto mo bang pumunta sa sinehan, o manood na lang ng telebisyon?
+1163. You've been to Brazil, haven't you? — Yes, many times. — Nakapunta ka na sa Brazil, hindi ba? — Oo, maraming beses na.
+1164. I can't understand this, can you explain it to me? — Hindi ko ito maintindihan, puwede mo ba ito ipaliwanag sa akin?
+1165. I was told that I shouldn't believe everything he says. — Sinabihan ako na huwag ako maniwala sa lahat ng sinasabi niya.
+1166. You'll help me, won't you? — Yes, of course I will. — Hindi ba't tutulungan mo ako? — Oo, talagang tutulungan kita.
+1167. The earth goes around the sun, and the moon goes around the earth. — Ang mundo ay umiikot sa araw, at ang buwan ay umiikot sa mundo.
+1168. Should we have dinner now, or wait until later? — Dapat ba tayong maghapunan ngayon, o maghintay hanggang mamaya?
+1169. She wanted to know if I could speak another language. — Gusto niyang malaman kung marunong ako magsalita ng ibang wika.
+1170. I haven't seen the movie, but my sister has. — Hindi ko pa napapanood ang pelikula pero napanood na ng ate ko.
+1171. Where were you living in nineteen ninety-nine? — Saan ka nakatira noong taong mil nuebe siyentos nubenta y nuebe?
+1172. A friend is going to see a movie. You want to know the name. — May kaibigang manonood ng sine. Gusto mong malaman ang pamagat.
+1173. I don't like friends calling me at work. — Ayaw kong tinatawagan ako ng mga kaibigan ko sa oras ng trabaho.
+1174. This house was built one hundred years ago. — Isangdaang taon na ang nakalipas noong naitayo ang bahay na ito.
+1175. Do you think you could help me move this table? — Sa tingin mo ba puwede mo akong tulungang ilipat ang mesang ito?
+1176. There was a good nature program on TV last night. — May magandang palabas tungkol sa kalikasan sa telebisyon kagabi.
+1177. Have you given the post office our new address yet? — Nabigay mo na ba sa tanggapan ng koreo ang aming bagong tirahan?
+1178. Cecilia's grandfather died when he was ninety years old. — Pumanaw ang lolo ni Cecilia noong siyamnapu't taong gulang siya.
+1179. Where is he now? — Nasaan na siya ngayon?
+1180. Where are your friends going? — Saan pupunta ang mga kaibigan mo?
+1181. I have to work in the afternoons. — Kakailanganin kong magtrabaho sa hapon.
+1182. Where's Renee? — Nasaan si Renee?
+1183. Did you go out last night? — Lumabas ka ba kagabi?
+1184. I'm sorry I'm late. — Paumanhin at nahuli ako.
+1185. No, come with me. — Hindi, sumama ka sa akin.
+1186. It's nice weather today. — Maganda ang panahon ngayon.
+1187. I've cleaned my room. — Nilinis ko ang aking kuwarto.
+1188. I'm hungry, but there isn't anything to eat. — Gutom ako, pero walang makain.
+1189. I hope you have good weather. — Sana maganda ang panahon diyan.
+1190. Do you want to know the answer? — Gusto mo bang malaman ang sagot?
+1191. Is it raining? — Yes, take an umbrella. — Umuulan ba? — Oo, magdala ka ng payong.
+1192. What's your name? — I'm Brian. — Ano ang pangalan mo? — Ako ay si Brian.
+1193. Natalie's been in Brazil for three days. — Tatlong araw nang nasa Brasil si Natalie.
+1194. She shouldn't watch TV so much. — Hindi siya dapat madalas manood ng telebisyon.
+1195. Is Lisa from Toronto? — No, she's American. — Taga Toronto ba si Lisa? — Hindi, Amerikana siya.
+1196. Have you ever played golf? — Yes, I play a lot. — Nakapaglaro ka na ba ng golf? — Oo, madalas ako maglaro.
+1197. There's a red car outside your house. Is it yours? — May pulang kotse sa labas ng bahay. Sa iyo ba ito?
+1198. My mother wears glasses, but my father doesn't. — Nagsusuot ng salamin ang aking nanay, pero ang tatay ko, hindi.
+1199. That's impossible. — Imposible iyan.
+1200. He thinks. — Nag-iisip siya.
+1201. Am I late? — Huli na ba ako?
+1202. It's very interesting. — Ito'y nakakawili.
+1203. I was tired, but I couldn't sleep. — Pagod ako pero hindi ako makatulog.
+1204. He might go out tomorrow evening. — Maaaring lumabas siya bukas ng gabi.
+1205. Valentina needs a change. — Kailangan ng pagbabago si Valentina.
+1206. What does this word mean? — Ano ang ibig sabihin ng salitang ito?
+1207. Are you hungry? — No, but I'm thirsty. — Gutom ka ba? — Hindi, pero uhaw ako.
+1208. What time do you think we should go home? — Sa tingin mo, anong oras tayo dapat umuwi?
+1209. Were you late? — No, I wasn't. — Nahuli ka ba? — Hindi, hindi ako nahuli.
+1210. I don't think it'll rain this afternoon. — Sa palagay ko, hindi uulan mamayang hapon.
+1211. We took an umbrella because it looked like it was going to rain. — Nagdala kami ng payong dahil mukhang uulan.
+1212. Ask if he has any brothers or sisters. — Pakitanong kung mayroon siyang mga kapatid.
+1213. Did you go to Spain last year? — Pumunta ka ba sa Espanya noong nakaraang taon?
+1214. We went to Hong Kong last month. — Pumunta kami ng Hong Kong noong nakaraang buwan.
+1215. I don't like him, but he has a lot of problems. — Hindi ko siya gusto, pero marami siyang suliranin.
+1216. It's often cold here, but there isn't much rain. — Madalas, malamig dito, pero hindi masyadong umuulan.
+1217. At eight forty-five she was washing her car. — Naghugas siya ng kotse noong alas otso kuwarenta y singko.
+1218. Has Marco gone home? — Umuwi na ba si Marco?
+1219. I'd like an orange juice, please. — Gusto ko ng katas ng dalandan.
+1220. Feeling tired, I went to bed early. — Dahil sa pagod, maaga akong natulog.
+1221. I finished my work at two o'clock! — Alas dos ako natapos sa aking trabaho.
+1222. Do you think John will be at the party? — I hope not. — Sa tingin mo ba nasa parti si John? — Sana wala.
+1223. You notice the sky is blue and the sun is shining. — Napansin mong kulay asul ang himpapawid at sumisikat ang araw.
+1224. It's Kelly's birthday today. She's twenty-seven. — Kaarawan ni Kelly ngayon. Siya'y dalawampu't pitong taong gulang.
+1225. I saw some of her work last week. — May mga nakita ako sa kanyang mga obra noong nakalipas na linggo.
+1226. I'm used to driving on the left because I grew up in England. — Sanay na akong magmaneho sa kaliwa dahil lumaki ako sa Inglatera.
+1227. They weren't laughing at you, they were laughing at your joke. — Hindi ka nila pinagtatawanan, tinatawanan nila ang iyong mga biro.
+1228. No, we should try leaving as soon as possible. — Hindi. Dapat natin subukang makaalis sa lalong madaling panahon.
+1229. It's said that she works sixteen hours a day. — Nasabing nagtatrabaho siya ng labing-anim na oras sa isang araw.
+1230. We didn't play very well, but we won the game. — Hindi masyadong maganda ang laro namin pero nanalo kami sa laro.
+1231. I saw Donna get into her car and drive away. — Nakita ko si Donna sumakay sa kanyang kotse at nagmaneho paalis.
+1232. Does she drive a bus? — Nagmamaneho ba siya ng bus?
+1233. No, let's not go out. — Hindi, huwag tayong lumabas.
+1234. He's in the kitchen cooking something. — May niluluto siya sa kusina.
+1235. Everybody's very nice at work. — Mababait ang mga tao sa trabaho.
+1236. Are you thinking of buying a car? — Nag-iisip ka bang bumili ng kotse?
+1237. How often do you wash your hair? — Gaano kadalas ka naghuhugas ng buhok?
+1238. It's nine o'clock and I'm not ready. — Alas nuebe na at hindi pa ako handa.
+1239. Do your parents speak English? — Nakakapagsalita ba ng Ingles ang mga magulang mo?
+1240. Do you play any sports? — Yes, I play basketball. — Naglalaro ka ba ng isports? — Oo, naglalaro ako ng basketbol.
+1241. Why are you laughing? — Bakit ka tumatawa?
+1242. Yes, I am a student. — Oo, estudyante ako.
+1243. Perhaps Helen will come. — Baka pumunta si Helen.
+1244. he's washed his car. — Hinugasan niya ang kotse niya.
+1245. What time do you usually go to bed? — Anong oras ka madalas matulog?
+1246. Why did you go home early? — Bakit maaga kang umuwi ngayon?
+1247. I'm twenty years old. — Dalawampung taong gulang na ako.
+1248. Where were you on Sunday afternoon? — Nasaan ka noong hapon ng linggo?
+1249. Do you want me to close the window? — Gusto mo bang isara ko ang bintana?
+1250. Yesterday she was in Rio de Janeiro. — Kahapon, siya ay nasa Rio de Janeiro.
+1251. It's impossible to work in this office. — Imposibleng magtrabaho sa opisining ito.
+1252. These rooms are cleaned every day. — Araw-araw nililinis ang mga kuwartong ito.
+1253. Flora works eight hours a day, six days a week. — Nagtatrabaho ng walong oras si Flora, anim na araw sa isang linggo.
+1254. There's no point in having a car if you never use it. — Walang silbi ang pagkakaroon ng kotse kung hindi mo gagamitin ito.
+1255. I've seen her a few times, but I've never spoken to her. — Ilang beses ko na siyang nakita, pero hindi ko pa siya nakakausap.
+1256. I've seen that man before, but I can't remember where. — Nakita ko na dati yung taong yun, pero hindi ko maalala kung saan.
+1257. I get the news every day, but sometimes I don't read it. — Araw-araw akong nakukuha ang balita, pero minsan hindi ko binabasa.
+1258. My sister's a nurse. — Ang kapatid kong babae ay isang nars.
+1259. Yes, but I'm not a very good swimmer. — Oo, pero hindi ako magaling lumangoy.
+1260. he's twenty-four. — Dalawampu't apat na taong gulang siya.
+1261. Why is David working so hard? — Bakit napakasipag magtrabaho ni David?
+1262. I don't think they should get married. — Sa tingin ko hindi pa dapat sila ikasal.
+1263. Give it to me and I'll show you. — Ibigay mo sa akin at ipakikita ko sa iyo.
+1264. These offices aren't cleaned every day. — Hindi araw-araw nililinis ang mga opisina.
+1265. We saw a really good movie yesterday. — Nanood kami ng magandang pelikula kahapon.
+1266. I don't like him, and he doesn't like me. — Hindi ko siya gusto, hindi niya ako gusto.
+1267. The weather isn't so nice today. — Hindi masyadong maganda ang panahon ngayon.
+1268. I visited her last week. — Dumalaw ako sa kanya noong nakaraang linggo.
+1269. I don't think we should stay there. — Sa tingin ko hindi tayo dapat manuluyan doon.
+1270. The sun was shining, and the birds were singing. — Sumisikat ang araw, at humuhuni ang mga ibon.
+1271. Are you Australian? — No, I'm Canadian. — Australyano ka ba? — Hindi, taga Kanada ako.
+1272. Last Sunday we went to the movies. — Noong nakaraang linggo, pumunta kami sa sinehan.
+1273. There's a good program on TV tonight. — May magandang palabas sa telebisyon ngayong gabi.
+1274. What color are your new shoes? — They're black. — Anong kulay ang bago mong sapatos? — Kulay itim.
+1275. We need to get a map of this city. — Kailangan nating kumuha ng mapa ng lungsod na ito.
+1276. Steve likes hot weather, but I don't. — Mahilig si Steve sa mainit na panahon pero ako, hindi.
+1277. Where's my phone? — I don't know. I don't have it. — Nasaan ang aking telepono? — Hindi ko alam. Wala sa akin.
+1278. Should I call you tonight? — Dapat ba kitang tawagan ngayong gabi?
+1279. she's been to Japan once. — Isang beses siyang nakapunta ng Japan.
+1280. At four o'clock he wasn't at home. — Noong alas kuwatro, wala siya sa bahay.
+1281. I stay home most days. — Kadalasan ay nananatili lang ako sa bahay.
+1282. We've lived in Paris for six years. — Anim na taon na kaming naninirahan sa Paris.
+1283. I didn't get up until noon this morning. — Nakatulog ako hanggang tanghali ngayong umaga.
+1284. Do you ever ride a bicycle? — Not usually. — Nakapagbisikleta ka na ba? — Hindi, hindi madalas.
+1285. I'll be there next week, but I probably won't see you. — Nandiyan ako sa susunod na linggo, pero baka hindi kita makita.
+1286. What are you going to do with it? — I haven't decided yet. — Ano ang gagawin mo sa perang ito? — Hindi ko pa napag-iisipan.
+1287. I'm going out with some friends tonight. — Lalabas ako ngayong gabi, at sasama ang ilan sa mga kaibigan ko.
+1288. Sonia went to the movies three times last week. — Tatlong beses pumunta si Sonia sa sinehan noong nakaraang linggo.
+1289. They've been married since nineteen ninety-nine. — Ikinalasal na sila mula pa noong mil nuebe siyentos nubenta y nuebe.
+1290. Should I go to the store? — No, I'll go. — Dapat ba akong pumunta sa tindahan? — Hindi, ako na ang pupunta.
+1291. I cut my hand this morning. — How did you do that? — Nahiwa ko ang aking kamay kaninang umaga. — Paano nangyari yoon?
+1292. Did you do your homework? — No, I didn't have time. — Ginawa mo ba ang iyong takdang-aralin? — Hindi, wala akong oras.
+1293. Does he speak English? — Nakakapagsalita ba siya ng Ingles?
+1294. Please be quiet. I'm working. — Pakiusap, maging tahimik. Nagtatrabaho ako.
+1295. Is it cold today? — No, it isn't. — Malamig ba ngayon? — Hindi, hindi malamig.
+1296. All the flowers in this garden are beautiful. — Lahat ng bulaklak sa hardin na ito ay magaganda.
+1297. What's so funny? — Anong nakakatawa?
+1298. Does she know Claude? — Kilala ba niya si Claude?
+1299. It was a beautiful morning. — Maganda ang umaga kahapon.
+1300. They're too young to get married. — Masyado silang bata para ikasal.
+1301. Did you finish work early? — Maaga ka bang natapos magtrabaho?
+1302. All the tickets have been sold. — Naibenta na ang lahat ng mga tiket.
+1303. I couldn't decide which of the two shirts to buy. — Hindi ako makapasiya kung alin dito sa dalawang damit ang bibilhin.
+1304. My aunt is going to the zoo to meet them there. — Pupunta sa palahayupan ang tita ko para makipagkita sa kanila doon.
+1305. Should I tell him what happened, or does he already know? — Dapat ko bang sabihin sa kanya kung anong nangyari, o alam na niya?
+1306. Please buy more toilet paper before you use it all up. — Pakiusap lang na bumili ka pa ng papel sa banyo bago mo ito maubos.
+1307. she's always asking me to do things for her, as if I didn't have enough to do already. — Palagi siyang may pinapagawa sa akin na parang wala akong ginagawa.
+1308. How are you going to get home tonight? — Paano ka uuwi ngayong gabi?
+1309. Glass is made from sand. — Gawa sa buhangin ang salamin.
+1310. I don't want to go out tonight. — Ayokong lumabas ngayong gabi.
+1311. The office is being cleaned right now. — Nililinis ngayon ang opisina.
+1312. Should I turn on the light? — Dapat ko bang buksan ang ilaw?
+1313. We didn't spend much money. — Hindi kami masyadong gumastos.
+1314. Lucy doesn't like coffee. — Hindi mahilig si Lucy sa kape.
+1315. Why are you putting on your coat? — Bakit ka nagsusuot ng diyaket?
+1316. Is Franz working today? — Magtatrabaho ba ngayon si Franz?
+1317. Howard takes a shower every morning. — Naliligo si Howard tuwing umaga.
+1318. Paolo's bought a new car. — Bumili ng bagong kotse si Paolo.
+1319. You must be careful with this knife. — Mag-ingat ka sa kutsilyo na ito.
+1320. Isabelle's reading the newspaper. — Nagbabasa ng diyaryo si Isabelle.
+1321. It wasn't raining when we went out. — Hindi umuulan noong lumabas kami.
+1322. The weather wasn't very good yesterday. — Hindi maganda ang panahon kahapon.
+1323. It's possible that I'll go to the movies. — Posibleng pumunta ako sa sinehan.
+1324. She isn't tired, but he is. — Hindi siya pagod, pero pagod siya.
+1325. Are you a teacher? — Yes, I am. — Isa ka bang guro? — Oo, guro ako.
+1326. Where were you born? — In Taipei. — Saan ka ipinanganak? — Sa Taipei.
+1327. I think I'll buy something to eat. — Sa tingin ko bibili ako ng pagkain.
+1328. What time did you finish your work? — Anong oras ka natapos sa trabaho mo?
+1329. What color is your bag? — It's black. — Anong kulay ang bag mo? — Kulay itim.
+1330. Have you ever played golf? — No, never. — Nakapaglaro ka na ba ng golf? — Hindi.
+1331. She always wears nice clothes. — Palagi siyang nakasuot ng magandang damit.
+1332. We had to walk home last night. — Kinailangan naming maglakad pauwi kagabi.
+1333. I was tired last night, but I couldn't sleep. — Pagod ako kagabi, pero hindi ako makatulog.
+1334. she's met a lot of interesting people. — Marami na siyang nakilalang nakakawiling mga tao.
+1335. How old are you? — I'm thirty-three. — Ilang taong gulang ka na? — Tatlumpu't tatlo ako.
+1336. Wilma isn't coming to the party next week. — Hindi pupunta si Wilma sa parti sa susunod na linggo.
+1337. Was Paul at work yesterday? — Yes, he was. — NASA trabaho ba si Paul kahapon? — Opo, nasa trabaho siya.
+1338. Is that a new jacket? — Bagong diyaket ba iyan?
+1339. What was the weather like yesterday? — Ano ang kalagayan ng panahon kahapon?
+1340. She must not hear very well. — Hindi siya siguro nakakarinig ng maigi.
+1341. A friend of mine is getting married this Saturday. — Ikakasal ngayong sabado ang isa kong kaibigan.
+1342. Richard has been to China, but I haven't. — Nakapunta na sa Tsina si Richard, pero ako hindi pa.
+1343. We're having a party next weekend. — Sa susunod na katapusan ng linggo, kami ay magpaparti.
+1344. I've just eaten a big dinner, so I'm not hungry. — Marami akong nakain sa hapunan, kaya hindi ako gutom.
+1345. She drinks tea, but she doesn't drink coffee. — Umiinom siya ng tsaa, pero hindi siya umiinom ng kape.
+1346. My brother can play the piano, too. — Marunong din tumugtog ng piyano ang kapatid kong lalake.
+1347. There's a football game on TV tonight. — There is? — May laro ng putbol sa telebisyon ngayong gabi. — Mayroon ba?
+1348. We've bought two new cars in the last three years. — Sa loob ng tatlong taon, bumili kami ng dalawang bagong kotse.
+1349. We won't see Miriam tonight. — Why not? — Hindi namin makikita si Miriam ngayong gabi. — Bakit hindi?
+1350. Hannah lives in Switzerland, but her parents don't. — Nakatira si Hannah sa Switzerland, pero ang magulang niya, hindi.
+1351. The missing children were last seen playing near the river. — Huling nakitang naglalaro malapit sa ilog ang mga nawawalang bata.
+1352. Angela can't drive. — She can't? She should learn. — Hindi marunong magmaneho si Angela. — Talaga? Dapat matuto siya.
+1353. I don't like friends to call me at work. — Ayaw kong tinatawagan ako ng mga kaibigan ko sa oras ng trabaho.
+1354. What did he do when the phone rang? — Ano ang ginawa niya nung tumunog ang telepono?
+1355. She had a pen, but she didn't have any paper. — Mayroon siyang panulat, ngunit wala siyang papel.
+1356. Anabel's working today, but I'm not. — Nagtatrabaho si Anabel ngayon, pero ako, hindi.
+1357. A factory is a place where things are made. — Ang pabrika ay isang lugar kung saan ginagawa ang mga bagay.
+1358. I didn't go out last night, but my friends did. — Hindi ako lumabas kagabi, pero lumabas ang mga kaibigan ko.
+1359. Can I have change for a dollar, please? — Mangyaring puwede ba akong magpabarya ng isang dolyar?
+1360. But didn't you say she wouldn't be here? — Pero hindi mo ba sinabi na hindi siya makakarating?
+1361. You should have done it like this. — Dapat ginawa mo siya tulad ng ipinakita ko sa iyo.
+1362. Did it rain yesterday? — No, it was a nice day. — Umulan ba kahapon? — Hindi, maganda ang panahon.
+1363. I've got a bike, but I haven't got a car. — Mayroon akong bisikleta ngunit wala akong kotse.
+1364. Do you think it's safe to drink this water? — Sa tingin mo ba ligtas inumin ang tubig na ito?
+1365. I slept until noon this morning. — Nakatulog ako hanggang tanghali ngayong umaga.
+1366. I can't run as fast as he can. — Hindi ko kayang tumakbo ng kasingbilis niya.
+1367. Angela loves to watch TV. — Mahilig manood ng telebisyon si Angela.
+1368. Hello, can I speak to Tomas, please? — Hello, puwede ko po bang makausap si Tomas?
+1369. These rooms get cleaned every day. — Araw-araw nililinis ang mga kuwartong ito.
+1370. Have you ever been to Montreal? — No, never. — Nakapunta ka na ba sa Montreal? — Hindi.
+1371. Are you waiting for a bus? — No, I'm waiting for a taxi. — Nag-aantay ka ba ng bus? — Hindi, nag-aantay ako ng taksi.
+1372. I've bought a new car. — Oh, you have? — Bumili ako ng bagong kotse. — O, talaga?
+1373. The office got cleaned yesterday. — Nalinis ang opisina kahapon.
+1374. Is Chris working today? — No, he isn't working. — Magtatrabaho ba si Chris ngayon? — Hindi, hindi siya magtatrabaho.
+1375. Now he's at work. — Nasa trabaho siya ngayon.
+1376. I didn't watch TV yesterday. — Hindi ako nanood ng telebisyon kahapon.
+1377. But you said you were staying home. — Pero sabi mo maiiwan ka lang sa bahay.
+1378. She's in the bathroom. — Siya ay nasa banyo.
+1379. Where's Kelly? — I don't know. — Nasaan si Kelly? — Hindi ko alam.
+1380. I'm sorry I shouted at you yesterday. — Patawad dahil nasigawan kita kahapon.
+1381. Yes, the weather was great. — Opo, maganda ang panahon kahapon.
+1382. Are these the books you were looking for? — Ito ba ang mga librong hinahanap mo?
+1383. Our car's got four doors. — May apat na pintuan ang kotse namin.
+1384. Everything that they said was true. — Totoo ang lahat ng kanilang sinabi.
+1385. I'll do everything I can to help. — Tutulong ako sa aking makakaya.
+1386. He's been there for the last three days. — Tatlong araw na siyang nandoon.
+1387. I don't like being kept waiting. — Ayaw kong pinaghihintay ako.
+1388. The windows are being washed. — Hinuhugasan ang mga bintana.
+1389. No, let's take a bus. — Hindi, sumakay tayo ng bus.
+1390. How was the window broken? — Paano nabasag ang bintana?
+1391. Does he like music? — Mahilig ba siya sa musika?
+1392. He was wearing a hat. — Nakasuot siya ng sumbrero.
+1393. The office is being cleaned. — Nililinis na ang opisina.
+1394. The phone is ringing. — Tumutunog ang telepono.
+1395. There were no stores open. — Walang bukas na tindahan.
+1396. The trees have been cut down. — Pinuputol ang mga puno.
+1397. It was such a stupid story. — Napakabobo ng kwento.
+1398. I made a mistake. — Nagkamali ako.
+1399. Where is she from? — She's from Mexico. — Taga saan siya? — Taga Mehiko siya.
+1400. Karla lives in Tokyo. — Nakatira sa Tokyo si Karla.
+1401. Toronto isn't in the United States. — Wala sa Amerika ang Toronto.
+1402. I'm not reading the newspaper. — Hindi ako nagbabasa ng diyaryo.
+1403. I'm studying English. — Nag-aaral ako ng wikang Ingles.
+1404. Are you hungry? — Yes, I am. — Gutom ka ba? — Oo, gutom ako.
+1405. Are you tired? — Yes, I am tired. — Pagod ka ba? — Opo, pagod ako.
+1406. She lives in New York. — Nakatira siya sa New York.
+1407. She's eating an apple. — Kumakain siya ng mansanas.
+1408. He's reading the newspaper. — Nagbabasa siya ng diyaryo.
+1409. I work in an office. — Nagtatrabaho ako sa opisina.
+1410. Do you have a car? — No, I don't. — May kotse ka ba? — Wala.
+1411. It isn't hot today. — Hindi mainit ngayon.
+1412. Go away! — Alis!
+1413. I'm bored. — Naiinip ako.
+1414. Let's dance. — Sayaw tayo.
+1415. I'm going out. — Lalabas ako.
+1416. Do something. — Kumilos ka!
+1417. They're going out. — Palabas sila.
+1418. She has. — Mayroon siya.
+1419. He's laughing. — Tumatawa siya.
+1420. Where are you from? — Taga saan ka?
+1421. I'm very tired. — Pagod na ako.
+1422. It flies. — Lumilipad ito.
+1423. There isn't any snow. — Walang niyebe.
+1424. He's in bed. — Nasa kama siya.
+1425. What time is it? — Anong oras na?
+1426. You don't have a dog. — Wala kang aso.
+1427. He dances. — Sumasayaw siya.
+1428. She reads. — Nagbabasa siya.
+1429. This bag is heavy. — Mabigat ang bag.
+1430. I'm not hungry. — Hindi ako gutom.
+1431. I'm not tired. — Hindi ako pagod.
+1432. Do you have any money? — May pera ka ba?
+1433. The bus is late. — Huli na ang bus.
+1434. Do you have a car? — May kotse ka ba?
+1435. They're at home. — Nasa bahay sila.
+1436. She doesn't have a key. — Wala siyang susi.
+1437. I'm working. — Nagtatrabaho ako.
+1438. There's a book on the table. — May libro sa mesa.
+1439. I'm from New York. — Taga New York ako.
+1440. I'm not rich. — Hindi ako mayaman.
+1441. Where are they going? — Saan sila pupunta?
+1442. Where's she going? — Saan siya pupunta?
+1443. She doesn't have a car. — Wala siyang kotse.
+1444. I'm hungry. I'll have it. — Gutom ako, akin na.
+1445. Open a window. — Magbukas ng bintana.
+1446. These bags are heavy. — Mabigat ang mga bag.
+1447. It's eleven o'clock now. — Alas onse na ngayon.
+1448. She isn't eating. — Hindi siya kumakain.
+1449. It's late. — Gabi na.
+1450. They're a dollar. — Isang dolyar.
+1451. Where is she going? — Saan siya pupunta?
+1452. Let's go. — Tara na.
+1453. It's raining. — Umuulan.
+1454. It's going to rain. — Uulan yan.
+1455. I'm thirsty. — Uhaw ako.
+1456. I'm hungry. — Gutom ako.
+1457. I'm tired. — Pagod ako.
+1458. It costs a lot of money. — Magastos ito.
+1459. It's cold today. — Malamig ngayon.
+1460. How are you? — Kamusta ka?
+1461. It's not cold. — Hindi malamig.
+1462. It's hot today. — Mainit ngayon.
+1463. I have a car. — May kotse ako.
+1464. Come on! — Tara na!
+1465. They read a lot. — Madami sila magbasa.
+1466. It's cold. — Malamig.
+1467. You weren't at home last night. Where were you? — Wala ka sa bahay kagabi. Nasaan ka?
+1468. Would you like to eat with us, or have you already eaten? — Gusto mo bang sumabay sa amin kumain, o tapos ka nang kumain?
+1469. I tried to keep my eyes open, but I couldn't. — Sinubukan kong idilat ang aking mga mata, pero hindi ko kaya.
+1470. I haven't been to Mexico, but Zoe has. — Hindi pa ako nakakapunta ng Mexico, pero nakapunta na si Zoe.
+1471. I used to read a lot of books, but I don't read much these days. — Madalas akong magbasa ng libro, pero ngayon hindi na masyado.
+1472. It's a nice day today, but yesterday it rained all day. — Maganda ang panahon ngayon, ngunit umulan kahapon buong araw.
+1473. She doesn't have a bike. — Wala siyang bisikleta.
+1474. I don't want this banana. — Ayaw ko itong saging.
+1475. What do they do?— Ano ang ginagawa nila?
+1476. What's he doing? — Ano ang ginagawa niya?
+1477. I'm working tomorrow. — Magtatrabaho ako bukas.
+1478. He's lying on the floor. — Nakahiga siya sa sahig.
+1479. Do you know a lot of people? — Marami ka bang kakilala?
+1480. There aren't many people here. — Wala masyadong tao dito.
+1481. They're not at home now. — Wala sila sa bahay ngayon.
+1482. They don't go out very often. — Hindi sila madalas lumabas.
+1483. Her parents live in Chicago. — Nakatira sa Chicago ang mga magulang niya.
+1484. Are you wearing a watch? — No, I'm not wearing a watch. — Suot mo ba ang relo mo? — Hindi, hindi ko suot.
+1485. Did you hear? — Narinig mo ba?
+1486. He's got a lot of problems. — Marami siyang suliranin.
+1487. The phone's ringing. — Tumutunog ang telepono.
+1488. I might not have time to go out. — Maaaring wala akong oras lumabas.
+1489. Are you going out tonight? — I might. — Lalabas ka ba ngayong gabi? — Baka.
+1490. Is it beautiful? — I don't know. I've never been there. — Maganda ba? — Hindi ko alam. Hindi pa ako nakakapunta doon.
+1491. Could you send me the money as soon as possible? — Maaari mo bang maipadala ang pera sa lalong madaling panahon?
+1492. He's been sick for the last few days. — Ilang araw na siyang may sakit.
+1493. My suitcase is very heavy. — Mabigat na mabigat ang aking maleta.
+1494. Ask him if he's sold his car yet. — Pakitanong sa kanya kung naibenta na ba niya ang kotse niya.
+1495. A lot of my friends are getting married this year. — Karamihan sa aking mga kaibigan ay ikakasal na ngayong taon.
+1496. I've got a new job, and it's hard work. — Nakakuha ako ng bagong trabaho, at ito'y mahirap na trabaho.
+1497. I need my glasses, but I can't find them. — Kailangan ko ang aking mga salamin pero hindi ko ito makita.
+1498. I don't like hot weather, but Cecilia does. — Hindi ko gusto ang mainit na panahon, pero gusto ni Cecilia.
+1499. You ask, "You haven't seen my keys, have you?" — Tanong mo, "Hindi mo ba nakita ang aking mga susi, hindi ba?"
+1500. He always wears a coat, even in hot weather. — Lagi siyang nakasuot ng diyaket, kahit na mainit ang panahon.
+1501. I started my new job last week. — Noong nakaraang linggo ako nagsimula sa aking bagong trabaho.
+1502. I've lived in Chicago since I was ten years old. — Sampung taong gulang pa lang ako, nakatira na ako sa Chicago.
+1503. She's reading a book. — Nagbabasa siya ng libro.
+1504. We have a new car now. — May bagong kotse na kami.
+1505. I'm going away for a few days. — Aalis ako ng ilang araw.
+1506. They're playing football. — Naglalaro sila ng putbol.
+1507. Does your father have a car? — May kotse ba ang tatay mo?
+1508. There's a train every hour. — May tren bawat isang oras.
+1509. It's dark in this room. — Madilim sa kuwarto na ito.
+1510. Where are my keys? — Nasaan ang aking mga susi?
+1511. Can you swim? — Marunong ka bang lumangoy?
+1512. Where's the camera? — It's in your bag. — Nasaan ang kamera? — Nasa bag mo.
+1513. Where's your mother? Is she at home? — Nasaan ang nanay mo? Nasa bahay ba siya?
+1514. We're eating breakfast. — Kumakain kami ng almusal.
+1515. Santo was in his car driving. — Nasa kotse si Santo, nagmamaneho.
+1516. Are you going out tonight? — Lalabas ka ba ngayong gabi?

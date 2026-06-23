@@ -1,0 +1,351 @@
+TAGALOG VERB SYSTEM — STAGE 4B v2
+Last updated: 2026-05-09
+
+Purpose:
+This file helps the tutor explain verbs in practical root-family form.
+It is not a complete grammar reference.
+
+CORE PRINCIPLE
+Teach verbs as usable chunks and root families.
+Use root-family maps when they help Tom understand the structure.
+Do not dump paradigms.
+
+WHEN INTRODUCING A VERB
+Use this order:
+1. practical phrase
+2. root
+3. visible shape
+4. practical meaning
+5. one useful contrast
+6. immediately return to production
+
+Example:
+kunin
+- phrase: Kailan ko ito puwedeng kunin?
+- root: kuha = get/take
+- visible shape: kunin
+- practical meaning: pick up/get the thing
+- contrast: kumuha = get generally; kunin = get the thing
+- drill: pick this up later/tomorrow/this afternoon
+
+==================================================
+1. CORE ACTION TRACKS
+==================================================
+
+Ako-track:
+Tom as actor doing a general action.
+- Puwede ba akong maghintay?
+- Dapat ba akong bumalik?
+- Puwede ba akong magtanong?
+
+Ko-track:
+Tom acts on a target.
+- Puwede ko ba itong kunin?
+- Dapat ko ba siyang tawagan?
+- Hintayin ko na lang ba ito?
+
+Teach track choice before focus terminology.
+
+==================================================
+2. ROOT FAMILY: BIGAY
+==================================================
+
+Root:
+bigay = give
+
+Forms:
+- magbigay = give generally
+- ibigay = give the thing
+- bigyan = give someone something
+
+Frames:
+- bigyan + person + ng thing
+- ibigay + ang thing + sa person
+
+Examples:
+- Bigyan mo ako ng update.
+- Puwede mo ba akong bigyan ng kopya?
+- Kailangan ko siyang bigyan ng dokumento.
+- Ibigay mo ang dokumento sa kanya.
+
+Correction rule:
+If Tom says "bigyan ang thing", change to "bigyan + person + ng thing".
+If Tom says "ibigay ng thing", change to "ibigay ang thing sa person".
+
+==================================================
+3. ROOT FAMILY: KUHA
+==================================================
+
+Root:
+kuha = get/take
+
+Forms:
+- kumuha = get/take generally
+- kunin = get/pick up the thing
+- kukunin = will pick up/get the thing
+
+Frames:
+- Kailan ko ito puwedeng kunin?
+- Kailangan kong kunin ito bukas.
+- Kukunin ko ito mamayang hapon.
+- Kunin ko na lang ba ito bukas?
+
+Common error:
+kuning before time words.
+Correction:
+kunin mamaya / kunin bukas / kunin ang dokumento.
+
+==================================================
+4. ROOT FAMILY: HINTAY
+==================================================
+
+Root:
+hintay = wait
+
+Forms:
+- maghintay = wait generally
+- hintayin = wait for a thing/person
+- hihintayin = will wait for a thing/person
+
+Frames:
+- Maghintay na lang ba ako dito?
+- Hintayin ko na lang ba ito?
+- Dapat ko ba siyang hintayin?
+- Hihintayin ko siya.
+
+Contrast:
+maghintay = wait
+hintayin + target = wait for
+
+==================================================
+5. ROOT FAMILY: BALIK
+==================================================
+
+Root:
+balik = return/go back
+
+Forms:
+- bumalik = come/go back
+- balikan = come/go back for something/someone
+- babalikan = will come back for
+
+Frames:
+- Puwede ba akong bumalik bukas?
+- Balikan ko na lang ba ito mamaya?
+- Babalikan ko ito bukas.
+
+Contrast:
+bumalik = come back
+balikan = come back for this/person
+
+==================================================
+6. ROOT FAMILY: TANONG
+==================================================
+
+Root:
+tanong = question/ask
+
+Forms:
+- magtanong = ask generally
+- tanungin = ask someone
+
+Frames:
+- Puwede ba akong magtanong?
+- Magtanong na lang ba ako sa iba?
+- Puwede ko ba siyang tanungin?
+- Kailangan ko siyang tanungin.
+
+Contrast:
+magtanong sa iba = ask someone else / ask elsewhere
+tanungin siya = ask him/her
+
+==================================================
+7. ROOT FAMILY: INOM
+==================================================
+
+Root:
+inom = drink
+
+Forms:
+- uminom = drink
+- iinom = will drink
+- inumin = drink the thing / beverage item
+
+Frames:
+- Ano ang gusto mong inumin?
+- Gusto kong uminom ng tubig.
+- Ano ang iinumin mo?
+
+Keep practical.
+
+==================================================
+8. ROOT FAMILY: KAIN
+==================================================
+
+Root:
+kain = eat
+
+Forms:
+- kumain = eat
+- kakain = will eat
+- kainin = eat the thing
+
+Frames:
+- Gusto kong kumain.
+- Ano ang gusto mong kainin?
+- Ano ang kakainin natin?
+
+==================================================
+9. ROOT FAMILY: DALA
+==================================================
+
+Root:
+dala = bring/carry
+
+Forms:
+- magdala = bring/carry generally
+- dalhin = bring/take the thing
+- dala ko = I have with me / I brought
+
+Frames:
+- Magdala ka ng payong.
+- Dalhin mo ito.
+- Dala mo ba ang susi?
+- Wala sa akin ang susi.
+
+Use in:
+travel, shopping, home, errands.
+
+==================================================
+10. ROOT FAMILY: DATING
+==================================================
+
+Root:
+dating = arrive / arrival
+
+Forms:
+- dumating = arrived / arrive
+- darating = will arrive
+- makarating = manage to arrive / reach
+- pagdating = upon arrival
+
+Frames:
+- Dumating na siya.
+- Darating ako mamaya.
+- Makakarating ako mamaya.
+- Pagdating ko, tatawag ako.
+
+Use for:
+transport, schedules, delays.
+
+==================================================
+11. ROOT FAMILY: TIRA
+==================================================
+
+Root:
+tira = live/reside; also leftover depending context
+
+For residence:
+- nakatira = lives/resides
+- tumira = lived/stayed
+- titira = will live/stay
+
+Frames:
+- Saan ka nakatira ngayon?
+- Nakatira ako sa...
+- Dito ako nakatira.
+
+Teach residence first. Leftover sense only when context requires.
+
+==================================================
+12. ROOT FAMILY: ALIS
+==================================================
+
+Root:
+alis = leave
+
+Forms:
+- umalis = left / leave
+- aalis = will leave
+- umaalis = leaving / leaves habitually
+- paalis = about to leave / on the way out
+- pag-alis = upon leaving
+
+Frames:
+- Aalis ako mamaya.
+- Umalis siya kahapon.
+- Anong oras ka aalis?
+- Pag-alis ko, tatawag ako.
+
+==================================================
+13. ROOT FAMILY: BUKAS / SARA
+==================================================
+
+bukas = open
+- buksan = open the thing
+- mabuksan = be able to open
+
+sara = close
+- isara = close the thing
+- sarado = closed
+
+Frames:
+- Bukas ba ito?
+- Sarado na ba ang tindahan?
+- Puwede mo bang buksan ang pinto?
+- Hindi ko mabuksan ang pinto.
+- Maaari mo bang isara ang bintana?
+
+==================================================
+14. ROOT FAMILY: LAGAY
+==================================================
+
+Root:
+lagay = put/place
+
+Forms:
+- maglagay = put generally
+- ilagay = put the thing
+- nakalagay = placed / written / located
+
+Frames:
+- Ilagay mo ito dito.
+- Saan ko ito ilalagay?
+- Ano ang nakalagay dito?
+
+==================================================
+15. ASPECT MICRO-CONTRASTS
+==================================================
+
+Teach aspect only through practical scene contrasts.
+
+Examples:
+kunin:
+- Kukunin ko ito bukas. = I will pick this up tomorrow.
+- Kunin ko na lang ba ito bukas? = Should I just pick this up tomorrow?
+
+alis:
+- Umalis siya. = He/she left.
+- Aalis siya. = He/she will leave.
+
+tawag:
+- Tatawagan ko siya. = I will call him/her.
+- Hindi ko pa siya natawagan. = I haven't managed to call him/her yet.
+
+==================================================
+16. CORRECTION POLICY
+==================================================
+
+Priority:
+1. wrong meaning
+2. wrong root family
+3. wrong track: ako vs ko
+4. wrong person marker: siya/siyang/sa kanya
+5. wrong object marker: ng vs ang
+6. aspect only if time meaning breaks
+7. spelling after meaning is stable
+
+Preferred style:
+- wrong form
+- better form
+- one short reason

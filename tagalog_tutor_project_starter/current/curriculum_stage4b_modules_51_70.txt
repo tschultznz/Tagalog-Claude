@@ -1,0 +1,700 @@
+TAGALOG CURRICULUM — STAGE 4B REBUILD
+Version: v2, Claude-patched
+Last updated: 2026-05-09
+
+PURPOSE
+Stage 4B is a deliberate bridge before Stage 5.
+It expands Tom's everyday active vocabulary and real-life conversational control without abandoning structure.
+
+Stage 4B exists because Tom needs:
+- broader daily vocabulary
+- colors and description words
+- numbers, money, and time
+- po-register and particles
+- listening recognition
+- natural Taglish awareness
+- self-introduction and being asked about himself
+- structured practice that slowly becomes messier
+
+STAGE 4B METHOD
+Each module uses:
+- root-family or concept hint first
+- one main pattern in multiple forms
+- choice-based half-dialogues
+- English intent hints below prompts
+- no full answer key before production
+- concise correction after production
+- one short listening micro
+- date-tagged progress update
+
+STAGE 4B SESSION LOAD
+Normal session:
+- 1 due weak point
+- 8 to 12 old phrases or micro-frames
+- 3 to 6 new lexical items or chunks
+- 1 concept/root-family hint
+- 4 to 8 controlled prompts
+- 3 to 5 half-dialogues
+- 1 listening-recognition micro
+- 1 short original line or scene when stable
+
+SPACED REVIEW
+Every session should check progress.txt for:
+- D3 items: last seen 3+ days ago
+- D7 items: last seen 7+ days ago
+- D14 items: last seen 14+ days ago
+- HIGH priority weak points
+
+CORPUS NATURALNESS
+Use the corpus as the familiarity base.
+If a corpus line is stilted, teach the natural spoken target and optionally mention the corpus version in one line.
+
+TAGLISH NOTE
+Stage 4B teaches natural code-switching when useful.
+Taglish is not a failure; it is part of real Filipino speech.
+But it must be controlled and labeled:
+- [TAGLISH-NATURAL]
+- [PURE TAGALOG OPTION]
+- [AVOID: broken mix]
+
+LEGACY STATUS
+Modules 37-50 were the original Stage 4 domain and grammar cleanup sequence.
+Module 51 is treated as the completed service/repair consolidation from Tom's live work.
+The active rebuild begins at Module 52.
+
+==================================================
+MODULE 51. SERVICE / REPAIR CONSOLIDATION — COMPLETED
+==================================================
+
+Status:
+- Completed in live work before this rebuild.
+- Maintain with light review only.
+
+Stable targets:
+- Puwede ko ba itong kunin mamaya?
+- Kailan ko ito puwedeng kunin?
+- Kailangan kong bumalik bukas.
+- Maghintay na lang ba ako dito?
+- Hintayin ko na lang ba ito?
+- Bumalik na lang ba ako mamaya?
+- Balikan ko na lang ba ito mamaya?
+- Puwede ba akong magtanong sa iba?
+- Puwede ko ba siyang tanungin?
+- Puwede mo ba akong bigyan ng update?
+- Ibigay ang dokumento sa kanya.
+- Hindi pa ito tapos.
+- Kailan matatapos ito?
+- Dahil sa problema, kailangan kong bumalik bukas.
+
+Maintenance only:
+- bigyan + person + ng thing
+- ibigay + ang thing + sa person
+- ako-track vs ko-track
+- dahil sa + noun vs dahil + clause
+
+==================================================
+MODULE 52. DESCRIBING THINGS I: SIZE, TEMPERATURE, OPEN/CLOSED, NEW/OLD
+==================================================
+
+Scene:
+Home, room, shop, café, service counter.
+
+Main goals:
+- describe things and situations
+- learn basic contrasts
+- use adjective sentences naturally
+- avoid textbook stiffness
+
+Core vocabulary:
+- malaki / maliit
+- mainit / malamig
+- bago / luma
+- bukas / sarado
+- madilim / maliwanag
+- malinis / madumi
+
+Core frames:
+- Malaki ang kuwarto.
+- Maliit ang bag.
+- Mainit ang kape.
+- Malamig ang tubig.
+- Bukas ba ang tindahan?
+- Sarado na ba ito?
+- Mainit dito sa kuwarto.
+- Madilim dito.
+
+Naturalness note:
+Prefer "Mainit dito sa kuwarto" or "Mainit sa kuwartong ito" over stilted "Mainit sa kuwarto na ito."
+
+Grammar/control:
+Predicate adjective:
+- Mainit ang kape.
+Modifier adjective:
+- mainit na kape
+- malaking kuwarto
+
+Do not over-theorize. Teach as two useful frames.
+
+Listening micro:
+2-3 lines with mainit/malamig/bukas/sarado and one particle like na/pa.
+
+Advancement:
+Tom can describe 5 objects/situations and ask 3 yes/no adjective questions.
+
+==================================================
+MODULE 53. COLORS, CLOTHES, AND OBJECT DESCRIPTION
+==================================================
+
+Scene:
+Clothes, bags, shoes, phone, room, shopping.
+
+Core vocabulary:
+- puti, itim, pula, asul, berde, dilaw
+- kulay abo, kayumanggi
+- damit, sapatos, bag, relo, telepono, kotse
+
+Core frames:
+- Anong kulay ito?
+- Asul ito.
+- Gusto ko ang asul na bag.
+- Nasaan ang itim na sapatos?
+- Bago ba ang pulang damit?
+- May ibang kulay ba?
+
+Grammar/control:
+Color as description:
+- kulay asul
+- asul na bag
+- itim na sapatos
+
+Advancement:
+Tom can ask color, describe objects, and combine color + size/new/old.
+
+==================================================
+MODULE 53.5. NUMBERS, MONEY, TIME, AND COUNTING
+==================================================
+
+Scene:
+Shopping, time, appointments, transport, ordering.
+
+Why inserted:
+Numbers were too scattered. They are a hidden bottleneck for money, time, and everyday logistics.
+
+Core targets:
+- native counting: isa, dalawa, tatlo...
+- Spanish-derived forms for time/money recognition where common
+- ilan vs ilang
+- isang kape / dalawang tao
+- alas-singko / alas-otso y media
+- magkano
+- piso, barya, sukli
+
+Core frames:
+- Magkano po ito?
+- Ilang tao?
+- Ilang kape?
+- Anong oras?
+- Alas-singko.
+- May sukli po ba?
+- Dalawang kape po.
+- Isang tubig at isang kape.
+
+Teaching note:
+Do not attempt total number mastery in one session.
+Teach numbers in small practical scenes:
+- ordering
+- price
+- time
+- people count
+
+Listening micro:
+Short café or driver exchange with price/time.
+
+Advancement:
+Tom can ask price, say simple quantities, understand simple time, and count people/things in small numbers.
+
+==================================================
+MODULE 54. FOOD, DRINK, ORDERING, AND TABLE TALK II
+==================================================
+
+Scene:
+Café, table, home meal, ordering with friend/partner.
+
+Core vocabulary:
+- tubig, kape, tsaa, kanin, isda, manok
+- ulam, almusal, tanghalian, hapunan
+- gutom, uhaw, busog
+
+Core frames:
+- Gusto ko ng kape.
+- Gusto kong kumain.
+- Ano ang gusto mong inumin?
+- Ano ang gusto mong kainin?
+- Gusto mo ba ng kape?
+- May kanin ba?
+- Wala nang kanin.
+- Pakiabot mo nga 'yung tubig.
+- Paki-order nito. [TAGLISH-NATURAL]
+
+Grammar/control:
+- gusto ko ng + thing
+- gusto kong + action
+- may/wala availability
+- paki- requests
+
+Naturalness:
+- "Pakiabot mo nga 'yung tubig" is more natural than bare "Pakiabot nga" when the object is clear.
+- "Paki-order nito" is Taglish-natural. Pure option: "Puwede mo bang i-order ito?"
+
+Advancement:
+Tom can order basic food/drink, ask what someone wants, and request table items.
+
+==================================================
+MODULE 55.5. PO-REGISTER AND SPOKEN PARTICLES
+==================================================
+
+Teach this before the shopping module if Tom is about to do vendor/driver/service interactions.
+
+Scene:
+Vendors, drivers, elders, partner's family, strangers.
+
+Core targets:
+- po / opo / ho recognition
+- na, pa, lang, na lang
+- naman
+- kasi
+- talaga
+- sige
+- daw/raw
+- ba
+- polite vs casual versions of the same base phrase
+
+Core frames:
+Neutral:
+- Magkano ito?
+Po-register:
+- Magkano po ito?
+Casual:
+- Mura ba 'yan?
+Polite:
+- Mura po ba ito?
+
+Contrast sets:
+- Tapos na.
+- Hindi pa.
+- Ito lang.
+- Sige.
+- Sige po.
+- Sandali lang po.
+- Puwede po ba akong magtanong?
+
+Advancement:
+Tom can convert 5 base sentences across casual/neutral/po-register and recognize the effect of particles.
+
+==================================================
+MODULE 55. SHOPPING, CHOOSING, PRICE, AND PAYMENT
+==================================================
+
+Scene:
+Store, market, mall, pharmacy, small transaction.
+
+Core vocabulary:
+- mahal, mura, mas mahal, mas mura
+- presyo, bayad, sukli, barya
+- maliit, malaki, ibang kulay, iba
+- cash, card where useful
+
+Core frames:
+- Magkano po ito?
+- Mahal ba ito?
+- Mura ba 'yan?
+- May mas maliit ba?
+- May ibang kulay ba?
+- Ako na magbabayad.
+- May sukli po ba?
+- Puwede ba akong magpabarya?
+
+Grammar/control:
+- mas + adjective
+- may + noun ba
+- po-register with vendors
+
+Advancement:
+Tom can ask price, compare size/color/price, pay, and ask for change.
+
+==================================================
+MODULE 56. HOME, ROOM, OBJECTS, AND CONDITIONS
+==================================================
+
+Scene:
+Room, accommodation, household objects, problems.
+
+Core vocabulary:
+- kuwarto, pinto, bintana, ilaw, mesa, upuan
+- susi, kama, banyo, kusina, aircon
+- bukas/sarado, mainit/malamig, madilim/maliwanag
+
+Core frames:
+- Mainit dito sa kuwarto.
+- Madilim dito.
+- Bukas ba ang bintana?
+- Puwede mo bang buksan ang pinto?
+- Hindi ko mabuksan ang pinto.
+- Nasaan ang susi?
+
+Root families:
+- bukas → buksan / mabuksan
+- sara → isara
+- lagay → ilagay
+- dala → dalhin / magdala
+
+Advancement:
+Tom can describe a room problem and request simple object actions.
+
+==================================================
+MODULE 56.5. SELF-INTRODUCTION AND BEING ASKED ABOUT YOURSELF
+==================================================
+
+Scene:
+Partner's family, neighbors, social meetings, casual small talk.
+
+Core questions:
+- Tagasaan ka?
+- Saan ka nakatira ngayon?
+- Ilang taong gulang ka na?
+- May asawa ka na ba?
+- May anak ka ba?
+- Anong trabaho mo dati?
+- Gaano ka na katagal dito?
+- Marunong ka bang mag-Tagalog?
+
+Core answers:
+- Taga-...
+- Nakatira ako sa...
+- Wala akong anak.
+- May kasintahan ako.
+- Nag-aaral ako ng Tagalog.
+- Kaunti lang.
+- Dahan-dahan lang po.
+
+Register:
+Use po-register with older relatives and strangers.
+
+Advancement:
+Tom can handle common questions about himself in short, safe answers.
+
+==================================================
+MODULE 57. PEOPLE, FAMILY, AND SOCIAL DESCRIPTION
+==================================================
+
+Scene:
+Partner, family, friends, social circle.
+
+Core vocabulary:
+- nanay, tatay, kapatid, anak, asawa, kasintahan, kaibigan
+- mabait, tahimik, madaldal, masaya, pagod, busy
+- kilala, kakilala
+
+Core frames:
+- Sino siya?
+- Kaibigan mo ba siya?
+- Mabait siya.
+- Tahimik ba siya?
+- Nasaan ang kapatid mo?
+- Kilala mo ba siya?
+
+People marking:
+- si + person
+- sina + group
+- kay / kina only when needed
+
+Advancement:
+Tom can identify people, describe them lightly, and ask basic social questions.
+
+==================================================
+MODULE 58. RESPONSE SPEED AND LISTENING RECOGNITION I
+==================================================
+
+Moved earlier because real-life input in the Philippines is fast and messy.
+
+Core targets:
+- recognize particles
+- recognize the intent of short spoken lines
+- answer with short survival responses
+- choose between two meanings
+
+Activities:
+- 2-3 line written natural-speed dialogues
+- "What is happening?"
+- "Which word made it polite?"
+- "Is this asking, refusing, softening, or explaining?"
+- "What does na/pa/lang change?"
+
+Advancement:
+Tom can identify intent and respond with one short usable line.
+
+==================================================
+MODULE 59. TRANSPORT, DIRECTIONS, AND REAL-TIME LOGISTICS
+==================================================
+
+Scene:
+Jeep/taxi/ride, walking directions, delays, arrival.
+
+Core vocabulary:
+- sakayan, hintuan, kanan, kaliwa, diretso
+- trapiko, malapit, malayo
+- sakay, baba, dating, alis
+
+Core frames:
+- Saan ang sakayan?
+- Malapit ba ito?
+- Malayo ba?
+- May matinding trapiko.
+- Makakarating ako mamaya.
+- Maaari akong mahuli.
+- Dito na lang ako bababa.
+
+Root families:
+- dating → dumating / makarating / pagdating
+- alis → umalis / aalis / pag-alis
+- sakay → sumakay / makasakay
+
+Advancement:
+Tom can ask simple direction/logistics questions and explain delays.
+
+==================================================
+MODULE 60. DAILY RECAP I + MESSY SPEAKING START
+==================================================
+
+Scene:
+What happened today, errands, food, transport, home.
+
+Core frames:
+- Kanina...
+- Pag-uwi ko...
+- Pagdating ko...
+- Tapos...
+- Pero...
+- Kaya...
+- Dahil...
+
+Task:
+3-5 lines about the day.
+
+Messy weekly rule begins here:
+Once per week, run a no-hints 10-minute messy session in voice mode if available, otherwise written simulation.
+Correct only communication blockers, then extract 3 weak points.
+
+Advancement:
+Tom can give a short daily recap without collapsing.
+
+==================================================
+MODULE 61. HEALTH, BODY, FEELING, AND DAILY CARE
+==================================================
+
+Scene:
+Feeling sick, tired, hungry, needing rest.
+
+Core frames:
+- Masama ang pakiramdam ko.
+- May sakit ako.
+- Pagod ako.
+- Gutom ako.
+- Uhaw ako.
+- Kailangan kong magpahinga.
+- Ilang araw na akong may sakit.
+
+Advancement:
+Tom can describe basic condition and ask/answer simple care questions.
+
+==================================================
+MODULE 62. ERRANDS, SERVICES, AND OBJECT HELP II
+==================================================
+
+Scene:
+Pharmacy, repair, bank, document office, small errands.
+
+Core frames:
+- Kailangan kong pumunta sa...
+- May kailangan akong gawin.
+- Puwede mo ba itong tingnan?
+- Pakituro kung saan ako pupunta.
+- Ano ang susunod na hakbang?
+
+Root families:
+- gawa → gawin
+- tingin → tingnan
+- turo → ituro
+- paliwanag → ipaliwanag
+
+Advancement:
+Tom can manage a short errand/service exchange with repair language.
+
+==================================================
+MODULE 63. RELATIONSHIP, SOCIAL PLANS, AND FAMILY CONTEXT
+==================================================
+
+Scene:
+Partner, plans, family events, invitations.
+
+Core frames:
+- Pupunta kami mamaya.
+- Sasama ka ba?
+- Gusto mo bang sumama?
+- Makikipagkita ako sa kanya.
+- Kausap ko siya mamaya.
+- Nandiyan ba siya?
+
+Advancement:
+Tom can discuss simple plans and social coordination.
+
+==================================================
+MODULE 64. MIXED FIELD PREP I
+==================================================
+
+Scene rotation:
+- food
+- shopping
+- transport
+- home
+- service
+- partner/family
+- health
+- self-intro
+
+Required:
+- one repair phrase
+- one po-register phrase
+- one reason line
+- one status/availability line
+- one listening micro
+
+Advancement:
+Tom can survive a mixed practical session without heavy support.
+
+==================================================
+MODULE 65. LISTENING RECOGNITION AND RESPONSE SPEED II
+==================================================
+
+Deeper recognition cycle.
+
+Activities:
+- particle recognition
+- short spoken-style dialogue interpretation
+- choose the correct response
+- repair when lost
+- quick answer drills
+
+Advancement:
+Tom can identify intent and respond quickly with repair/survival phrases.
+
+==================================================
+MODULE 66. TAGLISH NATURALNESS AND SPOKEN COMPRESSION
+==================================================
+
+Scene:
+Modern everyday speech.
+
+Teach:
+- I-text mo ako.
+- Magte-text ako mamaya.
+- Nag-grocery ako.
+- Paki-order nito.
+- Ang random naman.
+- Sige, later na lang.
+
+Always label:
+- [TAGLISH-NATURAL]
+- [PURE TAGALOG OPTION]
+- [AVOID: broken mix]
+
+Advancement:
+Tom can recognize natural code-switching and use a few controlled Taglish chunks.
+
+==================================================
+MODULE 67. DAILY RECAP II AND MICRO-STORIES
+==================================================
+
+Scene:
+3-6 linked lines about real events.
+
+Core frames:
+- Noong...
+- Kanina...
+- Pagkatapos...
+- Habang...
+- Kaya...
+- Pero...
+- Akala ko...
+
+Advancement:
+Tom can narrate a short real event with time and reason.
+
+==================================================
+MODULE 68. RESERVED / FOLDED REVIEW SLOT
+==================================================
+
+Claude review noted that a separate mixed field prep module may overlap Module 64.
+Therefore Module 68 is not a default new-content module.
+
+Use Module 68 only if:
+- Module 64 was unstable
+- mixed scenario cycling needs more work
+- Tom requests more field prep before Stage 5
+
+Otherwise skip to Module 69.
+
+==================================================
+MODULE 69. SOCIAL NUANCE, FAMILY POLITENESS, AND REPAIR UNDER PRESSURE
+==================================================
+
+Scene:
+Partner's family, older people, group conversations, strangers.
+
+Core targets:
+- po-register under pressure
+- polite repair
+- short self-protection phrases
+- social softeners
+
+Frames:
+- Pakiulit po.
+- Dahan-dahan lang po.
+- Hindi ko po masyadong naintindihan.
+- Kaunti lang po ang Tagalog ko.
+- Pwede po bang magtanong?
+
+Advancement:
+Tom can politely survive group/social misunderstanding.
+
+==================================================
+MODULE 70. STAGE 4B READINESS CHECK
+==================================================
+
+Check domains:
+- describing things
+- colors/clothes/objects
+- numbers/money/time
+- food/table
+- shopping
+- po-register/particles
+- self-intro
+- home/room
+- transport
+- health
+- social plans
+- daily recap
+- listening recognition
+- Taglish awareness
+
+Pass criteria:
+- Tom can handle short practical exchanges in several domains
+- Tom can recover when lost
+- Tom can use po-register in service/family contexts
+- Tom can describe objects/conditions
+- Tom can manage numbers/time/price basics
+- Tom can recognize common particles
+- Tom can do a short messy session without total collapse
+
+After Module 70:
+Move to Stage 5 only if real conversation is the bottleneck, not basic structure.

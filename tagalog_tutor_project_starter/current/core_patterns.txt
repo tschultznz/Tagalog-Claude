@@ -1,0 +1,336 @@
+CORE PATTERNS — STAGE 4B v2
+Last updated: 2026-05-09
+
+Purpose:
+This file gives reusable production frames. It is not a grammar textbook.
+Use these frames for controlled variation and half-dialogues.
+
+NO-ANSWER-KEY FORMAT
+When building drills, give:
+- English intent prompt
+- optional slot hints
+- root/concept hints below
+Do not give the full Tagalog answer list before Tom produces.
+
+==================================================
+1. MAY / WALA AVAILABILITY
+==================================================
+
+Frames:
+- May tubig ba?
+- May kanin ba?
+- May menu ba?
+- Wala nang kanin.
+- May oras pa tayo.
+- Wala akong pera.
+
+Use for:
+- food
+- shopping
+- room
+- service
+- transport
+
+==================================================
+2. GUSTO / KAILANGAN / PUWEDE / DAPAT
+==================================================
+
+Thing:
+- Gusto ko ng kape.
+- Kailangan ko ng tubig.
+
+Action:
+- Gusto kong kumain.
+- Kailangan kong bumalik.
+- Puwede ba akong maghintay?
+- Dapat ba akong bumalik?
+
+Target action:
+- Puwede ko ba itong kunin?
+- Dapat ko ba siyang tawagan?
+- Kailangan ko siyang bigyan ng dokumento.
+
+Contrast:
+- kailangan ko ng + noun
+- kailangan kong + verb
+- kailangan ko ba itong + target verb
+- kailangan ko bang + verb + object
+
+==================================================
+3. AKO-TRACK VS KO-TRACK
+==================================================
+
+Ako-track = I do the action generally:
+- Puwede ba akong maghintay?
+- Dapat ba akong bumalik?
+- Puwede ba akong magtanong?
+- Maghintay na lang ba ako?
+
+Ko-track = I act on a target:
+- Puwede ko ba itong kunin?
+- Dapat ko ba siyang tanungin?
+- Hintayin ko na lang ba ito?
+- Balikan ko na lang ba ito?
+
+Teach as practical tracks, not theory.
+
+==================================================
+4. NA LANG DECISION CHECK
+==================================================
+
+Ako-track:
+- Maghintay na lang ba ako dito?
+- Bumalik na lang ba ako mamaya?
+- Magtanong na lang ba ako sa iba?
+
+Ko-track:
+- Hintayin ko na lang ba ito?
+- Balikan ko na lang ba ito mamaya?
+- Kunin ko na lang ba ito bukas?
+- Tawagan ko na lang ba siya mamaya?
+
+==================================================
+5. ADJECTIVE SENTENCES
+==================================================
+
+Predicate frame:
+- Mainit ang kape.
+- Malamig ang tubig.
+- Malaki ang kuwarto.
+- Maliit ang bag.
+- Sarado ang tindahan.
+- Bukas pa ba ito?
+
+Natural location:
+- Mainit dito sa kuwarto.
+- Madilim dito.
+- Malinis ba dito?
+
+Modifier frame:
+- mainit na kape
+- malamig na tubig
+- malaking kuwarto
+- maliit na bag
+- lumang sapatos
+- bagong telepono
+
+Teach contrast as:
+- Mainit ang kape. = sentence
+- mainit na kape = noun phrase
+
+==================================================
+6. COLORS
+==================================================
+
+Question:
+- Anong kulay ito?
+- Anong kulay ang gusto mo?
+
+Description:
+- Asul ito.
+- Pula ang bag.
+- Itim ang sapatos.
+
+Modifier:
+- asul na bag
+- pulang damit
+- itim na sapatos
+
+==================================================
+7. NUMBERS / TIME / MONEY
+==================================================
+
+Quantity:
+- Isang kape.
+- Dalawang tao.
+- Ilang tao?
+- Ilang kape?
+
+Price:
+- Magkano po ito?
+- May sukli po ba?
+- Puwede ba akong magpabarya?
+
+Time:
+- Anong oras?
+- Alas-singko.
+- Bukas ng umaga.
+- Mamayang hapon.
+
+Teach in small scenes only.
+
+==================================================
+8. FOOD / DRINK / TABLE
+==================================================
+
+Want:
+- Gusto ko ng kape.
+- Gusto kong kumain.
+- Gusto mo ba ng tubig?
+
+Question:
+- Ano ang gusto mong inumin?
+- Ano ang gusto mong kainin?
+- Ano ang kakainin natin?
+
+Availability:
+- May kanin ba?
+- Wala nang kanin.
+
+Request:
+- Pakiabot mo nga 'yung tubig.
+- Paki-order nito. [TAGLISH-NATURAL]
+
+==================================================
+9. BIGYAN VS IBIGAY
+==================================================
+
+Receiver target:
+- Bigyan mo ako ng update.
+- Puwede mo ba akong bigyan ng kopya?
+- Kailangan ko siyang bigyan ng dokumento.
+
+Thing target:
+- Ibigay mo ang dokumento sa kanya.
+- Puwede mo bang ibigay ang kopya sa akin?
+
+Rule:
+- bigyan + person + ng thing
+- ibigay + ang thing + sa person
+
+==================================================
+10. REASON
+==================================================
+
+Because of + noun:
+- Dahil sa problema...
+- Dahil sa matinding trapiko...
+- Dahil sa ulan...
+
+Because + clause:
+- Dahil hindi pa ito tapos...
+- Dahil kakauwi ko lang...
+- Dahil maaari akong mahuli...
+
+Common full lines:
+- Dahil sa problema, kailangan kong bumalik bukas.
+- Dahil hindi pa ito tapos, kailangan kong maghintay.
+- Hindi ko pa siya natawagan dahil kakauwi ko lang.
+
+==================================================
+11. STATUS / COMPLETION
+==================================================
+
+- Tapos na ba ito?
+- Hindi pa ito tapos.
+- Kailan matatapos ito?
+- Kailan ko ito puwedeng kunin?
+
+==================================================
+12. PO-REGISTER
+==================================================
+
+Neutral:
+- Magkano ito?
+- Puwede ba akong magtanong?
+- Pakiulit.
+
+Po-register:
+- Magkano po ito?
+- Puwede po ba akong magtanong?
+- Pakiulit po.
+- Sandali lang po.
+
+Use with:
+- drivers
+- vendors
+- elders
+- partner's family
+- service staff
+
+==================================================
+13. PARTICLE MICRO-CONTRASTS
+==================================================
+
+na = already / now shift
+- Tapos na.
+- Alis na ako.
+
+pa = still / not yet
+- Hindi pa.
+- Nandito pa siya.
+
+lang = only / just
+- Ito lang.
+- Sandali lang.
+
+na lang = just / instead / settle on this option
+- Bumalik na lang ako.
+- Kunin ko na lang ito.
+
+naman = softener / contrast / turn-taking
+- Ikaw naman.
+- Okay naman.
+
+kasi = because / explanation
+- Trapiko kasi.
+- Hindi pa tapos kasi.
+
+talaga = really
+- Talaga?
+- Mainit talaga.
+
+sige = okay / go ahead
+- Sige.
+- Sige po.
+
+==================================================
+14. LISTENING MICRO PROMPTS
+==================================================
+
+Use written mini-dialogues that sound spoken.
+
+Example:
+A: Sarado na po ba?
+B: Hindi pa, pero hanggang alas-singko lang.
+Task: What is the important time limit?
+
+Example:
+A: Pakiabot mo nga 'yung tubig.
+B: Ito ba?
+Task: What is being requested?
+
+Keep short. Do not overteach.
+
+==================================================
+15. SELF-INTRODUCTION
+==================================================
+
+Questions:
+- Tagasaan ka?
+- Saan ka nakatira ngayon?
+- Ilang taong gulang ka na?
+- May anak ka ba?
+- Anong trabaho mo dati?
+- Marunong ka bang mag-Tagalog?
+
+Safe answers:
+- Taga-...
+- Nakatira ako sa...
+- Wala akong anak.
+- Kaunti lang.
+- Nag-aaral ako ng Tagalog.
+- Dahan-dahan lang po.
+
+==================================================
+16. TAGLISH-NATURAL FRAMES
+==================================================
+
+Label these clearly:
+- I-text mo ako.
+- Magte-text ako mamaya.
+- Nag-grocery ako.
+- Paki-order nito.
+- Sige, later na lang.
+
+Give pure alternatives when useful, but do not pretend common Taglish is broken.

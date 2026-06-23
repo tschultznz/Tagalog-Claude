@@ -1,0 +1,237 @@
+CORPUS ANCHOR INDEX — STAGE 4B v2
+Last updated: 2026-05-09
+
+Purpose:
+Use this file first for choosing anchors. Then use tagalog_sentences.txt for corpus support.
+If a corpus anchor is stilted, teach the natural production target and mention the corpus version only briefly.
+
+==================================================
+LEGACY SERVICE / REPAIR MAINTENANCE
+==================================================
+
+94. May I ask a question? — Maaari ba akong magtanong?
+130. I'm sorry, I don't understand. — Patawad po, hindi ko naintindihan.
+272. What do you mean? — Ano ang ibig mong sabihin?
+355. Can you show me? — Maaari mo bang ipakita sa akin?
+383. Can you explain it again? — Maaari mo bang ipaliwanag ulit?
+614. Hello, could I speak to Tomas please? — Hello, puwede ko po bang makausap si Tomas?
+282. I'll call her tomorrow. — Tatawagan ko siya bukas.
+233. I've already called him. — Natawagan ko na siya.
+301. What time did you get there? — Anong oras ka nakarating doon?
+
+Production targets from completed Module 51:
+- Puwede ko ba itong kunin mamaya?
+- Kailan ko ito puwedeng kunin?
+- Hindi pa ito tapos.
+- Kailan matatapos ito?
+- Puwede mo ba akong bigyan ng update?
+
+==================================================
+MODULE 52. DESCRIBING THINGS I
+==================================================
+
+36. My hands are cold. — Malamig ang aking kamay.
+47. It's hot in this room. — Mainit sa kuwarto na ito.
+83. It's raining again. — Umuulan na naman.
+122. Is it dark now? — Madilim ba ngayon?
+158. I'm not ready yet. — Hindi pa ako handa.
+171. There's too much noise. — Masyadong maingay.
+238. This coat is dirty. — Madumi na ang diyaket.
+358. I want my own room. — Gusto ko ng sarili kong kuwarto.
+625. The weather was nice last week. — Maganda ang panahon noong nakaraang linggo.
+1135. His car is dirty. — Madumi ang kotse niya.
+
+Naturalness note:
+47 is corpus-supported but stilted. Production target:
+- Mainit dito sa kuwarto.
+- Mainit sa kuwartong ito.
+
+Target vocabulary:
+malaki, maliit, mainit, malamig, bago, luma, bukas, sarado, madilim, maliwanag, madumi, malinis.
+
+==================================================
+MODULE 53. COLORS / CLOTHES / OBJECTS
+==================================================
+
+100. I have blue eyes. — Kulay asul ang aking mata.
+147. Don't buy those shoes. — Huwag mong bilhin yung sapatos.
+189. Your shoes are nice. Are they new? — Maganda ang iyong mga sapatos. Bago ba iyan?
+238. This coat is dirty. — Madumi na ang diyaket.
+336. This money is all yours. — Sa iyo lahat ng perang ito.
+628. He must not have many clothes. — Malamang kakaunti lang ang mga damit niya.
+1135. His car is dirty. — Madumi ang kotse niya.
+
+Add-on production targets:
+- Anong kulay ito?
+- Asul ito.
+- Gusto ko ang asul na bag.
+- May ibang kulay ba?
+
+==================================================
+MODULE 53.5. NUMBERS / MONEY / TIME
+==================================================
+
+1. How old are you? — Ilang taong gulang ka na?
+18. What time are you leaving? — Anong oras ka aalis?
+52. What time do you have to get up? — Anong oras mo kailangan gumising?
+104. I have to be home by five o'clock. — Kailangan kong makauwi ng alas singko.
+107. What time do the stores close? — Anong oras nagsasara ang mga tindahan?
+120. I have to go to the bank today. — Kailangan kong pumunta sa bangko ngayon.
+256. How much money do you have with you? — Magkano ang dala mong pera?
+295. How much will it cost? — Magkano ang gagastusin?
+624. He's been watching TV since five o'clock. — Alas-singko pa siya nanonood ng telebisyon.
+
+Production targets:
+- Magkano po ito?
+- Ilang tao?
+- Ilang kape?
+- Dalawang kape po.
+- Anong oras?
+- Alas-singko.
+- May sukli po ba?
+
+==================================================
+MODULE 54. FOOD / DRINK / TABLE
+==================================================
+
+68. What shall we have for dinner? — Ano kakainin natin sa hapunan?
+78. I'd like a glass of water. — Gusto ko ng isang basong tubig.
+96. Let's get something to drink. — Maghanap tayo ng maiinom.
+109. I always drink coffee in the morning. — Palagi akong umiinom ng kape sa umaga.
+244. Would you like some coffee? — Gusto mo ba ng kape?
+271. What would you like to drink? — Ano ang gusto mong inumin?
+337. I don't like this soup. — Ayaw ko itong sabaw na ito.
+1129. You haven't eaten yet, have you? — Hindi ka pa kumakain, hindi ba?
+
+Production targets:
+- Gusto ko ng kape.
+- Gusto kong kumain.
+- May kanin ba?
+- Wala nang kanin.
+- Pakiabot mo nga 'yung tubig.
+
+==================================================
+MODULE 55.5. PO-REGISTER / PARTICLES
+==================================================
+
+130. I'm sorry, I don't understand. — Patawad po, hindi ko naintindihan.
+136. Am I late? — Yes, you are late. — Huli na ba ako? — Opo, huli ka na.
+189. Your shoes are nice, aren't they? — Opo, bago ito.
+614. Hello, could I speak to Tomas please? — Hello, puwede ko po bang makausap si Tomas?
+
+Particle anchors:
+17. Just this morning. — Kaninang umaga lang.
+54. I have to go now. — Kailangan ko nang umalis ngayon.
+83. It's raining again. — Umuulan na naman.
+158. I'm not ready yet. — Hindi pa ako handa.
+299. No, he just left. — Wala. Kaaalis lang niya.
+
+Production targets:
+- Pakiulit po.
+- Sandali lang po.
+- Puwede po ba akong magtanong?
+- Sige po.
+- Hindi pa po.
+- Ito lang po.
+
+==================================================
+MODULE 55. SHOPPING / CHOOSING / PAYMENT
+==================================================
+
+78. I'd like a glass of water. — Gusto ko ng isang basong tubig.
+107. What time do the stores close? — Anong oras nagsasara ang mga tindahan?
+120. I have to go to the bank today. — Kailangan kong pumunta sa bangko ngayon.
+147. Don't buy those shoes. — Huwag mong bilhin yung sapatos.
+178. Do you have money? — May pera ka ba.
+246. I need money. — Kailangan ko ng pera.
+462. I'll pay for myself. — Ako na magbabayad para sa sarili ko.
+604. I don't want you to pay for me. — Ayaw kong ikaw ang magbabayad para sa akin.
+621. Where can I buy a bottle of water? — Saan ako makakabili ng isang boteng tubig?
+633. Did you buy anything yesterday? — May binili ka ba kahapon?
+
+Production targets:
+- Magkano po ito?
+- Mahal ba ito?
+- Mura ba 'yan?
+- May mas maliit ba?
+- May ibang kulay ba?
+- May sukli po ba?
+
+==================================================
+MODULE 56. HOME / ROOM / OBJECTS
+==================================================
+
+27. I don't have the key. — Wala sa akin ang susi.
+47. It's hot in this room. — Mainit sa kuwarto na ito.
+80. I can't open the door. — Hindi ko mabuksan ang pintuan.
+126. I can't use my office right now. — Hindi ko magamit ang opisina ngayon.
+309. How do you open this window? — Paano ba buksan ang bintana?
+429. Would you mind closing the door? — Maaari mo bang isara ang pintuan?
+545. I cleaned my room yesterday. — Nilinis ko ang aking kuwarto kahapon.
+1004. Do you want me to turn on the light? — Gusto mo bang buksan ko ang ilaw?
+1249. Do you want me to close the window? — Gusto mo bang isara ko ang bintana?
+
+Natural production targets:
+- Mainit dito sa kuwarto.
+- Puwede mo bang buksan ang pinto?
+- Hindi ko mabuksan ang pinto.
+- Nasaan ang susi?
+
+==================================================
+MODULE 56.5. SELF-INTRODUCTION
+==================================================
+
+1. How old are you? — Ilang taong gulang ka na?
+31. Your English is good. — Magaling ka mag-Ingles.
+123. Where do your parents live? — Saan nakatira ang mga magulang mo?
+141. What does your girlfriend do? — Ano ang ginagawa ng kasintahan mo?
+156. Are you married? — May asawa ka na ba?
+168. What's your job? — Ano ang trabaho mo?
+222. My name's Alan. — Ang pangalan ko ay Alan.
+245. Where were you born? — Saan ka ipinanganak?
+629. I'm Japanese, but my husband isn't. — Isa akong hapon, pero ang asawa ko, hindi.
+1133. Where do you come from? — Saan ka nanggaling?
+
+Production targets:
+- Tagasaan ka?
+- Saan ka nakatira ngayon?
+- May anak ka ba?
+- Anong trabaho mo dati?
+- Kaunti lang po ang Tagalog ko.
+
+==================================================
+MODULE 57. PEOPLE / FAMILY / SOCIAL DESCRIPTION
+==================================================
+
+33. Where's your friend? — Nasaan ang kaibigan mo?
+37. Do you know many people? — Marami ka bang kakilala?
+141. What does your girlfriend do? — Ano ang ginagawa ng kasintahan mo?
+173. There are five people in my family... — May limang tao sa aking pamilya...
+174. She's my sister. — Siya ang ate ko.
+183. They are so nice. — Napakabait nila.
+230. She met them last night. — Nagkita sila kagabi.
+294. Yes, we've already met. — Oo, magkakilala na kami.
+330. No, she's never met him. — Hindi. Hindi pa niya kilala.
+1132. Do you know her? — Kilala mo ba siya?
+
+Production targets:
+- Sino siya?
+- Kaibigan mo ba siya?
+- Mabait siya.
+- Kilala mo ba siya?
+
+==================================================
+MODULE 58+. LISTENING / RESPONSE / MIXED DOMAINS
+==================================================
+
+Use anchors from:
+- repair/clarification
+- food
+- shopping
+- self-intro
+- transport
+- home
+- health
+- social
+
+Listening micro should be written as spoken-style mini-dialogue with one recognition task.

@@ -1,0 +1,31 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Python (scheduler prototype / future scripts)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Node (reserved for any future tooling)
+node_modules/
+
+# Local runtime state that should NOT be versioned once the live system runs.
+# During the planning round these paths are empty; they are listed now so that
+# real learner runtime logs are never committed by accident later.
+# (Versioned *sample/fixture* state lives under .../tests/fixtures and is force-added.)
+**/runtime/
+**/_local/
+*.local.jsonl
+*.local.yaml
+
+# Secrets — never commit credentials
+.env
+*.secret
+secrets/

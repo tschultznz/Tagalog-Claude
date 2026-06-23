@@ -1,0 +1,37 @@
+DATE: 2026-06-23
+CURRENT MODULE: 61 — finished
+NEXT: Module 62
+
+STABLE
+
+friend vs acquaintance: kaibigan / kakilala
+si / sina
+basic family and social descriptions
+mahiyain, madaldal, palakaibigan
+recognition of pa, pa lang, lang, naman, kasi, muna, baka, yata
+medyo, lalo na, kapag, noong una
+short listening interpretation without full translation
+transport basics: nasa taxi pa ako; sa kanto na lang po; directions; near/far
+shopping basics: magkano po ito; bibilhin ko po ito; may ibang kulay po ba
+health basics: may ubo/lagnat; masakit ang ulo/tiyan/lalamunan ko
+time + na akong + condition
+dapat akong + actor verb
+dapat kong + target verb
+magpatingin / magpapatingin
+uminom / ininom / iinumin
+
+WATCH
+
+naman / muna / talaga nuance | MED | last_seen 2026-06-14 | review_due OVERDUE | active
+ilang beses = a few/several times, not once | LOW | last_seen 2026-06-12 | review_due OVERDUE | watch
+baka na-traffic siya | LOW | last_seen 2026-06-14 | review_due OVERDUE | watch
+na lang in decision/driver chunks | MED | last_seen 2026-06-15 | review_due OVERDUE | active
+makarating / makakarating / darating | MED | last_seen 2026-06-14 | review_due OVERDUE | active
+nakasakay sa, not ng | MED | last_seen 2026-06-15 | review_due OVERDUE | active
+bukas pa / sarado na / bukas na lang | MED | last_seen 2026-06-17 | review_due OVERDUE | active
+ka vs mo vs akong in puwede questions | HIGH | last_seen 2026-06-18 | review_due D7 | active
+bumili / bilhin / bilhan | HIGH | last_seen 2026-06-20 | review_due D3 | active
+ubo, not abo | LOW | last_seen 2026-06-23 | review_due D3 | active
+hindi pa ako kumain vs hindi ko pa ito ininom | HIGH | last_seen 2026-06-23 | review_due D3 | active
+dapat akong magpatingin vs magpapatingin ako bukas | HIGH | last_seen 2026-06-23 | review_due D3 | active
+pronoun/clitic placement after hindi / dapat | HIGH | last_seen 2026-06-23 | review_due D3 | active

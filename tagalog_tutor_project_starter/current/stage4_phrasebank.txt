@@ -1,0 +1,365 @@
+STAGE 4B PHRASEBANK — v2 Claude-patched
+Last updated: 2026-05-09
+
+PURPOSE
+This file gives the tutor high-value practical chunks.
+It is an internal selection bank, not an answer key.
+
+PHRASEBANK USE RULE
+Do not paste this file raw into drills.
+Do not give Tom phrase + English meaning as a full answer key before he produces.
+Select useful chunks, then create production prompts with short hints.
+
+LABELS
+[CORPUS] = supported by Glossika corpus
+[ADD-ON] = high-frequency useful addition
+[TAGLISH-NATURAL] = normal code-switched speech in many PH contexts
+[PO-REGISTER] = polite/respectful use
+[CASUAL] = casual with friends/partner
+[NEUTRAL] = safe general speech
+[NATURAL TARGET] = preferred spoken target over stilted corpus phrasing
+
+==================================================
+1. SERVICE / REPAIR MAINTENANCE
+==================================================
+
+[NEUTRAL]
+Kailan ko ito puwedeng kunin?
+- frame: kailan ko ito puwedeng + verb
+- use: ask pickup time
+
+[NEUTRAL]
+Hindi pa ito tapos.
+- frame: hindi pa + pronoun + state
+- use: not finished yet
+
+[NEUTRAL]
+Kailan matatapos ito?
+- frame: kailan + ma-future/result + ito
+- use: ask when it will be finished
+
+[NEUTRAL]
+Maghintay na lang ba ako dito?
+- frame: actor verb + na lang ba + ako
+- use: should I just wait here
+
+[NEUTRAL]
+Balikan ko na lang ba ito mamaya?
+- frame: target verb + ko + na lang ba + object + time
+- use: should I just come back for this later
+
+[NEUTRAL]
+Puwede mo ba akong bigyan ng update?
+- frame: bigyan + person + ng thing
+- use: ask for status update
+
+[NEUTRAL]
+Ibigay mo ang dokumento sa kanya.
+- frame: ibigay + ang thing + sa person
+- use: give the thing to someone
+
+==================================================
+2. DESCRIPTION I: SIZE / STATE / CONDITION
+==================================================
+
+[NATURAL TARGET]
+Mainit dito sa kuwarto.
+- frame: adjective + dito sa + place
+- use: natural room condition
+
+[NEUTRAL]
+Mainit ang kape.
+- frame: adjective + ang + noun
+- use: describe a thing
+
+[NEUTRAL]
+Malamig ang tubig.
+- frame: adjective + ang + noun
+- use: describe drink/temperature
+
+[NEUTRAL]
+Malaki ang kuwarto.
+- frame: adjective + ang + noun
+- use: size
+
+[NEUTRAL]
+Maliit ang bag.
+- frame: adjective + ang + noun
+- use: size
+
+[NEUTRAL]
+Sarado na ba ang tindahan?
+- frame: state + na ba + ang noun
+- use: ask if closed already
+
+[NEUTRAL]
+Bukas pa ba ito?
+- frame: state + pa ba + pronoun
+- use: ask if still open
+
+[NEUTRAL]
+Madilim dito.
+- frame: adjective + place
+- use: describe environment
+
+==================================================
+3. COLORS / CLOTHES / OBJECTS
+==================================================
+
+[NEUTRAL]
+Anong kulay ito?
+- frame: anong kulay + pronoun
+- use: ask color
+
+[NEUTRAL]
+Asul ito.
+- frame: color + pronoun
+- use: answer color
+
+[NEUTRAL]
+Gusto ko ang asul na bag.
+- frame: gusto ko ang + adjective/linker + noun
+- use: choose item
+
+[NEUTRAL]
+Nasaan ang itim na sapatos?
+- frame: nasaan ang + color/linker + noun
+- use: locate object
+
+[NEUTRAL]
+May ibang kulay ba?
+- frame: may + adjective/linker + noun + ba
+- use: ask other color
+
+==================================================
+4. NUMBERS / MONEY / TIME
+==================================================
+
+[PO-REGISTER]
+Magkano po ito?
+- frame: magkano + po + ito
+- use: price question
+
+[PO-REGISTER]
+May sukli po ba?
+- frame: may + noun + po ba
+- use: ask if there is change
+
+[NEUTRAL]
+Ilang tao?
+- frame: ilang + noun
+- use: count people
+
+[NEUTRAL]
+Dalawang kape po.
+- frame: number/linker + noun + po
+- use: order quantity politely
+
+[NEUTRAL]
+Anong oras?
+- frame: anong oras
+- use: ask time
+
+[NEUTRAL]
+Alas-singko.
+- frame: alas + Spanish-derived time
+- use: time
+
+[NEUTRAL]
+Bukas ng umaga.
+- frame: day + ng + time period
+- use: tomorrow morning
+
+==================================================
+5. FOOD / DRINK / TABLE
+==================================================
+
+[CORPUS]
+Gusto ko ng isang basong tubig.
+- frame: gusto ko ng + item
+- use: order/request water
+
+[CORPUS]
+Gusto mo ba ng kape?
+- frame: gusto mo ba ng + item
+- use: offer
+
+[CORPUS]
+Ano ang gusto mong inumin?
+- frame: ano ang gusto mong + verb
+- use: ask drink preference
+
+[CORPUS]
+Gusto ko nang kumain.
+- frame: gusto ko nang + verb
+- use: want to eat now/already
+
+[CORPUS]
+Ano ang kakainin natin?
+- frame: ano ang + OF future + natin
+- use: what will we eat
+
+[ADD-ON]
+May kanin ba?
+- frame: may + noun + ba
+- use: ask availability
+
+[ADD-ON]
+Wala nang kanin.
+- frame: wala nang + noun
+- use: no more / none left
+
+[ADD-ON]
+Pakiabot mo nga 'yung tubig.
+- frame: paki- + verb + mo nga + object
+- use: natural table request
+
+[TAGLISH-NATURAL]
+Paki-order nito.
+- frame: paki- + English verb + object
+- use: natural casual ordering request
+
+[PURE TAGALOG OPTION]
+Puwede mo bang i-order ito?
+- frame: puwede mo bang + borrowed i-verb + object
+- use: still Taglish but structured
+
+==================================================
+6. SHOPPING / CHOOSING
+==================================================
+
+[PO-REGISTER]
+Magkano po iyan?
+- frame: magkano + po + deictic
+- use: vendor question
+
+[CASUAL]
+Mura ba 'yan?
+- frame: adjective + ba + deictic
+- use: spoken casual "is that cheap?"
+
+[NEUTRAL]
+Mahal ba ito?
+- frame: adjective + ba + pronoun
+- use: expensive?
+
+[NEUTRAL]
+May mas maliit ba?
+- frame: may + mas + adjective + ba
+- use: ask smaller option
+
+[NEUTRAL]
+May ibang kulay ba?
+- frame: may + ibang + noun + ba
+- use: other colors?
+
+[PO-REGISTER]
+Puwede po ba akong magpabarya?
+- frame: puwede po ba akong + verb
+- use: ask for change
+
+==================================================
+7. PO-REGISTER / PARTICLES
+==================================================
+
+[PO-REGISTER]
+Pakiulit po.
+- frame: paki- + verb + po
+- use: please repeat
+
+[PO-REGISTER]
+Sandali lang po.
+- frame: time/short delay + lang + po
+- use: just a moment
+
+[PO-REGISTER]
+Puwede po ba akong magtanong?
+- frame: puwede po ba akong + verb
+- use: polite ask
+
+[CASUAL]
+Sige.
+- frame: discourse marker
+- use: okay / go ahead
+
+[PO-REGISTER]
+Sige po.
+- frame: discourse marker + po
+- use: polite okay
+
+[CASUAL]
+Talaga?
+- frame: particle/discourse
+- use: really?
+
+[NEUTRAL]
+Trapiko kasi.
+- frame: noun + kasi
+- use: because traffic / explanation
+
+[CASUAL]
+Okay naman.
+- frame: adjective + naman
+- use: soft "it's okay"
+
+==================================================
+8. SELF-INTRODUCTION
+==================================================
+
+[NEUTRAL]
+Tagasaan ka?
+- frame: taga-saan + ka
+- use: where are you from
+
+[NEUTRAL]
+Saan ka nakatira ngayon?
+- frame: saan + pronoun + nakatira + time
+- use: where do you live now
+
+[NEUTRAL]
+Ilang taong gulang ka na?
+- frame: ilang taong gulang + pronoun + na
+- use: age
+
+[NEUTRAL]
+May anak ka ba?
+- frame: may + noun + ka ba
+- use: children?
+
+[NEUTRAL]
+Anong trabaho mo dati?
+- frame: ano-ng + noun + possessor + time
+- use: former work
+
+[PO-REGISTER]
+Kaunti lang po ang Tagalog ko.
+- frame: amount + lang + po + ang + noun
+- use: polite ability disclaimer
+
+[PO-REGISTER]
+Dahan-dahan lang po.
+- frame: slowly + lang + po
+- use: ask slow speech
+
+==================================================
+9. TAGLISH-NATURAL CONTROLLED CHUNKS
+==================================================
+
+[TAGLISH-NATURAL]
+I-text mo ako.
+- use: text me
+
+[TAGLISH-NATURAL]
+Magte-text ako mamaya.
+- use: I will text later
+
+[TAGLISH-NATURAL]
+Nag-grocery ako.
+- use: I went grocery shopping
+
+[TAGLISH-NATURAL]
+Sige, later na lang.
+- use: okay, later instead
+
+Teaching rule:
+Always label Taglish. Give pure Tagalog alternative only if it is genuinely useful.
