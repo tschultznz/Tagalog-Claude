@@ -19,7 +19,7 @@ node_modules/
 # Local runtime state that should NOT be versioned once the live system runs.
 # During the planning round these paths are empty; they are listed now so that
 # real learner runtime logs are never committed by accident later.
-# (Versioned *sample/fixture* state lives under .../tests/fixtures and is force-added.)
+# (Versioned sample/fixture state lives under tests/fixtures and is committed.)
 **/runtime/
 **/_local/
 *.local.jsonl
@@ -29,3 +29,6 @@ node_modules/
 .env
 *.secret
 secrets/
+
+# Git transport artifact (delivered alongside the repo, not part of it)
+*.bundle

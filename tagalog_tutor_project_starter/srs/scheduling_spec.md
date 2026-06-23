@@ -1,6 +1,6 @@
 # Scheduling Spec — FSRS-lite v0.1
 
-Status: planning draft. Defines the **transparent, no-API** scheduler. Every constant is named and versioned (`scheduler_version: "fsrs-lite-0.1"`); the math is deliberately simple enough to audit by hand and to run as a ~150-line deterministic script (`srs/scheduler.py`, validated in the PoC). It captures FSRS's *shape* (stability / difficulty / retrievability, desirable-difficulty bonus, lapses) without trained weights, so the design satisfies "no opaque scoring" and can later be swapped for true FSRS without re-modelling items (same stored fields).
+Status: planning draft. Defines the **transparent, no-API** scheduler. Every constant is named and versioned (`scheduler_version: "fsrs-lite-0.1"`); the math is deliberately simple enough to audit by hand and to run as a ~120-line deterministic script (`srs/scheduler.py`, validated in the PoC). It captures FSRS's *shape* (stability / difficulty / retrievability, desirable-difficulty bonus, lapses) without trained weights, so the design satisfies "no opaque scoring" and can later be swapped for true FSRS without re-modelling items (same stored fields).
 
 References `srs/item_schema.json` for `srs_state`. Applies independently to each schedulable unit (exact item, skill-modality, scene) in each modality.
 
@@ -44,7 +44,7 @@ S_init(again)=0.5  S_init(hard)=1.0  S_init(good)=2.5  S_init(easy)=5.0
 D_init = 5.0
 ```
 
-## 6. Success update (grade ∈ {hard, good, easy})
+## 6. Success update (grade in {hard, good, easy})
 ```
 S_new = S * (1 + Δ)
 Δ = SC * hardness(D) * spacing(R) * w_grade * w_hint * w_modality
@@ -77,11 +77,11 @@ A failed delayed retrieval of a previously-stable item is the most informative e
 
 ## 8. Mastery gate ("stable")
 A **skill** becomes `stable` only when ALL hold (matches the project's mastery bar; backed by retrieval + receptive≠productive evidence):
-1. `unaided_delayed_production` — ≥1 `pass` with `hint=none` after an inter-session gap ≥ 7 days,
-2. `scene_use` — ≥1 `pass` inside a scene/messy-speaking attempt,
-3. `listening_check` — ≥1 recognition pass in the listening modality,
-4. `variation_handled` — ≥1 pass on a different exact item exercising the same skill,
-5. production-track `S ≥ 21` days.
+1. `unaided_delayed_production` — at least 1 `pass` with `hint=none` after an inter-session gap >= 7 days,
+2. `scene_use` — at least 1 `pass` inside a scene / messy-speaking attempt,
+3. `listening_check` — at least 1 recognition pass in the listening modality,
+4. `variation_handled` — at least 1 pass on a different exact item exercising the same skill,
+5. production-track `S >= 21` days.
 Recognition/listening passes alone can raise their own modality state but **cannot** satisfy gate 1 or push production S.
 
 ## 9. Selection (what a session pulls), with load throttle
@@ -95,18 +95,32 @@ NEW_RATIO_CAP = 0.35   # new material <= 35% of the session
 
 **Interleaving:** when two `confusable_with` skills are both due, the selector pulls both into the same session and alternates their prompts rather than blocking.
 
-## 10. Worked example (the proof-of-concept; full numbers in tests/)
-Skill `skill.modal.base_form`, currently `S=3.0, D=6.0, last_review=2026-06-20`, reviewed `2026-06-23` (t=3, so R≈0.90). Tom fails (`Dapat akong magpapatingin`).
+## 10. Worked example (the proof-of-concept) — numbers VALIDATED by `tests/test_poc_flow.py`
+Date today = 2026-06-23. Tom is prompted for `Dapat akong magpatingin.` and says `Dapat akong magpapatingin.`
+
+Skill `skill.modal.base_form` (`S=3.0, D=6.0, last_review=2026-06-20`, t=3, so R=0.90) — **fails**:
 ```
-fail -> S_new = max(0.5, 3.0*0.3) = 0.9 ; lapses+1 ; D -> 6.0+0.8+0.05*(5-6.8)=6.71
-due  = 2026-06-23 + interval(0.9,0.90)= +1 day -> 2026-06-24 (relearn)
+fail -> S_new = max(0.5, 3.0*0.3) = 0.9 ; lapses 2->3 ; D -> 6.0+0.8+0.05*(5-6.0)=6.75
+due  = 2026-06-23 + round(interval(0.9)) = +1 day -> 2026-06-24 (relearn) ; status lapsed
 ```
-Same attempt, skill `skill.voice.actor` `S=8,D=4` passes unaided:
+Same attempt, skill `skill.voice.actor` (`S=8.0, D=4.0, last_review=2026-06-14`, t=9, R=0.8895) — **passes unaided**:
 ```
-good,unaided,production: spacing(R≈0.9)=0.10 ; Δ=2.0*(0.7)*0.10*1.0*1.0*1.0=0.14
-S_new = 8*1.14 = 9.12 ; due = +9 days
+good, hint=none, production: spacing = 1-0.8895 = 0.1105 ; hardness=(11-4)/10=0.7
+Δ = 2.0 * 0.7 * 0.1105 * 1.0(good) * 1.0(none) * 1.0(prod) = 0.1547
+S_new = 8.0 * 1.1547 = 9.238 ; due = +9 days -> 2026-07-02
 ```
-So one answer pushes the actor-voice skill out to 9 days while pulling the modal-base-form skill back to 1 day — exactly the partial-credit behavior the project requires. Numbers reproduced by `srs/scheduler.py` in the PoC.
+All six skills from this one attempt (validated outputs):
+
+| skill | outcome | S before->after | due |
+|---|---|---|---|
+| voice.actor | pass | 8.000 -> 9.238 | 2026-07-02 |
+| causative.magpa | pass | 6.000 -> 7.008 | 2026-06-30 |
+| clitic.second_position | pass | 5.000 -> 5.600 | 2026-06-29 |
+| lex.health | pass | 4.000 -> 4.374 | 2026-06-27 |
+| modal.base_form | fail | 3.000 -> 0.900 | 2026-06-24 |
+| aspect.contemplated | fail | 2.000 -> 0.600 | 2026-06-24 |
+
+One answer moves four skills out and two skills back — exactly the partial-credit behavior the project requires. The test also asserts: failed items cannot be `stable`; later review (lower R) yields more gain (desirable difficulty); scaffolded passes earn less S than unaided (hints priced); recognition moves the production track less than production does; and the unaided 9-day recall of `voice.actor` registers a delayed-recall XP win. Reproduce with `python3 tests/test_poc_flow.py`.
 
 ## 11. Constants table (versioned — change = new scheduler_version)
 `TARGET_R 0.90 · DECAY -0.5 · FACTOR 19/81 · SC 2.0 · LAPSE_MULT 0.3 · S_MIN 0.5 · D_init 5.0 · leech_lapses 4 · MAX_DUE 12 · NEW_RATIO_CAP 0.35 · stable_S 21 · delayed_gap_days 7`
