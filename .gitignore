@@ -32,3 +32,9 @@ secrets/
 
 # Git transport artifact (delivered alongside the repo, not part of it)
 *.bundle
+
+# Live SQLite database (the teacher's runtime memory; never versioned).
+# Only migrations and deterministic exports are committed.
+*.db
+*.sqlite
+*.sqlite3
