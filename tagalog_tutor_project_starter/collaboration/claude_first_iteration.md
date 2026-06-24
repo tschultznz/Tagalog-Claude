@@ -129,12 +129,8 @@ In order: `architecture/TUTOR_VS_TOOL_BOUNDARY.md` (the governing idea), `archit
 
 ## 20. Git
 
-Commit SHAs, branch, and push status are recorded in section 21 after the commits are made.
+Logical commits on branch `main`, pushed to `github.com/tschultznz/Tagalog-Claude`. The previous round (commit `8b9411f`) was the parent. Push succeeded; the remote head advanced from `8b9411f` to `9e09b39`, then to the SHA-record commit below.
 
 ## 21. Commit record
 
-To be finalized in the last commit of this round.
-
-- Branch: main
-- Remote: origin (github.com/tschultznz/Tagalog-Claude)
-- Commits: recorded below once pushed.
+Branch `
